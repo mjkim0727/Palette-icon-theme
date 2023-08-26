@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   sodipodi:docname="edit-find-replace-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="51.875"
+     inkscape:cx="7.7686747"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     d="M 2,11.32 V 14 H 4.67 L 11.42,7.25 8.75,4.57 Z M 13.79,4.8899999 c 0.28,-0.28 0.28,-0.7299999 0,-1.0099998 L 12.12,2.2099999 c -0.29,-0.28 -0.73,-0.28 -1.01,0 L 9.7099999,3.6100001 12.38,6.2899999 Z M 6.5,1 C 3.4624339,1 1,3.462434 1,6.5 1.00264,7.713286 1.4064004,8.8916487 2.1484,9.8516 L 3.5781,8.4219001 C 3.2019182,7.8514359 3.0009547,7.1833308 3,6.5 3,4.5670035 4.5670034,3 6.5,3 7.1833308,3.0009547 7.851436,3.2019182 8.4219,3.5781 L 9.8534999,2.1465 C 8.8927893,1.4047838 7.7137155,1.0016801 6.5,1 Z m 5.18,7.3203 -3.3655,3.3657 c 0.4613783,-0.159551 0.8994604,-0.37982 1.3027,-0.655 l 3.6618,3.662 c 0.188559,0.196161 0.448909,0.307017 0.721,0.307 0.552285,0 1,-0.447715 1,-1 -1.9e-5,-0.270113 -0.109309,-0.528731 -0.303,-0.717 L 11.027,9.6133001 C 11.300719,9.2129738 11.52029,8.778204 11.68,8.3203 Z"
+     style="fill:#4d4d4d;fill-opacity:1"
+     id="path348" />
+</svg>

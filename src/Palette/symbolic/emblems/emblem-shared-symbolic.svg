@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   sodipodi:docname="emblem-shared-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="51.875"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     id="path345"
+     style="fill:#4d4d4d;fill-opacity:1"
+     d="M 12 0 C 10.340002 0 9 1.3500017 9 3 C 9 3.2299997 9.0398438 3.4401565 9.0898438 3.6601562 L 5.8691406 5.6601562 C 5.3591411 5.2501567 4.7099993 5 4 5 C 2.3400017 5 1 6.3500016 1 8 C 1 9.6599987 2.3400017 11 4 11 C 4.7099993 11 5.3608599 10.759609 5.8808594 10.349609 L 9.0898438 12.349609 C 9.0398438 12.559609 9 12.77 9 13 C 9 14.659998 10.340002 16 12 16 C 13.659998 16 15 14.659998 15 13 C 15 11.350002 13.659998 10 12 10 C 11.290001 10 10.640859 10.250157 10.130859 10.660156 L 6.9101562 8.6601562 C 6.9601562 8.4401565 7 8.2299998 7 8 C 7 7.7700002 6.9601562 7.5596092 6.9101562 7.3496094 L 10.130859 5.3496094 C 10.640859 5.759609 11.290001 6 12 6 C 13.659998 6 15 4.6599983 15 3 C 15 1.3500017 13.659998 0 12 0 z M 12 2 A 1 1 0 0 1 13 3 A 1 1 0 0 1 12 4 A 1 1 0 0 1 11 3 A 1 1 0 0 1 12 2 z M 4 7 A 1 1 0 0 1 5 8 A 1 1 0 0 1 4 9 A 1 1 0 0 1 3 8 A 1 1 0 0 1 4 7 z M 12 12 A 1 1 0 0 1 13 13 A 1 1 0 0 1 12 14 A 1 1 0 0 1 11 13 A 1 1 0 0 1 12 12 z " />
+</svg>

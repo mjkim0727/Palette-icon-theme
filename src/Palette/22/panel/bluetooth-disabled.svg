@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   sodipodi:docname="bluetooth-disabled.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="37.727273"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
+  <path
+     d="m 9.9257817,3.0029418 c -0.124722,0.00915 -0.246621,0.04052 -0.359375,0.094609 -0.345995,0.1665116 -0.566107,0.5164138 -0.566407,0.9003906 V 6.0272383 L 11,7.585832 V 6.0799731 l 2.384766,1.9082031 -0.935547,0.7285157 1.626953,1.2675781 1.537109,-1.1972656 c 0.510532,-0.3966166 0.516275,-1.1661205 0.01172,-1.5703125 l -5,-4.0000001 C 10.427419,3.0593528 10.177622,2.9836934 9.9257817,3.0029418 Z M 5.2324219,5.1209888 4,6.6971607 8.9999997,10.597551 v 0.800781 L 5.3867188,14.20888 c -0.435458,0.338893 -0.5141219,0.966456 -0.1757813,1.402343 0.338893,0.435458 0.9664565,0.514122 1.4023437,0.175781 l 2.3867185,-1.855468 v 4.066406 c -3.5e-4,0.838869 0.970049,1.305407 1.6250003,0.78125 l 4.380859,-3.503906 1.761719,1.373047 L 18,15.072161 Z M 11.142578,12.263568 13.382812,14.009661 11,15.915911 v -3.541015 z"
+     style="opacity:0.35;fill:currentColor;fill-opacity:1"
+     id="path345"
+     class="ColorScheme-Text" />
+</svg>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   sodipodi:docname="weather-showers-scattered-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="51.875"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     d="M 10.5,8 8.75,9.75 C 8.3,10.2 8,10.81 8,11.5 8,12.87 9.13,14 10.5,14 11.87,14 13,12.87 13,11.5 13,10.81 12.7,10.2 12.25,9.75 Z m -5,2 -1.75,1.75 C 3.3,12.2 3,12.81 3,13.5 3,14.87 4.13,16 5.5,16 6.87,16 8,14.87 8,13.5 8,12.81 7.7,12.2 7.25,11.75 Z"
+     style="fill:#4d4d4d;fill-opacity:1"
+     id="path4730" />
+  <path
+     d="m 8.554706,4e-5 c -2.0961,0.0034 -3.8046,1.2776 -4.7988,3 L 3.6895,3.078165 3.5352,3.123087 C 1.5205,3.537877 0,5.318287 0,7.476587 c 0,1.8122 1.0545,3.4149 2.584,4.1289 0.13602,-0.20441 0.29009,-0.39361 0.45898,-0.5625 L 4.10158,9.9843871 C 2.93198,9.8491471 1.99998,8.799187 1.99998,7.476587 c 0,-1.3542 0.99177,-2.4161 2.1973,-2.5039 L 4.90822,4.921906 5.209,4.269566 v -0.00195 c 0.6204,-1.3579 1.877,-2.2662 3.3516,-2.2676 h 0.00391 c 1.998,0.0014 3.6325,1.6653 3.7285,3.8125 v 0.015625 l 0.05664,0.75195 0.67774,0.28906 c 0.5896,0.25166 0.97265,0.83437 0.97265,1.4941 0,0.52386 -0.22266,0.97716 -0.56445,1.2734 0.34549,0.53075 0.56445,1.1671 0.56445,1.8633 0,0.04631 -0.0021,0.09278 -0.0039,0.13867 1.1902,-0.59398 2.0039,-1.8564999 2.0039,-3.2754 0,-1.2388 -0.71478,-2.2929 -1.7344,-2.9531 L 14.20314,5.35934 14.16017,5.1777 C 13.76477,2.3059 11.47647,0.002 8.56057,0 Z"
+     style="fill:#4d4d4d;-inkscape-stroke:none;paint-order:markers fill stroke;fill-opacity:1"
+     id="path4935" />
+</svg>

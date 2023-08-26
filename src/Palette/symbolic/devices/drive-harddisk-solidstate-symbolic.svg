@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   sodipodi:docname="drive-harddisk-solidstate-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="51.875"
+     inkscape:cx="7.9903614"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     id="rect339"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-width:4;stroke-linecap:square"
+     d="M 3 0 C 1.8920033 0 1 0.89200332 1 2 L 1 14 C 1 15.107997 1.8920033 16 3 16 L 13 16 C 14.107997 16 15 15.107997 15 14 L 15 2 C 15 0.89200332 14.107997 0 13 0 L 3 0 z M 3 2 L 13 2 L 13 14 L 3 14 L 3 2 z M 5 11 A 1 1 0 0 0 4 12 A 1 1 0 0 0 5 13 A 1 1 0 0 0 6 12 A 1 1 0 0 0 5 11 z " />
+</svg>
