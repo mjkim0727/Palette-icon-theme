@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   sodipodi:docname="audio-speakers.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="3.2421875"
+     inkscape:cx="128"
+     inkscape:cy="128"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     showguides="false" />
+  <defs
+     id="defs2" />
+  <path
+     id="path303"
+     style="opacity:0.2;fill:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+     d="M 128,18 A 112,112 0 0 0 70.710936,34 H 52 C 40.920012,34 32,42.920012 32,54 V 72.710936 A 112,112 0 0 0 16,130 112,112 0 0 0 32,187.28906 V 206 c 0,11.07998 8.920012,20 20,20 H 70.710936 A 112,112 0 0 0 128,242 112,112 0 0 0 185.28906,226 H 204 c 11.07998,0 20,-8.92002 20,-20 V 187.28906 A 112,112 0 0 0 240,130 112,112 0 0 0 224,72.320312 V 54 C 224,42.920012 215.07998,34 204,34 H 185.67969 A 112,112 0 0 0 128,18 Z" />
+  <path
+     id="path305"
+     style="opacity:1;fill:#4f4f4f;fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+     d="M 128,16 C 107.81059,16.07228 88.016128,21.60058 70.710936,32 H 52 C 40.920012,32 32,40.920012 32,52 V 70.710936 C 21.60058,88.016128 16.072277,107.81059 16,128 c 0.07228,20.18941 5.60058,39.98387 16,57.28906 V 204 c 0,11.07998 8.920012,20 20,20 H 70.710936 C 88.016128,234.39942 107.81059,239.92772 128,240 c 20.18941,-0.0722 39.98387,-5.60058 57.28906,-16 H 204 c 11.07998,0 20,-8.92002 20,-20 V 185.28906 C 234.39942,167.98387 239.92772,148.18941 240,128 239.99834,107.67792 234.46748,87.739236 224,70.320312 V 52 C 224,40.920012 215.07998,32 204,32 H 185.67969 C 168.26076,21.532528 148.32208,16.001657 128,16 Z" />
+  <path
+     id="path938"
+     style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+     d="M 128,16 C 107.81063,16.07228 88.016096,21.600602 70.710936,32 H 52 C 40.920036,32 32,40.920036 32,52 v 2 C 32,42.920024 40.920024,34 52,34 H 70.710936 C 88.016112,23.60059 107.81061,18.072276 128,18 c 20.32206,0.0017 40.26078,5.53254 57.67969,16 H 204 c 11.07998,0 20,8.920024 20,20 V 52 C 224,40.920036 215.07996,32 204,32 H 185.67969 C 168.2608,21.53255 148.32204,16.001657 128,16 Z m 96,54.320312 v 2 c 10.28858,17.121244 15.77374,36.679328 15.96094,56.640628 0.016,-0.31996 0.038,-0.63956 0.039,-0.96094 -0.002,-20.32204 -5.53256,-40.260796 -16,-57.679688 z M 32,70.710952 C 21.6006,88.016096 16.072276,107.81063 16,128 c 0.0012,0.3266 0.02212,0.65144 0.03908,0.97656 C 16.291793,109.14318 21.776882,89.722756 32,72.710936 Z" />
+  <circle
+     style="fill:#333333;stroke-width:5.5"
+     id="path1406"
+     cx="128"
+     cy="128"
+     r="88" />
+  <circle
+     style="fill:#4d4d4d;stroke-width:5.8462"
+     id="path1678"
+     cx="128"
+     cy="128"
+     r="76" />
+  <circle
+     style="fill:#fec006;fill-opacity:1;stroke-width:49.4028;stroke-linecap:round;stroke-linejoin:round"
+     id="path2453"
+     cx="128"
+     cy="128"
+     r="68" />
+  <path
+     id="path1718"
+     style="opacity:1;fill:#868686;fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+     d="m 52,44 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 8,8 0 0 0 -8,-8 z m 152,0 c -4.41827,0 -8,3.581728 -8,8 0,4.418272 3.58173,8 8,8 4.41828,0 8,-3.581728 8,-8 0,-4.418272 -3.58172,-8 -8,-8 z M 52,196 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 8,8 0 0 0 -8,-8 z m 152,0 c -4.41827,0 -8,3.58173 -8,8 0,4.41828 3.58173,8 8,8 4.41828,0 8,-3.58172 8,-8 0,-4.41827 -3.58172,-8 -8,-8 z" />
+  <circle
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:16;stroke-linecap:square"
+     id="path1659"
+     cx="128"
+     cy="130"
+     r="32" />
+  <circle
+     style="fill:#3f3f3f;fill-opacity:1;stroke-width:165.425;stroke-linecap:round;stroke-linejoin:round"
+     id="path3261"
+     cx="128"
+     cy="128"
+     r="32" />
+</svg>

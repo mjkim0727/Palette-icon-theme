@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   sodipodi:docname="weather-few-clouds-night-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="51.875"
+     inkscape:cx="7.9903614"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     d="M 11,7 C 9.6442,7 8.598,7.90846 8.0547,9.0625 6.8906,9.51036 6,10.5314 6,11.8574 6,13.5453 7.3164,15 9,15 h 4 c 1.6836,0 3,-1.4547 3,-3.1426 C 16,10.5304 15.10886,9.5077 13.9434,9.0605 13.40248,7.9032 12.3531,7 11,7 Z m 0,2 c 0.57908,0 1.0932,0.41268 1.2949,1.0449 l 0.19141,0.59961 0.62305,0.08594 c 0.46769,0.06518 0.89062,0.50872 0.89062,1.127 0,0.67906 -0.47447,1.1426 -1,1.1426 h -4 c -0.52553,0 -1,-0.46352 -1,-1.1426 0,-0.61823 0.42294,-1.0618 0.89062,-1.127 L 9.50779,10.64451 9.7031,10.05076 C 9.91332,9.40801 10.4209,8.99996 11,8.99996 Z M 7.834,1.334 C 4.058,1.334 1,4.4093 1,8.168 c -2.2e-7,3.2236 2.257,5.9371 5.2695,6.6484 C 5.57854,14.1143 5.1344,13.1635 5.0664,12.1348 3.8157,11.26401 3,9.817 3,8.168 3,6.5714 3.80694,5.2318 4.9863,4.3535 4.63031,5.16194 4.33182,6.008 4.33396,6.918 c 0,1.2832 0.3878,2.4713 1.0449,3.4688 C 5.67805,9.7367 6.16287,9.1944 6.74216,8.7813 6.48082,8.21599 6.33396,7.5852 6.33396,6.918 V 6.9141 C 6.32994,5.4 7.0978,3.9922 8.37306,3.1758 9.213,2.63679 8.83201,1.3351 7.834,1.334 Z"
+     style="fill:#dfdfdf;fill-opacity:1;stroke-width:2;-inkscape-stroke:none"
+     id="path3728" />
+</svg>

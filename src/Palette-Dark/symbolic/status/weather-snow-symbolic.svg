@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   sodipodi:docname="weather-snow-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="51.875"
+     inkscape:cx="8.0192771"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     d="M 8.5543,0 C 6.4582,0.0034 4.7497,1.2776 3.7555,3 L 3.6895,3.07813 3.5352,3.12305 C 1.5205,3.53784 0,5.31825 0,7.47655 c 0,2.4524998 1.9306,4.5234 4.3574,4.5234 h 8.125 c 1.9632,0 3.5176,-1.6723 3.5176,-3.6367 0,-1.2388 -0.7148,-2.2929 -1.7344,-2.9531 L 14.2036,5.35935 14.1606,5.1777 C 13.7652,2.3059 11.4769,0.002 8.561,0 v 0 z m 0.01,2 v 0 c 1.998,0.0014 3.6325,1.6653 3.7285,3.8125 v 0.0156 l 0.057,0.75195 0.6777,0.28906 c 0.5896,0.25166 0.9727,0.83433 0.9727,1.4941 0,0.9265 -0.6947,1.6366998 -1.5176,1.6366998 h -8.125 c -1.2868,0 -2.3574,-1.1054998 -2.3574,-2.5233998 0,-1.3542 0.9918,-2.4161 2.1973,-2.5039 L 4.9084,4.92183 5.2092,4.26949 v -0.002 c 0.6204,-1.3579 1.8769,-2.2662 3.3515,-2.2676 z"
+     style="fill:#dfdfdf"
+     id="path4554" />
+  <path
+     d="m 3.00042,12 v 1.1328 L 2.018,12.5664 l -0.5,0.86718 0.98047,0.56641 -0.98047,0.56641 0.5,0.86718 0.98242,-0.5664 v 1.1328 h 1 v -1.1328 l 0.98242,0.5664 0.5,-0.86718 -0.98047,-0.56641 0.98047,-0.56641 -0.5,-0.86718 -0.98242,0.5664 V 12 Z m 10,0 v 1.1328 l -0.98242,-0.5664 -0.5,0.86718 0.98047,0.56641 -0.98047,0.56641 0.5,0.86718 0.98242,-0.5664 v 1.1328 h 1 v -1.1328 l 0.98242,0.5664 0.5,-0.86718 -0.98047,-0.56641 0.98047,-0.56641 -0.5,-0.86718 -0.98242,0.5664 V 12 Z m -5,0 v 1.1328 L 7.018,12.5664 l -0.5,0.86718 0.98047,0.56641 -0.98047,0.56641 0.5,0.86718 0.98242,-0.5664 v 1.1328 h 1 v -1.1328 l 0.98242,0.5664 0.5,-0.86718 -0.98047,-0.56641 0.98047,-0.56641 -0.5,-0.86718 -0.98242,0.5664 V 12 Z"
+     style="opacity:0.35;fill:#dfdfdf;fill-opacity:1"
+     id="path5853" />
+</svg>
