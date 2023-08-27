@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="96"
+   height="96"
+   viewBox="0 0 96 96"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   sodipodi:docname="system-file-manager.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="8.6458333"
+     inkscape:cx="48"
+     inkscape:cy="48"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:6;stroke-linecap:square"
+     id="rect234"
+     width="84"
+     height="84"
+     x="6"
+     y="7"
+     ry="18" />
+  <rect
+     style="fill:#efefef;fill-opacity:1;stroke-width:6;stroke-linecap:square"
+     id="rect396"
+     width="84"
+     height="84"
+     x="6"
+     y="6"
+     ry="18" />
+  <path
+     d="m 22.000071,22.999997 c -2.215992,0 -3.999989,1.783998 -3.999989,3.99999 v 43.999882 c 0,2.215992 1.783997,3.999989 3.999989,3.999989 h 51.999861 c 2.215992,0 3.999989,-1.783997 3.999989,-3.999989 V 32.999971 c 0,-2.215993 -1.783997,-3.99999 -3.999989,-3.99999 H 47.99984 l -1.999995,-2.999992 c -1.229211,-1.843817 -1.783997,-2.999992 -3.999989,-2.999992 z"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:3.99999;stroke-linecap:square"
+     id="path2595"
+     sodipodi:nodetypes="scsssssscsss" />
+  <path
+     d="m 22.000233,22 c -2.215992,0 -3.999989,1.783997 -3.999989,3.999989 0.02586,13.306621 0,30.638184 0,43.999882 0,2.215993 1.783997,3.99999 3.999989,3.99999 h 51.999699 c 2.215992,0 3.999989,-1.783997 3.999989,-3.99999 V 31.999973 c 0,-2.215992 -1.783997,-3.999989 -3.999989,-3.999989 H 48.000002 L 46.000007,24.999992 C 44.770796,23.156175 44.21601,22 42.000018,22 Z"
+     style="fill:#1f6ca9;fill-opacity:1;stroke-width:3.99999;stroke-linecap:square"
+     id="path2567" />
+  <path
+     id="path2855"
+     style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke-width:3.99999;stroke-linecap:square"
+     d="m 22.000071,22 c -2.215988,0 -3.999989,1.784001 -3.999989,3.999989 3.22e-4,0.16586 1.54e-4,0.582451 0,0.999998 0,-2.21599 1.783999,-3.99999 3.999989,-3.99999 h 19.999947 c 2.21599,0 2.77078,1.156177 3.999989,2.999992 l 1.999995,2.999992 h 25.99993 c 2.21599,0 3.999989,1.783999 3.999989,3.99999 v -0.999998 c 0,-2.215988 -1.784003,-3.999989 -3.999989,-3.999989 H 48.000002 L 46.000007,24.999992 C 44.770798,23.156179 44.216004,22 42.000018,22 Z" />
+  <rect
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:3.99999;stroke-linecap:square"
+     id="rect2667"
+     width="59.99984"
+     height="37.999897"
+     x="18.000242"
+     y="34.999966"
+     ry="3.9999893" />
+  <rect
+     style="fill:#f2f2f2;fill-opacity:1;stroke-width:3.99999;stroke-linecap:square"
+     id="rect3435"
+     width="51.999859"
+     height="24.999933"
+     x="22.000071"
+     y="31.999975"
+     ry="1.9999946" />
+  <rect
+     style="fill:#2196f3;fill-opacity:1;stroke-width:3.99999;stroke-linecap:square"
+     id="rect2727"
+     width="59.99984"
+     height="37.999897"
+     x="18.000242"
+     y="35.999958"
+     ry="3.9999893" />
+  <path
+     id="path1040"
+     style="opacity:0.2;fill:#ffffff;stroke-width:6;stroke-linecap:square"
+     d="M 24,6 C 14.02803,6 6,14.02803 6,24 v 1 C 6,15.02801 14.02801,7 24,7 h 48 c 9.97199,0 18,8.02801 18,18 V 24 C 90,14.02803 81.971968,6 72,6 Z" />
+</svg>

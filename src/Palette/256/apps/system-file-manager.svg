@@ -44,7 +44,7 @@
      y="18"
      ry="48" />
   <rect
-     style="fill:#f5f5f5;fill-opacity:1;stroke-width:16;stroke-linecap:square"
+     style="fill:#efefef;fill-opacity:1;stroke-width:16;stroke-linecap:square"
      id="rect396"
      width="224"
      height="224"
@@ -52,35 +52,41 @@
      y="16"
      ry="48" />
   <path
-     d="m 56,62 c -4.41824,0 -8,3.58176 -8,8 v 120 c 0,4.41824 3.58176,8 8,8 h 144 c 4.41824,0 8,-3.58176 8,-8 V 86 c 0,-4.41824 -3.58176,-8 -8,-8 H 128 C 116,78 112,62 100,62 Z"
-     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:7.89116"
-     id="path3821"
-     sodipodi:nodetypes="sssssssssss" />
+     id="path2024"
+     style="opacity:0.2;fill:#000000;stroke-width:32;stroke-linecap:square"
+     d="m 60,62 c -6.627416,0 -12,5.37258 -12,12 v 112 c 0,6.62742 5.372584,12 12,12 h 136 c 6.62742,0 12,-5.37258 12,-12 V 94 c 0,-6.627416 -5.37258,-12 -12,-12 h -68 l -8,-12 c -4.91685,-7.375272 -7.13602,-8 -16,-8 z" />
   <path
-     d="m 56,60 c -4.41824,0 -8,3.58176 -8,8 v 96 c 0,4.41824 3.58176,8 8,8 h 144 c 4.41824,0 8,-3.58176 8,-8 V 84 c 0,-4.41824 -3.58176,-8 -8,-8 H 128 C 116,76 112,60 100,60 Z"
-     style="fill:#0277bd;fill-opacity:1;stroke-width:7.89116"
-     id="path3588"
-     sodipodi:nodetypes="sssssssssss" />
+     id="path2052"
+     style="fill:#1f6ca9;fill-opacity:1;stroke-width:32;stroke-linecap:square"
+     d="m 60,60 c -6.627416,0 -12,5.37258 -12,12 v 112 c 0,6.62742 5.372584,12 12,12 h 136 c 6.62742,0 12,-5.37258 12,-12 V 92 c 0,-6.627416 -5.37258,-12 -12,-12 h -68 l -8,-12 c -4.91685,-7.375276 -7.13602,-8 -16,-8 z" />
   <path
-     id="path3849"
-     style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke-width:7.89116"
-     d="m 56,60 c -4.418236,0 -8,3.581764 -8,8 v 2 c 0,-4.418236 3.581764,-8 8,-8 h 44 c 11.99999,0 16.00001,16 28,16 h 72 c 4.41824,0 8,3.581764 8,8 v -2 c 0,-4.418236 -3.58176,-8 -8,-8 H 128 C 116.00001,76 111.99999,60 100,60 Z" />
+     id="path3024"
+     style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke-width:32;stroke-linecap:square"
+     d="m 60,60 c -6.6274,0 -12,5.372596 -12,12 v 2 c 0,-6.627412 5.372592,-12 12,-12 h 44 c 8.86397,0 11.08316,0.624732 16,8 l 8,12 h 68 c 6.6274,0 12,5.372592 12,12 v -2 c 0,-6.6274 -5.3726,-12 -12,-12 h -68 l -8,-12 c -4.91684,-7.37526 -7.13604,-8 -16,-8 z" />
   <rect
-     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:16;stroke-linecap:square"
-     id="rect3608"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:32;stroke-linecap:square"
+     id="rect2667"
      width="160"
      height="96"
      x="48"
      y="98"
-     ry="8" />
+     ry="12" />
   <rect
-     style="fill:#29b6f6;fill-opacity:1;stroke-width:8;stroke-linecap:square"
-     id="rect3610"
+     style="fill:#f2f2f2;fill-opacity:1;stroke-width:12;stroke-linecap:square"
+     id="rect3435"
+     width="144"
+     height="72"
+     x="56"
+     y="87.999992"
+     ry="6" />
+  <rect
+     style="fill:#2196f3;fill-opacity:1;stroke-width:32;stroke-linecap:square"
+     id="rect2072"
      width="160"
      height="96"
      x="48"
-     y="100"
-     ry="8" />
+     y="99.999992"
+     ry="12" />
   <path
      id="path1040"
      style="opacity:0.2;fill:#ffffff;stroke-width:16;stroke-linecap:square"
