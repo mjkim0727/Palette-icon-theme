@@ -5,7 +5,7 @@ Name[ko]=팔레트
 Name[ja]=パレット
 Name[zh_TW]=Palette
 Comment=Palette icon theme
-Inherits=breeze,hicolor
+Inherits=Papirus,breeze,hicolor
 
 Example=folder
 

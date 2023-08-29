@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   sodipodi:docname="google-chrome.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="36.636364"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:1.42857;stroke-linecap:square"
+     id="rect234"
+     width="20"
+     height="20"
+     x="1"
+     y="1.5"
+     ry="4.5" />
+  <rect
+     style="fill:#efefef;fill-opacity:1;stroke-width:1.42857;stroke-linecap:square"
+     id="rect396"
+     width="20"
+     height="20"
+     x="1"
+     y="1"
+     ry="4.5" />
+  <g
+     id="g1705">
+    <ellipse
+       style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
+       id="path4349"
+       cx="11.000279"
+       cy="11.499997"
+       rx="7.9999986"
+       ry="7.9999971" />
+    <path
+       d="m 11.00024,3.000018 c -2.9610069,0 -5.5443044,1.6098284 -6.927613,4.000966 L 4.3335868,11.666629 7.5360836,13.000018 11.00024,11.00006 V 7.0000341 h 6.927133 C 16.543835,4.6094964 13.960897,3.000018 11.00024,3.000018 Z"
+       style="fill:#dd4d3e;fill-opacity:1;stroke-width:0.0175699"
+       id="path3707" />
+    <path
+       d="m 3.0002831,11.000056 c 0,4.418246 3.5815679,7.999923 7.9999339,7.999923 l 3.508687,-1.875668 -0.0445,-4.124297 L 11.000247,11.000056 7.5360901,13.000014 4.0726336,7.0009789 C 3.3918528,8.1777279 3.000244,9.5425767 3.000244,10.999936"
+       style="fill:#109f5b;fill-opacity:1;stroke-width:0.0175699"
+       id="path3679" />
+    <path
+       d="m 11.00033,11.000054 3.464162,1.999955 -3.464162,5.999956 c 4.41825,0 7.99992,-3.581672 7.99992,-7.999911 0,-1.4575863 -0.391749,-2.8229328 -1.072877,-4.0000199 H 11.00025 Z"
+       style="fill:#ffce41;fill-opacity:1;stroke-width:0.0175699"
+       id="path3651" />
+    <path
+       id="path4319"
+       style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
+       d="m 11.000269,3 a 8.0000005,7.9999937 0 0 0 -7.9999996,8 8.0000005,7.9999937 0 0 0 0.013677,0.25 8.0000005,7.9999937 0 0 1 7.9863286,-7.7499998 8.0000005,7.9999937 0 0 1 7.992187,7.6503908 8.0000005,7.9999937 0 0 0 0.0078,-0.15039 8.0000005,7.9999937 0 0 0 -8.000001,-8.0000001 z" />
+    <ellipse
+       style="opacity:0.2;fill:#000000;stroke-width:5.33333;stroke-linecap:square"
+       id="path3779"
+       cx="11.000305"
+       cy="11.499998"
+       rx="3.9999998"
+       ry="3.9999981" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke-width:4;stroke-linecap:square"
+       id="path4264"
+       cx="11.00034"
+       cy="11"
+       rx="4.0000272"
+       ry="3.9999998" />
+    <ellipse
+       style="fill:#4688f4;fill-opacity:1;stroke-width:4;stroke-linecap:square"
+       id="path4594"
+       cx="11.00034"
+       cy="11.000062"
+       rx="3"
+       ry="2.9999986" />
+  </g>
+  <path
+     id="path1040"
+     style="opacity:0.2;fill:#ffffff;stroke-width:4;stroke-linecap:square"
+     d="M 5.5,1 C 3.007005,1 1,3.007005 1,5.5 V 6 C 1,3.507005 3.007005,1.5 5.5,1.5 h 11 C 18.992996,1.5 21,3.507005 21,6 V 5.5 C 21,3.007005 18.992996,1 16.5,1 Z" />
+</svg>

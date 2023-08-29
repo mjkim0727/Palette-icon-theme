@@ -24,7 +24,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="12.96875"
+     inkscape:zoom="12.59375"
      inkscape:cx="32"
      inkscape:cy="32"
      inkscape:window-width="1920"
@@ -41,7 +41,7 @@
      id="path2595" />
   <path
      d="m 8,8 c -2.215998,0 -4,1.7840022 -4,4 0.02585,13.306653 0,26.638264 0,40 0,2.215998 1.784002,4 4,4 h 48 c 2.215998,0 4,-1.784002 4,-4 V 18 c 0,-2.215998 -1.784002,-4 -4,-4 H 32 L 30,11 C 28.770786,9.1561783 28.215998,8 26,8 Z"
-     style="fill:#262626;fill-opacity:1;stroke-width:4;stroke-linecap:square"
+     style="fill:#3a3a3a;fill-opacity:1;stroke-width:4;stroke-linecap:square"
      id="path2567" />
   <path
      d="M 8,8 C 5.7840042,8 4,9.784005 4,12 4.0006406,12.329771 3.9994217,12.660432 4,12.990234 4.00528,10.77881 5.7872928,9 8,9 h 18 c 2.215996,0 2.770787,1.15618 4,3 l 2,3 h 24 c 2.215996,0 4,1.784004 4,4 v -1 c 0,-2.215996 -1.784004,-4 -4,-4 H 32 L 30,11 C 28.770787,9.15618 28.215996,8 26,8 Z"
@@ -64,7 +64,7 @@
      y="18"
      ry="3" />
   <rect
-     style="opacity:1;fill:#424242;fill-opacity:1;stroke-width:4;stroke-linecap:square"
+     style="opacity:1;fill:#4f4f4f;fill-opacity:1;stroke-width:4;stroke-linecap:square"
      id="rect2727"
      width="56"
      height="30"
