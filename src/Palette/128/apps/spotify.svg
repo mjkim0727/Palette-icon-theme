@@ -81,6 +81,6 @@
   </g>
   <path
      id="path1040"
-     style="opacity:0.2;fill:#ffffff;stroke-width:8;stroke-linecap:square"
+     style="opacity:0.1;fill:#ffffff;stroke-width:8;stroke-linecap:square"
      d="M 32,8 C 18.704026,8 8,18.704027 8,32 v 1 C 8,19.704013 18.704013,9 32,9 h 64 c 13.29599,0 24,10.704013 24,24 V 32 C 120,18.704027 109.29597,8 96,8 Z" />
 </svg>

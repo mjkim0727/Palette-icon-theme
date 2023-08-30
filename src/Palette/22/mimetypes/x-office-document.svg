@@ -25,7 +25,7 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="36.636364"
-     inkscape:cx="11"
+     inkscape:cx="10.972705"
      inkscape:cy="11"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
@@ -41,20 +41,20 @@
      d="M 4.5,1.5 H 13 l 6,6 V 20 c 0,0.831 -0.669,1.5 -1.5,1.5 H 4.5 C 3.669,21.5 3,20.831 3,20 V 3 C 3,2.169 3.669,1.5 4.5,1.5 Z" />
   <path
      id="rect448"
-     style="fill:#1b83d4;fill-opacity:1;stroke-width:0.375;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#e0e0e0;fill-opacity:1;stroke-width:0.375;stroke-linecap:round;stroke-linejoin:round"
      d="M 4.5,1 H 13 L 15.25,4.75 19,7 V 19.5 C 19,20.331 18.331,21 17.5,21 H 4.5 C 3.669,21 3,20.331 3,19.5 V 2.5 C 3,1.669 3.669,1 4.5,1 Z" />
   <path
-     d="m 5,10 v 0.5 h 5 V 10 Z m 0,2 v 0.499999 h 5 V 12 Z m 0,1.999999 v 0.5 h 5 v -0.5 z m 6,0 v 0.5 h 6 v -0.5 z m -6,2 v 0.5 h 12 v -0.5 z m 0,2 v 0.5 h 5 v -0.5 z"
-     style="opacity:0.2;fill:#000000"
-     id="path2126" />
+     d="m 8,10.5 -2,5.000001 h 1 l 0.40039,-1 h 2.19922 l 0.40039,1 h 1 L 9,10.5 Z m 0.5,1.250001 0.7002,1.75 H 7.7998 Z M 12,10.5 v 1.000001 h 4 V 10.5 Z m 0,3.000001 v 1 h 4 v -1 z m -6,3 v 1 h 8 v -1 z"
+     style="fill:#000000;fill-opacity:1;stroke-width:0.5;opacity:0.2"
+     id="path3220" />
   <path
-     d="m 5,9 v 1 h 5 V 9 Z m 0,2 v 1 h 5 v -1 z m 0,1.999999 v 1 h 5 v -1 z m 0,2 v 1 h 12 v -1 z m 0,2 v 1 h 5 v -1 z"
-     style="fill:#ffffff"
-     id="path2154" />
+     id="path2755"
+     style="fill:#757575;fill-opacity:1;stroke-width:0.5"
+     d="m 12,10 v 1 h 4 v -1 z m 0,3 v 1 h 4 v -1 z m -6,3 v 1 h 8 v -1 z" />
   <path
-     d="m 11,9 v 4.999999 h 6 V 9 Z m 4.5,1 C 15.776142,10 16,10.223858 16,10.5 16,10.776143 15.776142,11 15.5,11 15.223858,11 15,10.776143 15,10.5 15,10.223858 15.223858,10 15.5,10 Z m -2.5,1 2,1.999999 h -3 z"
-     style="fill:#7ad2f9"
-     id="path2182" />
+     d="M 8,10 6,15 H 7 L 7.40039,14 H 9.59961 L 10,15 h 1 L 9,10 Z M 8.5,11.25 9.2002,13 H 7.7998 Z"
+     style="fill:#1565c0;stroke-width:1;stroke-linecap:square"
+     id="path1450" />
   <path
      d="M 19,7.5 H 14.5 C 13.669,7.5 13,6.831 13,6 V 1 l 6,6 z"
      style="opacity:0.2;fill:#000000;stroke-width:0.375;stroke-linecap:round;stroke-linejoin:round"
@@ -62,7 +62,7 @@
      sodipodi:nodetypes="cssccc" />
   <path
      id="rect600"
-     style="fill:#68b2ec;fill-opacity:1;stroke-width:0.375;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#f5f5f5;fill-opacity:1;stroke-width:0.375;stroke-linecap:round;stroke-linejoin:round"
      d="M 19,7 H 14.5 C 13.669,7 13,6.331 13,5.5 V 1 Z" />
   <path
      id="path1133"
