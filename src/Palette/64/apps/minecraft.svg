@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   sodipodi:docname="minecraft.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="12.59375"
+     inkscape:cx="31.960298"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:4;stroke-linecap:square"
+     id="rect234"
+     width="56"
+     height="56"
+     x="4"
+     y="5"
+     ry="12" />
+  <rect
+     style="fill:#4caf50;stroke-width:4;stroke-linecap:square;fill-opacity:1"
+     id="rect396"
+     width="56"
+     height="56"
+     x="4"
+     y="4"
+     ry="12" />
+  <path
+     d="M 14,15 V 27 H 26 V 15 Z m 12,13 v 8 h -8 v 17 h 8 v -8 h 12 v 8 h 8 V 36 H 38 V 28 Z M 38,27 H 50 V 15 H 38 Z"
+     style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke-width:2"
+     id="path3836" />
+  <path
+     d="M 14,14 V 26 H 26 V 14 Z m 12,13 v 8 h -8 v 17 h 8 v -8 h 12 v 8 h 8 V 35 H 38 V 27 Z M 38,26 H 50 V 14 H 38 Z"
+     style="fill:#212121;fill-opacity:1;stroke-width:2"
+     id="path3499"
+     sodipodi:nodetypes="ccccccccccccccccccccccc" />
+  <path
+     d="m 14,13 v 1 h 12 v -1 z m 24,0 v 1 H 50 V 13 Z M 26,26 v 1 h 12 v -1 z m -8,8 v 1 h 8 v -1 z m 20,0 v 1 h 8 v -1 z"
+     style="opacity:0.3;fill:#000000;stroke-width:2"
+     id="path3808"
+     sodipodi:nodetypes="ccccccccccccccccccccccccc" />
+  <path
+     d="M 16,4.0000002 C 9.3520066,4.0000002 4,9.352007 4,16 v 1 C 4,10.352007 9.3520066,5 16,5 h 32 c 6.647993,0 12,5.352007 12,12 V 16 C 60,9.352007 54.647993,4.0000002 48,4.0000002 Z"
+     style="opacity:0.2;fill:#ffffff;stroke-width:4;stroke-linecap:square"
+     id="path1040" />
+</svg>

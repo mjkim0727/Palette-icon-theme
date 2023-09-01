@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   sodipodi:docname="audio-headphones.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="6.296875"
+     inkscape:cx="63.920596"
+     inkscape:cy="64"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     style="opacity:0.2;fill:#000000;stroke-width:2"
+     d="m 64,18.0008 c -22.16,0 -40,17.84 -40,40 V 61 c 0,-22.16 17.84,-40 40,-40 22.16,0 40,17.84 40,40 v -2.9992 c 0,-22.16 -17.84,-40 -40,-40 z m -56,76 V 97 c 0,14.2784 10.1676,18.164 16,19.2264 v -2.9992 c -5.8324,-1.064 -16,-4.948 -16,-19.228 z m 112,0 c 0,14.2784 -10.1676,18.1804 -16,19.25 v 2.9992 c 5.832,-1.068 16,-4.968 16,-19.248 v -2.9992 z m -96,28 V 125 h 20 v -2.9992 z m 60,0 V 125 h 20 v -2.9992 z"
+     id="path2098" />
+  <path
+     style="fill:#4f4f4f;stroke-width:2"
+     d="m 64,4.0016 c -30.928,0 -56,25.072 -56,56 v 36 c 0,14.2784 10.1676,18.164 16,19.2264 V 60 c 0,-22.16 17.84,-40 40,-40 22.16,0 40,17.84 40,40 v 55.248 C 109.832,114.176 120,110.28 120,96 V 60 C 120,29.072 94.928,4 64,4 Z"
+     id="path2100" />
+  <path
+     style="fill:#8e8e8e;stroke-width:2"
+     d="m 24,68.0008 v 56 h 20 v -56 z m 60,0 v 56 h 20 v -56 z"
+     id="path2102" />
+  <path
+     id="path2104"
+     style="opacity:0.1;fill:#ffffff;stroke-width:2"
+     d="M 64,4 C 33.07203,4 8,29.07203 8,60 v 1 C 8,30.07203 33.07203,5 64,5 94.92797,5 120,30.07203 120,61 V 60 C 120,29.07203 94.92797,4 64,4 Z" />
+  <path
+     style="opacity:0.1;fill:#ffffff;stroke-width:1.41421"
+     d="m 24,68.0008 v 1 h 20 v -1 z m 60,0 v 1 h 20 v -1 z"
+     id="path2106" />
+</svg>

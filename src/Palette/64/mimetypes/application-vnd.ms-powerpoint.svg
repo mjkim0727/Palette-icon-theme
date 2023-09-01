@@ -25,7 +25,7 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="12.59375"
-     inkscape:cx="32"
+     inkscape:cx="31.960298"
      inkscape:cy="32"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
@@ -45,7 +45,7 @@
      d="m 14,4 h 24 l 6,10 10,6 v 36 c 0,2.216 -1.784,4 -4,4 H 14 c -2.216,0 -4,-1.784 -4,-4 V 8 c 0,-2.216 1.784,-4 4,-4 z" />
   <g
      id="g2004"
-     transform="matrix(0.50000003,0,0,0.50000003,-2.8673487e-6,-1.4999925e-6)">
+     transform="matrix(0.50000003,0,0,0.50000003,-2.8673487e-6,0.9999985)">
     <ellipse
        style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:2;stroke-linecap:square"
        id="path1793"

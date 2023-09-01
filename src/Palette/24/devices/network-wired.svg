@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg457"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   sodipodi:docname="network-wired.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview459"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="33.583333"
+     inkscape:cx="11.985112"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg457" />
+  <defs
+     id="defs454" />
+  <path
+     d="m 8,21.5 -1.9999999,-2 h -2.5 c -0.831,0 -1.5,-0.669 -1.5,-1.5 V 6 c 0,-0.831 0.669,-1.5 1.5,-1.5 H 20.5 C 21.331,4.5 22,5.169 22,6 v 12 c 0,0.831 -0.669,1.5 -1.5,1.5 H 18 l -2,2 z"
+     style="opacity:0.2;fill:#000000;stroke-width:0.5"
+     id="path1618" />
+  <path
+     d="M 8,21 6.0000001,19 H 3.5000002 c -0.831,0 -1.5000001,-0.669 -1.5000001,-1.5 V 5.5000005 C 2.0000001,4.6690001 2.6690002,4 3.5000002,4 H 20.5 C 21.331,4 22,4.6690001 22,5.5000005 V 17.5 C 22,18.331 21.331,19 20.5,19 H 18 l -2,2 z"
+     style="fill:#e4e4e4;fill-opacity:1;stroke-width:0.5"
+     id="path316" />
+  <path
+     d="M 10,18 7.7500001,16 h -2.75 V 7 H 19 v 9 h -3 l -2,2 z"
+     style="opacity:0.6;stroke-width:0.5"
+     id="path1562" />
+  <path
+     d="m 5.0000001,16 v 0.5 h 2.75 L 10,18.5 h 4 l 2,-2 h 3 V 16 h -3 l -2,2 H 10 L 7.7500001,16 Z"
+     style="opacity:0.2;fill:#ffffff;stroke-width:0.5"
+     id="path1590" />
+  <path
+     d="m 3.5000002,4 c -0.831,0 -1.5,0.669 -1.5,1.5 V 6 c 0,-0.831 0.669,-1.5 1.5,-1.5 H 20.5 C 21.331,4.5 22,5.169 22,6 V 5.5 C 22,4.669 21.331,4 20.5,4 Z"
+     style="opacity:0.2;fill:#ffffff;stroke-width:0.5"
+     id="path1646" />
+  <path
+     d="M 8,7 V 9 H 9 V 7 Z m 2,0 v 2 h 1 V 7 Z m 2,0 v 2 h 1 V 7 Z m 2,0 v 2 h 1 V 7 Z m 2,0 v 2 h 1 V 7 Z"
+     style="opacity:1;fill:#f8c44e;fill-opacity:1;stroke-width:1;stroke-linecap:square"
+     id="path1816" />
+</svg>

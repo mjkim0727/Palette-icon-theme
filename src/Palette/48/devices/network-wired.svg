@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg457"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   sodipodi:docname="network-wired.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview459"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="16.791667"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg457" />
+  <defs
+     id="defs454" />
+  <path
+     d="M 16,42 12,38 H 7.0000001 c -1.662,0 -3,-1.338 -3,-3 V 11 c 0,-1.662 1.338,-3 3,-3 H 41 c 1.662,0 3,1.338 3,3 v 24 c 0,1.662 -1.338,3 -3,3 h -5 l -4,4 z"
+     style="fill:#000000;opacity:0.2"
+     id="path1618" />
+  <path
+     d="M 16,41 12,37 H 7.0000002 c -1.662,0 -3,-1.338 -3,-3 V 10.000001 c 0,-1.6620008 1.338,-3.000001 3,-3.000001 H 41 c 1.662,0 3,1.3380002 3,3.000001 V 34 c 0,1.662 -1.338,3 -3,3 h -5 l -4,4 z"
+     style="fill:#e4e4e4;fill-opacity:1"
+     id="path316" />
+  <path
+     d="M 20,35 15.5,31 H 10 V 13 h 28 v 18 h -6 l -4,4 z"
+     style="opacity:0.6"
+     id="path1562" />
+  <path
+     d="m 10,31 v 1 h 5.5 l 4.5,4 h 8 l 4,-4 h 6 v -1 h -6 l -4,4 h -8 l -4.5,-4 z"
+     style="opacity:0.2;fill:#ffffff"
+     id="path1590" />
+  <path
+     d="m 7.0000003,7 c -1.662,0 -3,1.3379999 -3,2.9999999 V 11 c 0,-1.6620001 1.338,-3.0000001 3,-3.0000001 H 41 c 1.662,0 3,1.338 3,3.0000001 V 9.9999999 C 44,8.3379999 42.662,7 41,7 Z"
+     style="opacity:0.2;fill:#ffffff"
+     id="path1646" />
+  <path
+     d="m 15,13 v 4 h 2 v -4 z m 4,0 v 4 h 2 v -4 z m 4,0 v 4 h 2 v -4 z m 4,0 v 4 h 2 v -4 z m 4,0 v 4 h 2 v -4 z"
+     style="opacity:1;fill:#f8c44e;fill-opacity:1;stroke-width:2;stroke-linecap:square"
+     id="path1816" />
+</svg>

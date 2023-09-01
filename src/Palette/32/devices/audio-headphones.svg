@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   sodipodi:docname="audio-headphones.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="25.1875"
+     inkscape:cx="15.980149"
+     inkscape:cy="16"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     style="fill:#4f4f4f;stroke-width:0.5"
+     d="m 16,1.0004 c -7.732,0 -14,6.268 -14,14 v 9 c 0,3.5696 2.5419,4.541 4,4.8066 V 15 C 6,9.46 10.46,5 16,5 21.54,5 26,9.46 26,15 V 28.812 C 27.458,28.544 30,27.57 30,24 V 15 C 30,7.268 23.732,1 16,1 Z"
+     id="path2100" />
+  <path
+     id="path481"
+     style="opacity:0.1;fill:#ffffff;stroke-width:0.5"
+     d="M 16,1 C 8.268008,1 2,7.2680075 2,15 v 1 C 2,8.2680075 8.268008,2 16,2 23.731993,2 30,8.2680075 30,16 V 15 C 30,7.2680075 23.731993,1 16,1 Z" />
+  <path
+     style="fill:#8e8e8e;stroke-width:0.5"
+     d="m 6,17.0002 v 14 h 5 v -14 z m 15,0 v 14 h 5 v -14 z"
+     id="path2102" />
+  <path
+     style="opacity:0.1;fill:#ffffff;stroke-width:0.707105"
+     d="m 6,17.0002 v 1 h 5 v -1 z m 15,0 v 1 h 5 v -1 z"
+     id="path2106" />
+  <path
+     id="path423"
+     style="opacity:0.2;fill:#000000;stroke-width:0.707105"
+     d="M 16,5 C 10.460011,5 6,9.460011 6,15 v 1 C 6,10.460011 10.460011,6 16,6 21.539989,6 26,10.460011 26,16 V 15 C 26,9.460011 21.539989,5 16,5 Z M 2,24 v 1 c 0,3.569593 2.5419029,4.541041 4,4.80664 v -1 C 4.5419029,28.541041 2,27.569593 2,24 Z m 28,0 c 0,3.569993 -2.542003,4.543523 -4,4.811523 v 1 C 27.457997,29.543523 30,28.569993 30,25 Z M 6,31 v 1 h 5 v -1 z m 15,0 v 1 h 5 v -1 z" />
+</svg>

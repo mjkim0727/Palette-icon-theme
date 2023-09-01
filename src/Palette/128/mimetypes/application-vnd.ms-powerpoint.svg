@@ -25,7 +25,7 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="6.296875"
-     inkscape:cx="64"
+     inkscape:cx="63.920596"
      inkscape:cy="64"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
@@ -44,7 +44,8 @@
      style="fill:#e0e0e0;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      d="m 28,8 h 48 l 12,20 20,12 v 72 c 0,4.432 -3.568,8 -8,8 H 28 c -4.432,0 -8,-3.568 -8,-8 V 16 c 0,-4.432 3.568,-8 8,-8 z" />
   <g
-     id="g2004">
+     id="g2004"
+     transform="translate(0,2)">
     <ellipse
        style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:2;stroke-linecap:square"
        id="path1793"
@@ -80,7 +81,7 @@
        id="rect1659"
        width="31.999996"
        height="32"
-       x="32.000004"
+       x="30.000004"
        y="62.999985"
        ry="4" />
     <rect
@@ -88,11 +89,11 @@
        id="rect1605"
        width="31.999996"
        height="32"
-       x="32.000004"
+       x="30.000004"
        y="61.999989"
        ry="4" />
     <path
-       d="m 41,66.000173 v 24.000001 h 4.000004 v -7.999997 h 4 c 4.41828,0 8,-3.58172 8,-8 0,-4.41828 -3.58172,-8.000004 -8,-8.000004 m -4,4 h 4 c 2.20914,0 4.000004,1.790864 4,4.000004 -4e-6,2.209136 -1.790864,3.999992 -4,3.999992 h -4 z"
+       d="m 39,66.000173 v 24.000001 h 4.000004 v -7.999997 h 4 c 4.41828,0 8,-3.58172 8,-8 0,-4.41828 -3.58172,-8.000004 -8,-8.000004 m -4,4 h 4 c 2.20914,0 4.000004,1.790864 4,4.000004 -4e-6,2.209136 -1.790864,3.999992 -4,3.999992 h -4 z"
        style="fill:#ffffff;fill-opacity:1;stroke-width:2"
        id="path1721" />
   </g>

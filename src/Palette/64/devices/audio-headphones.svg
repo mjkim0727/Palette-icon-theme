@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   sodipodi:docname="audio-headphones.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="12.59375"
+     inkscape:cx="31.960298"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     style="opacity:0.2;fill:#000000"
+     d="m 32,9.0004 c -11.08,0 -20,8.92 -20,20 v 2 c 0,-11.08 8.92,-20 20,-20 11.08,0 20,8.92 20,20 v -2 c 0,-11.08 -8.92,-20 -20,-20 z m -28,38 v 2 c 0,7.1392 5.0838,9.082 8,9.6132 v -2 c -2.9162,-0.532 -8,-2.474 -8,-9.614 z m 56,0 c 0,7.1392 -5.0838,9.0902 -8,9.625 v 2 c 2.916,-0.534 8,-2.484 8,-9.624 v -2 z m -48,14 v 2 h 10 v -2 z m 30,0 v 2 h 10 v -2 z"
+     id="path2098" />
+  <path
+     style="fill:#4f4f4f"
+     d="m 32,2.0008 c -15.464,0 -28,12.536 -28,28 v 18 c 0,7.1392 5.0838,9.082 8,9.6132 V 30 c 0,-11.08 8.92,-20 20,-20 11.08,0 20,8.92 20,20 V 57.624 C 54.916,57.088 60,55.14 60,48 V 30 C 60,14.536 47.464,2 32,2 Z"
+     id="path2100" />
+  <path
+     style="fill:#8e8e8e"
+     d="m 12,34.0004 v 28 h 10 v -28 z m 30,0 v 28 h 10 v -28 z"
+     id="path2102" />
+  <path
+     style="opacity:0.1;fill:#ffffff"
+     d="m 32,2.0004 c -15.464,0 -28,12.536 -28,28 v 1 c 0,-15.464 12.536,-28 28,-28 15.464,0 28,12.536 28,28 v -1 c 0,-15.464 -12.536,-28 -28,-28 z"
+     id="path2104" />
+  <path
+     style="opacity:0.1;fill:#ffffff"
+     d="m 12,34.0004 v 1 h 10 v -1 z m 30,0 v 1 h 10 v -1 z"
+     id="path2106" />
+</svg>

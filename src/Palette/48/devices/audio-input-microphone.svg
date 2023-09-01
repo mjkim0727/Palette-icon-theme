@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   sodipodi:docname="audio-input-microphone.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="16.791667"
+     inkscape:cx="23.970223"
+     inkscape:cy="24"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     showguides="true" />
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 37 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="22 : 37 : 1"
+       inkscape:persp3d-origin="11 : 33.333333 : 1"
+       id="perspective1743" />
+  </defs>
+  <path
+     id="path819"
+     style="opacity:0.2;fill:#000000"
+     d="M 24,5 C 18.460006,5 14,9.4600057 14,15 v 6 c 0,5.539994 4.460006,10 10,10 5.539994,0 10,-4.460006 10,-10 V 15 C 34,9.4600057 29.539994,5 24,5 Z M 11,20 c -1.1045689,0 -2,0.895432 -2,2 v 2.5 c 0,6.358098 5.644998,11.564907 13,12.376953 V 41 h -8 c -1.104568,0 -2,0.895432 -2,2 0,1.104568 0.895432,2 2,2 h 20 c 1.104568,0 2,-0.895432 2,-2 0,-1.104568 -0.895432,-2 -2,-2 H 26 V 36.876953 C 33.355002,36.064907 39,30.858098 39,24.5 V 22 c 0,-1.104568 -0.895432,-2 -2,-2 -1.104568,0 -2,0.895432 -2,2 v 1.833984 C 35,28.911979 30.093994,33 24,33 17.906006,33 13,28.911979 13,23.833984 V 22 c 0,-1.104568 -0.895432,-2 -2,-2 z" />
+  <rect
+     style="fill:#8e8e8e;fill-opacity:1;stroke-width:2;stroke-linecap:square"
+     id="rect449"
+     width="20"
+     height="26"
+     x="14.000001"
+     y="4"
+     ry="10" />
+  <path
+     d="M 24,4 C 18.46,4 14,8.46 14,14 v 1 C 14,9.4599997 18.46,5 24,5 29.54,5 34,9.4599997 34,15 V 14 C 34,8.46 29.54,4 24,4 Z"
+     style="opacity:0.1;fill:#ffffff"
+     id="path735" />
+  <path
+     d="m 11,19 c -1.1045699,0 -1.9999997,0.895431 -1.9999997,2 v 2.5 c 0,6.358104 5.6449907,11.564906 12.9999997,12.376953 V 40 h -8 c -1.104569,0 -2,0.895431 -2,2 0,1.104569 0.895431,2 2,2 h 20 c 1.104569,0 2,-0.895431 2,-2 0,-1.104569 -0.895431,-2 -2,-2 H 26 V 35.876953 C 33.355009,35.064906 39,29.858104 39,23.5 V 21 c 0,-1.104569 -0.895431,-2 -2,-2 -1.104569,0 -2,0.895431 -2,2 v 1.833984 C 35,27.911984 30.094,32 24,32 17.906,32 13,27.911984 13,22.833984 V 21 c 0,-1.104569 -0.895431,-2 -2,-2 z"
+     style="fill:#4f4f4f"
+     id="path763" />
+  <path
+     d="m 11,19 c -1.1045699,0 -2,0.895431 -2,2 v 1 c 0,-1.104569 0.8954301,-2 2,-2 1.104569,0 2,0.895431 2,2 v -1 c 0,-1.104569 -0.895431,-2 -2,-2 z m 26,0 c -1.104569,0 -2,0.895431 -2,2 v 1 c 0,-1.104569 0.895431,-2 2,-2 1.104569,0 2,0.895431 2,2 v -1 c 0,-1.104569 -0.895431,-2 -2,-2 z m -24,3.833985 v 1 C 13,28.911985 17.906,33 24,33 c 6.094,0 11,-4.088015 11,-9.166015 v -1 C 35,27.911985 30.094,32 24,32 17.906,32 13,27.911985 13,22.833985 Z M 14,40 c -1.104569,0 -2,0.895431 -2,2 6.37e-4,0.16741 0.02229,0.334079 0.06445,0.496094 C 12.293861,41.614948 13.08948,40.999969 14,41 h 8 v -1 z m 12,0 v 1 h 8 c 0.912772,8.9e-4 1.709137,0.619659 1.935547,1.503906 0.04282,-0.164546 0.06448,-0.333881 0.06445,-0.503906 0,-1.104569 -0.895431,-2 -2,-2 z"
+     style="opacity:0.1;fill:#ffffff"
+     id="path791" />
+</svg>
