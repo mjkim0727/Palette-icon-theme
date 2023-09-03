@@ -24,8 +24,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="12.96875"
-     inkscape:cx="31.961446"
+     inkscape:zoom="12.59375"
+     inkscape:cx="31.960298"
      inkscape:cy="32"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
@@ -36,28 +36,33 @@
   <defs
      id="defs2" />
   <circle
-     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.30769;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-     id="path2871"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
+     id="path2257"
      cx="32"
-     cy="33.000126"
+     cy="33"
      r="28" />
   <circle
-     style="opacity:1;fill:#db3c30;fill-opacity:1;stroke:none;stroke-width:4.30769;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-     id="path2873"
+     style="fill:#e25252;fill-opacity:1;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
+     id="path1559"
      cx="32"
      cy="32"
      r="28" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:10.5409;stroke-linecap:round;stroke-linejoin:round"
+     id="rect451"
+     width="40"
+     height="8"
+     x="12"
+     y="29.000002" />
+  <rect
+     style="fill:#ffffff;stroke-width:10.5409;stroke-linecap:round;stroke-linejoin:round"
+     id="rect453"
+     width="40"
+     height="8"
+     x="12"
+     y="28.000002" />
   <path
-     d="M 20.80763,18.978001 17.979505,21.806126 29.173009,32.999629 17.979505,44.193132 20.80763,47.021257 32.001134,35.827754 43.19237,47.021257 46.020495,44.193132 34.826991,32.999628 46.020495,21.806125 43.19237,18.978 32.001134,30.171503 Z"
-     style="fill:#000000;fill-rule:evenodd;stroke-width:3.7796;paint-order:fill markers stroke;opacity:0.2"
-     id="path2930" />
-  <path
-     d="M 20.80763,17.978372 17.979505,20.806497 29.173009,32 17.979505,43.193503 20.80763,46.021628 32.001134,34.828125 43.19237,46.021628 46.020495,43.193503 34.826991,31.999999 46.020495,20.806496 43.19237,17.978371 32.001134,29.171874 Z"
-     style="fill:#ffffff;fill-rule:evenodd;stroke-width:3.7796;paint-order:fill markers stroke"
-     id="path5343"
-     sodipodi:nodetypes="ccccccccccccc" />
-  <path
-     id="path2840"
-     style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke-width:4;stroke-linecap:square"
-     d="M 32 4 A 28 28 0 0 0 4 32 A 28 28 0 0 0 4.0351562 32.5 A 28 28 0 0 1 32 5 A 28 28 0 0 1 59.982422 32.251953 A 28 28 0 0 0 60 32 A 28 28 0 0 0 32 4 z " />
+     id="path2284"
+     style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
+     d="M 32,4 A 28,28 0 0 0 4,32 28,28 0 0 0 4.0352,32.5 28,28 0 0 1 32,5 28,28 0 0 1 59.98242,32.25195 28,28 0 0 0 60,32 28,28 0 0 0 32,4 Z" />
 </svg>

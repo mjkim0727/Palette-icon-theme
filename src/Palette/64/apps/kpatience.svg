@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   sodipodi:docname="kpatience.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="12.59375"
+     inkscape:cx="31.960298"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:4;stroke-linecap:square"
+     id="rect234"
+     width="56"
+     height="56"
+     x="4"
+     y="5"
+     ry="12" />
+  <rect
+     style="fill:#e4e4e4;stroke-width:4;stroke-linecap:square;fill-opacity:1"
+     id="rect396"
+     width="56"
+     height="56"
+     x="4"
+     y="4"
+     ry="12" />
+  <path
+     d="M 12.96289,11 10,19 h 2 l 0.5,-1 h 3 l 0.5,1 h 2.08594 L 15,11 Z M 14,13 l 0.98828,3 h -1.89062 z m -1.83984,8 C 10.97036,21 10,21.83895 10,22.87695 c 0,0.538 0.25954,1.03105 0.67773,1.37305 l 3.26954,2.75 3.375,-2.75 C 17.74027,23.908 18,23.41495 18,22.87695 18,21.83895 17.02864,21 15.83984,21 15.05624,21 14.3768,21.36025 14,21.90625 13.6232,21.36025 12.94375,21 12.16016,21 Z m 15.24218,4 C 24.42835,25 22,27.234 22,30 c 0,1.43958 0.65189,2.75242 1.69727,3.66602 L 31.86719,41 40.30469,33.66602 C 41.35069,32.75402 42,31.44 42,30 42,27.234 39.57165,25 36.59766,25 34.63966,25 32.942,25.96202 32,27.41602 31.058,25.96202 29.36034,25 27.40234,25 Z m 22.65235,14 -3.37696,2.75 C 46.25973,42.092 46,42.58505 46,43.12305 46,44.16105 46.97216,45 48.16016,45 48.94416,45 49.624,44.63975 50,44.09375 50.376,44.63975 51.05584,45 51.83984,45 53.02784,45 54,44.16105 54,43.12305 54,42.58505 53.74027,42.092 53.32227,41.75 Z M 46,47 48.96289,55 H 51 l 3.08594,-8 H 52 l -0.5,1 h -3 L 48,47 Z m 3.09766,3 h 1.89062 L 50,53 Z"
+     style="opacity:0.2;fill:#000000"
+     id="path1512" />
+  <path
+     d="M 12.96289,10 10,18 h 2 l 0.5,-1 h 3 l 0.5,1 h 2.08594 L 15,10 Z M 14,12 l 0.98828,3 h -1.89062 z m -1.83984,8 C 10.97036,20 10,20.83895 10,21.87695 c 0,0.538 0.25954,1.03105 0.67773,1.37305 l 3.26954,2.75 3.375,-2.75 C 17.74027,22.908 18,22.41495 18,21.87695 18,20.83895 17.02864,20 15.83984,20 15.05624,20 14.3768,20.36025 14,20.90625 13.6232,20.36025 12.94375,20 12.16016,20 Z m 15.24218,4 C 24.42835,24 22,26.234 22,29 c 0,1.43958 0.65189,2.75242 1.69727,3.66602 L 31.86719,40 40.30469,32.66602 C 41.35069,31.75402 42,30.44 42,29 42,26.234 39.57165,24 36.59766,24 34.63966,24 32.942,24.96202 32,26.41602 31.058,24.96202 29.36034,24 27.40234,24 Z m 22.65235,14 -3.37696,2.75 C 46.25973,41.092 46,41.58505 46,42.12305 46,43.16105 46.97216,44 48.16016,44 48.94416,44 49.624,43.63975 50,43.09375 50.376,43.63975 51.05584,44 51.83984,44 53.02784,44 54,43.16105 54,42.12305 54,41.58505 53.74027,41.092 53.32227,40.75 Z M 46,46 48.96289,54 H 51 l 3.08594,-8 H 52 l -0.5,1 h -3 L 48,46 Z m 3.09766,3 h 1.89062 L 50,52 Z"
+     style="fill:#e74c3c"
+     id="path361"
+     sodipodi:nodetypes="cccccccccccccsscccsscssscccsscsccsscssccccccccccccccc" />
+  <path
+     d="M 16,4.0000002 C 9.3520066,4.0000002 4,9.352007 4,16 v 1 C 4,10.352007 9.3520066,5 16,5 h 32 c 6.647993,0 12,5.352007 12,12 V 16 C 60,9.352007 54.647993,4.0000002 48,4.0000002 Z"
+     style="opacity:0.2;fill:#ffffff;stroke-width:4;stroke-linecap:square"
+     id="path1040" />
+</svg>
