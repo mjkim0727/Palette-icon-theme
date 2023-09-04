@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   sodipodi:docname="network-wired.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="50.375"
+     inkscape:cx="7.9900744"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     d="M 5,15 3,13 H 1.2 C 0.5352,13 0,12.465 0,11.8 V 2.2 C 0,1.5352 0.5352,1 1.2,1 H 13.8 C 14.465,1 15,1.5352 15,2.2 v 9.6 C 15,12.465 14.465,13 13.8,13 H 12 l -2,2 z"
+     style="fill:#e4e4e4;fill-opacity:1"
+     id="path4792" />
+  <path
+     d="M 6,13 4,11 H 2 V 3 h 11 v 8 h -2 l -2,2 z"
+     style="fill:#5d5d5d;fill-opacity:1"
+     id="path4820" />
+  <path
+     d="M 3,4 V 3 H 4 V 4 Z M 5,4 V 3 H 6 V 4 Z M 7,4 V 3 H 8 V 4 Z M 9,4 V 3 h 1 v 1 z m 2,0 V 3 h 1 v 1 z"
+     id="path5470"
+     style="fill:#f8c44e;fill-opacity:1" />
+</svg>
