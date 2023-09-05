@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   sodipodi:docname="preferences-desktop-thunderbolt.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="16.791667"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:2.85714;stroke-linecap:square"
+     id="rect234"
+     width="40"
+     height="40"
+     x="4"
+     y="5.000001"
+     ry="9" />
+  <rect
+     style="fill:#127bca;fill-opacity:1;stroke-width:2.85714;stroke-linecap:square"
+     id="rect396"
+     width="40"
+     height="40"
+     x="4"
+     y="4.000001"
+     ry="9" />
+  <path
+     d="m 23,5.000001 -7,18.000001 h 9 L 20.990594,31.293916 19,27.999754 18,41.000244 28,32.999754 24.34411,32.913516 32,17.000004 H 24.914 L 30,5.000003 Z"
+     style="opacity:0.2;fill:#000000;stroke-width:2"
+     id="path2386" />
+  <path
+     d="m 23,4 -7,18 h 9 L 20.990594,30.293918 19,26.999756 18,40.000246 28,31.999756 24.34411,31.913516 32,16.000004 H 24.914 L 30,4.000002 Z"
+     style="fill:#ffffff;stroke-width:2"
+     id="path1870" />
+  <path
+     id="path1040"
+     style="opacity:0.2;fill:#ffffff;stroke-width:8;stroke-linecap:square"
+     d="m 13,4.000001 c -4.98599,0 -9,4.01401 -9,9 v 1 c 0,-4.98599 4.01401,-9 9,-9 h 22 c 4.985992,0 9,4.01401 9,9 v -1 c 0,-4.98599 -4.014008,-9 -9,-9 z" />
+</svg>
