@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   sodipodi:docname="ms-powerpoint.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="12.59375"
+     inkscape:cx="31.960298"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:4;stroke-linecap:square"
+     id="rect234"
+     width="56"
+     height="56"
+     x="4"
+     y="5"
+     ry="12" />
+  <rect
+     style="fill:#efefef;stroke-width:4;stroke-linecap:square;fill-opacity:1"
+     id="rect396"
+     width="56"
+     height="56"
+     x="4"
+     y="4"
+     ry="12" />
+  <circle
+     style="opacity:0.2;fill:#000000;stroke-width:1.42857;stroke-linecap:round;stroke-linejoin:round"
+     id="path567"
+     cx="34"
+     cy="33"
+     r="19.999998" />
+  <path
+     d="M 33.999997,12 C 22.967702,12.03227 14.032277,20.967702 14,31.999997 l 25.338568,5.338571 z"
+     style="fill:#ed6c47;stroke-width:1.42857"
+     id="path467" />
+  <path
+     d="m 33.999997,12 c 11.032296,0.03227 19.96772,8.9677 19.999998,19.999997 l -9.999999,6.797014 -9.999999,-6.797014 z"
+     style="fill:#ff8f6b;stroke-width:1.42857"
+     id="path390" />
+  <path
+     d="m 33.999997,51.999995 c 11.032296,-0.03227 19.96772,-8.967702 19.999998,-19.999998 H 14 c 0.03229,11.032293 8.967704,19.967713 19.999997,19.999998 z"
+     style="fill:#d35230;stroke-width:1.42857"
+     id="path362" />
+  <rect
+     style="opacity:0.1;fill:#000000;stroke-width:1.19523;stroke-linecap:round;stroke-linejoin:round"
+     id="rect673"
+     width="39.999996"
+     height="1"
+     x="14.000006"
+     y="31.999996" />
+  <path
+     id="path495"
+     style="opacity:0.2;fill:#ffffff;stroke-width:1.42857"
+     d="M 34,12 C 22.967715,12.03227 14.032278,20.967713 14,32 l 0.06055,0.01367 c 0.009,-0.122634 0.02395,-0.243258 0.03516,-0.365234 A 19.999998,19.999998 0 0 1 34,13 19.999998,19.999998 0 0 1 53.976562,32.017578 L 54,32 C 53.96773,20.967715 45.032284,12.032277 34,12 Z" />
+  <rect
+     style="opacity:0.1;fill:#000000;stroke-linecap:round;stroke-linejoin:round"
+     id="rect625"
+     width="22"
+     height="22"
+     x="10"
+     y="22"
+     ry="2" />
+  <rect
+     style="fill:#c43e1c;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round"
+     id="rect627"
+     width="22"
+     height="22"
+     x="10"
+     y="21"
+     ry="2" />
+  <path
+     d="m 16.000063,25.013429 v 13.986328 h 3 v -5 h 2.019531 c 0.903221,0.02057 1.797679,-0.109286 2.617188,-0.519531 0.717058,-0.360412 1.321864,-0.937123 1.742187,-1.660157 0.412635,-0.65357 0.627401,-1.62927 0.613282,-2.419921 0.07347,-1.234569 -0.382814,-2.437986 -1.238282,-3.261719 -1.029314,-0.819713 -2.295814,-1.21767 -3.572265,-1.125 z m 3,2.986328 h 1.900391 c 1.399246,0 2.099609,0.530356 2.099609,1.591797 0.03842,0.392321 -0.172078,0.771209 -0.546875,0.984375 -0.463263,0.312245 -1.039976,0.463719 -1.621094,0.425781 h -1.832031 z"
+     style="fill:#f9f7f7"
+     id="path4348" />
+  <path
+     d="M 16,4.0000002 C 9.3520066,4.0000002 4,9.352007 4,16 v 1 C 4,10.352007 9.3520066,5 16,5 h 32 c 6.647993,0 12,5.352007 12,12 V 16 C 60,9.352007 54.647993,4.0000002 48,4.0000002 Z"
+     style="opacity:0.2;fill:#ffffff;stroke-width:4;stroke-linecap:square"
+     id="path1040" />
+</svg>

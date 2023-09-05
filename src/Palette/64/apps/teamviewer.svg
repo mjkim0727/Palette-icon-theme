@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   sodipodi:docname="teamviewer.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="12.59375"
+     inkscape:cx="31.960298"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:4;stroke-linecap:square"
+     id="rect234"
+     width="56"
+     height="56"
+     x="4"
+     y="5"
+     ry="12" />
+  <rect
+     style="fill:#4e7ad9;fill-opacity:1;stroke-width:4;stroke-linecap:square"
+     id="rect396"
+     width="56"
+     height="56"
+     x="4"
+     y="4"
+     ry="12" />
+  <path
+     d="M 32,12 C 20.402021,12 11,21.402021 11,33 11,44.597979 20.402021,54 32,54 43.597979,54 53,44.597979 53,33 53,21.402021 43.597979,12 32,12 Z m -8,13 v 4 h 16 v -4 l 11,8 -11,8 V 37 H 24 v 4 L 13,33 Z"
+     style="fill:#000000;opacity:0.2"
+     id="path2174" />
+  <path
+     d="M 32,11 C 20.402021,11 11,20.402021 11,32 11,43.597979 20.402021,53 32,53 43.597979,53 53,43.597979 53,32 53,20.402021 43.597979,11 32,11 Z m -8,13 v 4 h 16 v -4 l 11,8 -11,8 V 36 H 24 v 4 L 13,32 Z"
+     style="fill:#ffffff"
+     id="path1658" />
+  <path
+     id="path1040"
+     style="opacity:0.2;fill:#ffffff;stroke-width:4;stroke-linecap:square"
+     d="M 16 4 C 9.3520132 4 4 9.3520136 4 16 L 4 17 C 4 10.352007 9.3520066 5 16 5 L 48 5 C 54.647993 5 60 10.352007 60 17 L 60 16 C 60 9.3520136 54.647985 4 48 4 L 16 4 z " />
+</svg>
