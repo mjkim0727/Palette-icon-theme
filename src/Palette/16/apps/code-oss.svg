@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   sodipodi:docname="code-oss.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="50.375"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="fill:#efefef;fill-opacity:1;stroke-width:1.14286;stroke-linecap:square"
+     id="rect396"
+     width="16"
+     height="16"
+     x="0"
+     y="0"
+     ry="4" />
+  <rect
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     id="rect872"
+     width="10"
+     height="8"
+     x="3"
+     y="4.5"
+     ry="0.5" />
+  <rect
+     style="fill:#167abf;fill-opacity:1;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+     id="rect410"
+     width="10"
+     height="8"
+     x="3"
+     y="4"
+     ry="0.49999997" />
+  <path
+     d="m 3.5,4 h 2 v 8 h -2 C 3.223,12 3,11.777 3,11.5 v -7 C 3,4.223 3.223,4 3.5,4 Z"
+     style="opacity:0.2;fill:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+     id="path803"
+     sodipodi:nodetypes="sccssss" />
+  <path
+     id="path1073"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 7.5,5.5 C 7.223001,5.5 7,5.723001 7,6 7,6.277 7.223001,6.5 7.5,6.5 h 3 C 10.776999,6.5 11,6.277 11,6 11,5.723001 10.776999,5.5 10.5,5.5 Z m 1,2 C 8.223001,7.5 8,7.723001 8,8 8,8.277 8.223001,8.5 8.5,8.5 h 3 C 11.776999,8.5 12,8.277 12,8 12,7.723001 11.776999,7.5 11.5,7.5 Z m -1,2 C 7.223001,9.5 7,9.7230009 7,9.9999999 7,10.276999 7.223001,10.5 7.5,10.5 h 3 C 10.776999,10.5 11,10.276999 11,9.9999999 11,9.7230009 10.776999,9.5 10.5,9.5 Z" />
+  <path
+     id="path1035"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 7.5,5 C 7.223001,5 7,5.223001 7,5.5 7,5.776999 7.223001,6 7.5,6 h 3 C 10.776999,6 11,5.776999 11,5.5 11,5.223001 10.776999,5 10.5,5 Z m 1,2 C 8.223001,7 8,7.223001 8,7.5 8,7.776999 8.223001,8 8.5,8 h 3 C 11.776999,8 12,7.776999 12,7.5 12,7.223001 11.776999,7 11.5,7 Z m -1,2 C 7.223001,9 7,9.223001 7,9.5 7,9.7769989 7.223001,9.9999999 7.5,9.9999999 h 3 C 10.776999,9.9999999 11,9.7769989 11,9.5 11,9.223001 10.776999,9 10.5,9 Z" />
+  <path
+     id="path969"
+     style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+     d="M 3.5,4 C 3.2230005,4 3,4.223001 3,4.5 V 5 C 3,4.7230001 3.223,4.5000001 3.5,4.5000001 h 9 c 0.277,0 0.5,0.223 0.5,0.4999999 V 4.5 C 13,4.223001 12.776999,4 12.5,4 Z" />
+  <rect
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     id="rect874"
+     width="1"
+     height="10"
+     x="5"
+     y="3.5"
+     ry="0.5" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     id="rect876"
+     width="1"
+     height="10"
+     x="5"
+     y="3"
+     ry="0.5" />
+  <path
+     id="rect639"
+     style="fill:#ffffff;stroke-linecap:square;opacity:0.2"
+     d="M 4 0 C 1.7840022 0 0 1.7840022 0 4 L 0 5 C 0 2.7840022 1.7840022 1 4 1 L 12 1 C 14.215998 1 16 2.7840022 16 5 L 16 4 C 16 1.7840022 14.215998 0 12 0 L 4 0 z " />
+</svg>
