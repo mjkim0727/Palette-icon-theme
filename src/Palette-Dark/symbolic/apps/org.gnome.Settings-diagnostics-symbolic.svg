@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   sodipodi:docname="org.gnome.Settings-diagnostics-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="50.375"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     d="M 8.9999996,3 C 6.2385763,3 4,5.2385763 4,8 c 0,2.761424 2.2385763,5 4.9999996,5 0.982054,-0.0016 1.9419004,-0.292314 2.7597664,-0.835938 l 2.669922,2.658204 C 14.596686,14.938266 14.796,15 15,15 c 0.552,0 1,-0.448 1,-1 -10e-4,-0.216 -0.07117,-0.425656 -0.201172,-0.597656 l -2.625,-2.654297 C 13.711805,9.932429 13.999026,8.977062 14,8 14,5.2385763 11.761424,3 8.9999996,3 Z m 0,2 C 10.656854,5 12,6.3431458 12,8 12,9.656854 10.656854,11 8.9999996,11 7.3431458,11 6,9.656854 6,8 6,6.3431458 7.3431458,5 8.9999996,5 Z M 2,0 C 0,0 0,2 0,2 v 9 c 0,0 0,2 2,2 H 4 V 11 H 2 V 2 h 12 v 2 h 2 V 2 c 0,0 0,-2 -2,-2 z m 2,14 c 0,0 -1,0 -1,1 v 1 h 10 v -1 c 0,-1 -1,-1 -1,-1 z"
+     style="fill:#dfdfdf;fill-opacity:1"
+     id="path2299" />
+</svg>

@@ -45,7 +45,7 @@
      d="M 4.5,1 H 13 L 15.25,4.75 19,7 V 19.5 C 19,20.331 18.331,21 17.5,21 H 4.5 C 3.669,21 3,20.331 3,19.5 V 2.5 C 3,1.669 3.669,1 4.5,1 Z" />
   <path
      id="rect8534"
-     style="fill:#7cb342;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#757575;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
      d="m 10,10 v 4 H 7 l 4,4 4,-4 h -3 v -4 z" />
   <path
      d="M 19,7.5 H 14.5 C 13.669,7.5 13,6.831 13,6 V 1 l 6,6 z"
