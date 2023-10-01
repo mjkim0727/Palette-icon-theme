@@ -6,4 +6,6 @@ Material Design icon theme
 * papirus-icon-theme(designs) : 
 * Tela-icon-theme(symbolic icons) : 
 
+## Preview
 
+![preview](images/icon-preview.png)
