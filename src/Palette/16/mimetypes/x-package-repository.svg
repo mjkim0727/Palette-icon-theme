@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1"
+   id="svg3"
+   sodipodi:docname="x-package-repository.svg"
+   inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="46.6875"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <rect
+     style="fill:#d64141"
+     width="16"
+     height="16"
+     x="-16"
+     y="-16"
+     rx=".8"
+     ry=".8"
+     transform="matrix(0,-1,-1,0,0,0)"
+     id="rect1" />
+  <rect
+     style="fill:#3f3f3f"
+     width="12"
+     height="12"
+     x="-14"
+     y="-14"
+     rx=".6"
+     ry=".6"
+     transform="matrix(0,-1,-1,0,0,0)"
+     id="rect2" />
+  <rect
+     style="fill:#dfa46d"
+     width="8"
+     height="8"
+     x="-12"
+     y="-12"
+     rx=".4"
+     ry=".4"
+     transform="matrix(0,-1,-1,0,0,0)"
+     id="rect3" />
+  <path
+     style="opacity:0.3;fill:#000000"
+     d="M 7 4 L 7 7 L 4 7 L 4 9 L 7 9 L 7 12 L 9 12 L 9 9 L 12 9 L 12 7 L 9 7 L 9 4 L 7 4 z"
+     id="path3" />
+</svg>
