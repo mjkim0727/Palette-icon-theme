@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
+   sodipodi:docname="nvidia.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="22.4375"
+     inkscape:cx="16"
+     inkscape:cy="15.977716"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:2;stroke-linecap:square"
+     id="rect234"
+     width="28"
+     height="28"
+     x="2"
+     y="3"
+     ry="6" />
+  <rect
+     style="fill:#363636;fill-opacity:1;stroke-width:2;stroke-linecap:square"
+     id="rect396"
+     width="27"
+     height="28"
+     x="2"
+     y="2"
+     ry="6" />
+  <path
+     id="path1738"
+     mask="none"
+     style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#55a626;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate"
+     d="M 15 2 L 15 9.5859375 C 15.0878 9.5829375 15.174729 9.5800781 15.261719 9.5800781 C 20.966983 9.5431782 24.667969 14.392578 24.667969 14.392578 C 24.667969 14.392578 20.281636 19.720703 15.712891 19.720703 C 15.465621 19.720703 15.22899 19.709847 15 19.685547 L 15 21.087891 C 15.16787 21.098891 15.340255 21.103516 15.515625 21.103516 C 19.767141 21.103516 22.843185 18.935042 25.820312 16.365234 C 26.313912 16.760554 28.3346 17.719625 28.75 18.140625 C 25.919323 20.510543 19.320174 22.419922 15.580078 22.419922 C 15.382278 22.419922 15.19012 22.413244 15 22.402344 L 15 30 L 24 30 C 27.323997 30 30 27.323997 30 24 L 30 8 C 30 4.6760033 27.323997 2 24 2 L 15 2 z M 15 22.402344 L 15 21.087891 C 14.8418 21.077491 14.728922 21.060316 14.576172 21.041016 C 9.3732971 20.386466 7.59375 14.654297 7.59375 14.654297 C 7.59375 14.654297 9.9226165 11.213172 14.576172 10.857422 C 14.725932 10.847022 14.84589 10.838784 15 10.833984 L 15 12.361328 C 15.12576 12.353328 15.293308 12.347656 15.423828 12.347656 C 18.123085 12.347656 19.724609 14.449219 19.724609 14.449219 L 17.529297 16.300781 C 16.644698 14.826143 16.247489 14.09183 15 13.8125 L 15 18.527344 C 15.24433 18.576444 15.544876 18.607422 15.822266 18.607422 C 19.023912 18.607422 22.009766 14.457031 22.009766 14.457031 C 22.009766 14.457031 19.207806 10.706461 15 10.832031 L 15 9.5878906 C 14.84786 9.5928906 14.727482 9.5997281 14.576172 9.6113281 C 9.421767 10.025278 4.9570313 14.392578 4.9570312 14.392578 C 4.9570312 14.392578 7.486309 21.701944 14.576172 22.371094 C 14.729772 22.385894 14.84359 22.393744 15 22.402344 z M 15 18.527344 C 14.83847 18.494944 14.724152 18.45599 14.576172 18.40625 C 12.359334 17.661401 11.638672 15.072266 11.638672 15.072266 C 11.638672 15.072266 12.922581 13.532969 14.568359 13.730469 L 14.576172 13.730469 C 14.745282 13.750869 14.85662 13.7804 15 13.8125 L 15 12.361328 C 14.84305 12.370328 14.729232 12.385944 14.576172 12.402344 C 11.440495 12.741523 9.5527344 14.832031 9.5527344 14.832031 C 9.5527344 14.832031 10.643956 18.920054 14.576172 19.621094 C 14.726932 19.647794 14.84122 19.668647 15 19.685547 L 15 18.527344 z " />
+  <path
+     id="path1040"
+     style="opacity:0.1;fill:#ffffff;stroke-width:2;stroke-linecap:square"
+     d="M 8 2 C 4.6760066 2 2 4.6760068 2 8 L 2 9 C 2 5.6760068 4.6760066 3 8 3 L 15 3 L 15 2 L 8 2 z " />
+  <path
+     id="path1040-7"
+     style="opacity:0.2;fill:#ffffff;stroke-width:2;stroke-linecap:square"
+     d="M 15 2 L 15 3 L 24 3 C 27.323993 3 30 5.6760068 30 9 L 30 8 C 30 4.6760068 27.323993 2 24 2 L 15 2 z " />
+  <rect
+     style="opacity:0.2;fill:#363636;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round"
+     id="rect1"
+     width="0.30151907"
+     height="0.26940441"
+     x="22.884735"
+     y="36.307781" />
+</svg>
