@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="xorg.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="16.729167"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-width="1850"
+     inkscape:window-height="1011"
+     inkscape:window-x="70"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:2.85714;stroke-linecap:square"
+     id="rect234"
+     width="40"
+     height="40"
+     x="4"
+     y="5"
+     ry="9" />
+  <rect
+     style="fill:#bcbcbc;fill-opacity:1;stroke-width:2.85714;stroke-linecap:square"
+     id="rect396"
+     width="40"
+     height="40"
+     x="4"
+     y="4"
+     ry="9" />
+  <path
+     d="M 11,12 21,25.683594 12,38 h 2 L 25.5,22.263672 18,12 Z M 34,12 22.5,27.736328 30,38 h 7 L 27,24.316406 36,12 Z"
+     style="opacity:0.2;fill:#000000;stroke-width:2.0385"
+     id="path1" />
+  <path
+     d="M 11,11 21,24.683594 12,37 h 2 L 25.5,21.263672 18,11 Z M 34,11 22.5,26.736328 30,37 h 7 L 27,23.316406 36,11 Z"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-width:2.0385"
+     id="path1543"
+     sodipodi:nodetypes="cccccccccccccc" />
+  <path
+     d="m 24.009766,16 c -0.818152,0 -1.69179,0.06232 -2.478516,0.13672 1.401644,1.806006 2.565504,3.336302 3.904298,5.074218 -0.75111,-1.59754 -2.296884,-3.130198 -1.763672,-3.917968 0.52902,-0.779392 1.503748,-0.648438 1.578124,-0.648438 1.560876,0 3.06396,0.1745 4.46875,0.496094 L 30.046876,16.69336 C 28.172776,16.216714 26.138424,16 24.009766,16 Z m 8.455076,1.458984 -0.302734,0.425782 c 4.32855,1.675062 7.255858,4.87467 7.255858,8.539062 0,5.39812 -6.346822,9.777344 -14.167966,9.777344 -7.821142,0 -14.171876,-4.379224 -14.171876,-9.777344 0,-2.75853 1.658598,-5.252476 4.32422,-7.03125 L 14.36328,17.970704 C 10.062412,19.9666 7.25,23.254186 7.25,26.976564 7.25,33.061884 14.759596,38 24.01172,38 c 9.25107,0 16.759764,-4.935254 16.759764,-11.01953 0,-4.058278 -3.338026,-7.607578 -8.306642,-9.521486 z"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:0.805822"
+     id="path1-6" />
+  <path
+     id="path3649"
+     style="fill:#f88c18;fill-opacity:1;stroke-width:0.805822"
+     d="m 24.009766,15 c -0.818152,0 -1.69179,0.06232 -2.478516,0.13672 1.401644,1.806006 2.565504,3.336302 3.904298,5.074218 -0.75111,-1.59754 -2.296884,-3.130198 -1.763672,-3.917968 0.52902,-0.779392 1.503748,-0.648438 1.578124,-0.648438 1.560876,0 3.06396,0.1745 4.46875,0.496094 L 30.046876,15.69336 C 28.172776,15.216714 26.138424,15 24.009766,15 Z m 8.455076,1.458984 -0.302734,0.425782 c 4.32855,1.675062 7.255858,4.87467 7.255858,8.539062 0,5.39812 -6.346822,9.777344 -14.167966,9.777344 -7.821142,0 -14.171876,-4.379224 -14.171876,-9.777344 0,-2.75853 1.658598,-5.252476 4.32422,-7.03125 L 14.36328,16.970704 C 10.062412,18.9666 7.25,22.254186 7.25,25.976564 7.25,32.061884 14.759596,37 24.01172,37 c 9.25107,0 16.759764,-4.935254 16.759764,-11.01953 0,-4.058278 -3.338026,-7.607578 -8.306642,-9.521486 z" />
+  <path
+     id="path1040"
+     style="opacity:0.2;fill:#ffffff;stroke-width:8;stroke-linecap:square"
+     d="M 13,4 C 8.0140098,4 4,8.0140096 4,13 v 1 C 4,9.0140096 8.0140098,5 13,5 h 22 c 4.985992,0 9,4.0140096 9,9 V 13 C 44,8.0140096 39.985992,4 35,4 Z" />
+</svg>

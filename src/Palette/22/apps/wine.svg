@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="wine.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="36.5"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-width="1850"
+     inkscape:window-height="1011"
+     inkscape:window-x="70"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:1.42857;stroke-linecap:square"
+     id="rect234"
+     width="20"
+     height="20"
+     x="1"
+     y="1.5"
+     ry="4.5" />
+  <rect
+     style="fill:#ac3131;fill-opacity:1;stroke-width:1.42857;stroke-linecap:square"
+     id="rect396"
+     width="20"
+     height="16"
+     x="1"
+     y="1"
+     ry="4.5" />
+  <path
+     id="rect1"
+     style="fill:#e7dbd0;fill-opacity:1;stroke-width:1.25"
+     d="M 7 10 C 3.7019536 10.0047 1 11 1 11 L 1 16.5 C 1 18.992998 3.0070025 21 5.5 21 L 16.5 21 C 18.992998 21 21 18.992998 21 16.5 L 21 11 C 21 11 19.249717 12.201869 16 12 C 11.308343 11.708559 11.705404 9.993293 7 10 z " />
+  <path
+     id="rect1-0"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:1.25;opacity:0.2"
+     d="M 7 10 C 3.7019569 10.0047 1 11 1 11 L 1 11.5 C 1 11.5 3.7019569 10.5047 7 10.5 C 11.705399 10.493293 11.308348 12.208559 16 12.5 C 19.249714 12.701869 21 11.5 21 11.5 L 21 11 C 21 11 19.249714 12.201869 16 12 C 11.308348 11.708559 11.705399 9.9932926 7 10 z " />
+  <path
+     id="path1040"
+     style="opacity:0.1;fill:#ffffff;stroke-width:4;stroke-linecap:square"
+     d="m 5.5,1.000001 c -2.4929947,0 -4.4999998,2.0070049 -4.4999998,4.5 v 0.5 c 0,-2.4929951 2.007005,-4.5 4.4999998,-4.5 h 11 c 2.492996,0 4.5,2.0070049 4.5,4.5 v -0.5 c 0,-2.4929951 -2.007004,-4.5 -4.5,-4.5 z" />
+</svg>
