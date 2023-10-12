@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="applets-screenshooter.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="16.3125"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-width="1920"
+     inkscape:window-height="984"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:2.85714;stroke-linecap:square"
+     id="rect234"
+     width="40"
+     height="40"
+     x="4"
+     y="5"
+     ry="9" />
+  <rect
+     style="fill:#48cac2;fill-opacity:1;stroke-width:2.85714;stroke-linecap:square"
+     id="rect396"
+     width="40"
+     height="40"
+     x="4"
+     y="4"
+     ry="9" />
+  <path
+     id="rect1"
+     style="opacity:0.2;fill:#000000;stroke-width:2"
+     d="M 12 11 C 10.892009 11 10 11.892009 10 13 L 10 19 L 12 19 L 12 13 L 18 13 L 18 11 L 12 11 z M 30 11 L 30 13 L 36 13 L 36 19 L 38 19 L 38 13 C 38 11.892009 37.107985 11 36 11 L 30 11 z M 22.5 20 L 21 22 L 19 22 C 18.446005 22 18 22.446003 18 23 L 18 29 C 18 29.553997 18.446005 30 19 30 L 29 30 C 29.553995 30 30 29.553997 30 29 L 30 23 C 30 22.446003 29.553995 22 29 22 L 27 22 L 25.5 20 L 22.5 20 z M 24 24 C 25.104568 24 26 24.895432 26 26 C 26 27.104568 25.104568 28 24 28 C 22.895432 28 22 27.104568 22 26 C 22 24.895432 22.895432 24 24 24 z M 10 31 L 10 37 C 10 38.107985 10.892009 39 12 39 L 18 39 L 18 37 L 12 37 L 12 31 L 10 31 z M 36 31 L 36 37 L 30 37 L 30 39 L 36 39 C 37.107985 39 38 38.107985 38 37 L 38 31 L 36 31 z " />
+  <path
+     id="rect2"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:2"
+     d="M 12 10 C 10.892011 10 10 10.892011 10 12 L 10 18 L 12 18 L 12 12 L 18 12 L 18 10 L 12 10 z M 30 10 L 30 12 L 36 12 L 36 18 L 38 18 L 38 12 C 38 10.892011 37.107983 10 36 10 L 30 10 z M 22.5 19 L 21 21 L 19 21 C 18.446005 21 18 21.446003 18 22 L 18 28 C 18 28.553997 18.446005 29 19 29 L 29 29 C 29.553995 29 30 28.553997 30 28 L 30 22 C 30 21.446003 29.553995 21 29 21 L 27 21 L 25.5 19 L 22.5 19 z M 24 23 C 25.104569 23 26 23.895431 26 25 C 26 26.104569 25.104569 27 24 27 C 22.895431 27 22 26.104569 22 25 C 22 23.895431 22.895431 23 24 23 z M 10 30 L 10 36 C 10 37.107983 10.892011 38 12 38 L 18 38 L 18 36 L 12 36 L 12 30 L 10 30 z M 36 30 L 36 36 L 30 36 L 30 38 L 36 38 C 37.107983 38 38 37.107983 38 36 L 38 30 L 36 30 z " />
+  <path
+     id="path1040"
+     style="opacity:0.1;fill:#ffffff;stroke-width:8;stroke-linecap:square"
+     d="m 13,4.000002 c -4.9859894,0 -8.9999996,4.0140098 -8.9999996,9 v 1 c 0,-4.9859902 4.01401,-9 8.9999996,-9 h 22 c 4.985992,0 9,4.0140098 9,9 v -1 c 0,-4.9859902 -4.014008,-9 -9,-9 z" />
+</svg>
