@@ -24,13 +24,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="8.3645833"
+     inkscape:zoom="8.15625"
      inkscape:cx="48"
      inkscape:cy="48"
-     inkscape:window-width="1850"
-     inkscape:window-height="1011"
-     inkscape:window-x="70"
-     inkscape:window-y="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="984"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5" />
   <defs
@@ -52,65 +52,65 @@
      y="6"
      ry="18" />
   <rect
-     style="opacity:0.2;fill:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round"
-     id="rect1604"
-     width="50"
+     style="opacity:0.2;fill:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     id="rect2051"
+     width="48"
      height="60"
-     x="28"
-     y="19"
+     x="30"
+     y="18.999998"
      ry="3" />
   <path
      id="rect1"
-     style="fill:#ca64ea"
-     d="M 31 18 C 29.338002 18 28 19.338002 28 21 L 28 75 C 28 76.661998 29.338002 78 31 78 L 63 78 L 78 33 L 78 21 C 78 19.338002 76.661998 18 75 18 L 31 18 z " />
+     style="opacity:1;fill:#ca64ea;fill-opacity:1;stroke-width:3"
+     d="m 33,18 c -1.661997,0 -3,1.338002 -3,3 v 54 c 0,1.661997 1.338003,3 3,3 H 63 L 78,33 V 21 c 0,-1.661998 -1.338003,-3 -3,-3 z" />
+  <path
+     id="path598"
+     style="opacity:0.2;fill:#ffffff;stroke-width:3"
+     d="M 33 18 C 31.338002 18 30 19.338002 30 21 L 30 22 C 30 20.338002 31.338002 19 33 19 L 75 19 C 76.661998 19 78 20.338002 78 22 L 78 21 C 78 19.338002 76.661998 18 75 18 L 33 18 z " />
   <rect
-     style="fill:#ae4bd5;fill-opacity:1"
+     style="opacity:1;fill:#ae4bd5;fill-opacity:1;stroke-width:3"
      id="rect2"
      width="15"
-     height="20"
+     height="21"
      x="63"
      y="33" />
   <rect
-     style="fill:#9332bf;fill-opacity:1"
+     style="opacity:1;fill:#9332bf;fill-opacity:1;stroke-width:3"
      id="rect3"
      width="15"
-     height="20"
+     height="21"
      x="63"
      y="48" />
   <path
      id="rect4"
-     style="fill:#7719aa;fill-opacity:1"
-     d="M 63 63 L 63 78 L 75 78 C 76.661998 78 78 76.661998 78 75 L 78 63 L 63 63 z " />
+     style="opacity:1;fill:#7719aa;fill-opacity:1;stroke-width:3"
+     d="m 63,63 v 15 h 12 c 1.661997,0 3,-1.338003 3,-3 V 63 Z" />
   <path
-     id="path525"
-     style="opacity:0.1;fill:#000000;stroke-width:1.5"
+     id="path415"
+     style="opacity:0.1;fill:#000000;stroke-width:3"
      d="M 63 33 L 63 34 L 78 34 L 78 33 L 63 33 z M 63 48 L 63 49 L 78 49 L 78 48 L 63 48 z M 63 63 L 63 64 L 78 64 L 78 63 L 63 63 z " />
-  <path
-     id="path553"
-     style="opacity:0.2;fill:#ffffff;stroke-width:1.5"
-     d="m 31,18 c -1.661998,0 -3,1.338001 -3,3 v 1 c 0,-1.661999 1.338002,-3 3,-3 h 44 c 1.661999,0 3,1.338001 3,3 v -1 c 0,-1.661999 -1.338001,-3 -3,-3 z" />
   <rect
-     style="opacity:0.2;fill:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round"
-     id="rect625"
-     width="32"
-     height="32"
-     x="12"
-     y="33"
+     style="opacity:0.2;fill:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     id="rect670"
+     width="33"
+     height="33"
+     x="15"
+     y="32"
      ry="3" />
   <rect
-     style="fill:#7719aa;fill-opacity:1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round"
-     id="rect627"
-     width="32"
-     height="32"
-     x="12"
-     y="32"
+     style="fill:#7719aa;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     id="rect672"
+     width="33"
+     height="33"
+     x="15"
+     y="31"
      ry="3" />
   <path
      id="path3"
-     style="fill:#ffffff;stroke-width:1.5"
-     d="m 20,38 v 20 h 4 V 45.125 L 31.625,58 H 36 V 38 H 32 V 50.875 L 24.375,38 Z" />
+     style="fill:#ffffff;stroke-width:3"
+     d="m 24,37 v 21 h 3 V 42.25 L 35.25,58 H 39 V 37 H 36 V 52.75 L 27.75,37 Z" />
   <path
      id="path1040"
      style="opacity:0.2;fill:#ffffff;stroke-width:6;stroke-linecap:square"
-     d="M 24,6 C 14.02803,6 6,14.02803 6,24 v 1 C 6,15.02801 14.02801,7 24,7 h 48 c 9.97199,0 18,8.02801 18,18 V 24 C 90,14.02803 81.971968,6 72,6 Z" />
+     d="M 24 6 C 14.02802 6 6 14.028021 6 24 L 6 25 C 6 15.028021 14.02802 7 24 7 L 72 7 C 81.971978 7 90 15.028021 90 25 L 90 24 C 90 14.028021 81.971978 6 72 6 L 24 6 z " />
 </svg>

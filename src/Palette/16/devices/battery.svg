@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1"
+   id="svg6"
+   sodipodi:docname="battery.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="48.9375"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="984"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <rect
+     style="fill:#4f4f4f;stroke-width:0.381881"
+     width="10"
+     height="13"
+     x="3"
+     y="3"
+     ry="1"
+     id="rect2" />
+  <rect
+     style="fill:#8e8e8e;stroke-width:0.5"
+     width="6"
+     height="2"
+     x="5"
+     y="1"
+     id="rect3" />
+  <path
+     id="path4"
+     style="fill:#c0f957;stroke-width:0.480384"
+     d="m 4,4 v 3 h 8 V 4 Z m 0,4 v 3 h 8 V 8 Z m 0,4 v 3 h 8 v -3 z" />
+</svg>

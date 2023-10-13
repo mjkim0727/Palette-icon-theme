@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   version="1"
+   id="svg3"
+   sodipodi:docname="drive-harddisk.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="16.3125"
+     inkscape:cx="23.969349"
+     inkscape:cy="24"
+     inkscape:window-width="1920"
+     inkscape:window-height="984"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <rect
+     style="opacity:0.2;fill:#000000"
+     id="rect3"
+     width="32"
+     height="40"
+     x="8"
+     y="5"
+     ry="2" />
+  <rect
+     style="opacity:1;fill:#8e8e8e;fill-opacity:1"
+     id="rect4"
+     width="32"
+     height="40"
+     x="8"
+     y="4"
+     ry="2" />
+  <path
+     style="opacity:0.5;fill:#000000"
+     d="m24 10c5.5228 0 10 4.4772 10 10s-4.4772 10-10 10h-10v-10c0-5.5228 4.4772-10 10-10zm0 5c-2.7614 0-5 2.2386-5 5s2.2386 5 5 5 5-2.2386 5-5-2.2386-5-5-5z"
+     id="path2" />
+  <path
+     style="fill:#ffffff;opacity:0.2"
+     d="m10 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h28c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-28z"
+     id="path3" />
+</svg>

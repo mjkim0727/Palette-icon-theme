@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="256"
+   height="256"
+   version="1"
+   id="svg3"
+   sodipodi:docname="drive-harddisk.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.0585938"
+     inkscape:cx="127.83652"
+     inkscape:cy="128"
+     inkscape:window-width="1920"
+     inkscape:window-height="984"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <rect
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:4"
+     id="rect4"
+     width="176"
+     height="224"
+     x="40"
+     y="18"
+     ry="16" />
+  <rect
+     style="fill:#8e8e8e;fill-opacity:1;stroke-width:4"
+     id="rect3"
+     width="176"
+     height="224"
+     x="40"
+     y="16"
+     ry="16" />
+  <path
+     style="opacity:0.5;stroke-width:4;fill:#000000"
+     d="M 128,48 C 97.072,48 72,73.072 72,104 v 56 h 56 c 30.928,0 56,-25.072 56,-56 0,-30.928 -25.072,-56 -56,-56 z m 0,32 a 24,24 0 0 1 24,24 24,24 0 0 1 -24,24 24,24 0 0 1 -24,-24 24,24 0 0 1 24,-24 z"
+     id="path2" />
+  <path
+     id="path3"
+     style="opacity:0.2;fill:#ffffff;stroke-width:4"
+     d="m 56,16 c -8.863992,0 -16,7.136008 -16,16 v 2 c 0,-8.863992 7.136008,-16 16,-16 h 144 c 8.864,0 16,7.136008 16,16 v -2 c 0,-8.863992 -7.136,-16 -16,-16 z" />
+</svg>
