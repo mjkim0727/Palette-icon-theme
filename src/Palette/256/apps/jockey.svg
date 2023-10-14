@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="jockey.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="3.0585938"
+     inkscape:cx="127.83653"
+     inkscape:cy="128"
+     inkscape:window-width="1920"
+     inkscape:window-height="984"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:16;stroke-linecap:square"
+     id="rect234"
+     width="224"
+     height="224"
+     x="16"
+     y="18"
+     ry="48" />
+  <rect
+     style="fill:#419d45;fill-opacity:1;stroke-width:16;stroke-linecap:square"
+     id="rect396"
+     width="224"
+     height="224"
+     x="16"
+     y="16"
+     ry="48" />
+  <path
+     d="m 84,54 v 24 h 8 V 54 Z m 20,0 v 24 h 8 V 54 Z m 20,0 v 24 h 8 V 54 Z m 20,0 v 24 h 8 V 54 Z m 20,0 v 24 h 8 V 54 Z M 52,86 v 8 h 24 v -8 z m 128,0 v 8 h 24 V 86 Z M 52,106 v 8 h 24 v -8 z m 128,0 v 8 h 24 v -8 z M 52,126 v 8 h 24 v -8 z m 128,0 v 8 h 24 v -8 z M 52,146 v 8 h 24 v -8 z m 128,0 v 8 h 24 v -8 z M 52,166 v 8 h 24 v -8 z m 128,0 v 8 h 24 v -8 z m -96,16 v 24 h 8 v -24 z m 20,0 v 24 h 8 v -24 z m 20,0 v 24 h 8 v -24 z m 20,0 v 24 h 8 v -24 z m 20,0 v 24 h 8 v -24 z"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:3.67492;stroke-linecap:round;stroke-linejoin:round"
+     id="path3276" />
+  <path
+     id="rect2627"
+     style="fill:#b7b7b7;fill-opacity:1;stroke-width:3.67492;stroke-linecap:round;stroke-linejoin:round"
+     d="m 84,52 v 24 h 8 V 52 Z m 20,0 v 24 h 8 V 52 Z m 20,0 v 24 h 8 V 52 Z m 20,0 v 24 h 8 V 52 Z m 20,0 v 24 h 8 V 52 Z M 52,84 v 8 h 24 v -8 z m 128,0 v 8 h 24 V 84 Z M 52,104 v 8 h 24 v -8 z m 128,0 v 8 h 24 v -8 z M 52,124 v 8 h 24 v -8 z m 128,0 v 8 h 24 v -8 z M 52,144 v 8 h 24 v -8 z m 128,0 v 8 h 24 v -8 z M 52,164 v 8 h 24 v -8 z m 128,0 v 8 h 24 v -8 z m -96,16 v 24 h 8 v -24 z m 20,0 v 24 h 8 v -24 z m 20,0 v 24 h 8 v -24 z m 20,0 v 24 h 8 v -24 z m 20,0 v 24 h 8 v -24 z"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+  <rect
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:20;stroke-linecap:round;stroke-linejoin:round"
+     id="rect3266"
+     width="128"
+     height="128"
+     x="64"
+     y="66"
+     ry="16" />
+  <rect
+     style="fill:#4e4e4e;fill-opacity:1;stroke-width:21.4806;stroke-linecap:round;stroke-linejoin:round"
+     id="rect1514"
+     width="128"
+     height="128"
+     x="64"
+     y="64"
+     ry="16" />
+  <path
+     id="rect1"
+     style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke-width:4"
+     d="m 80,64 c -8.863984,0 -16,7.136016 -16,16 v 2 c 0,-8.863984 7.136016,-16 16,-16 h 96 c 8.86398,0 16,7.136016 16,16 v -2 c 0,-8.863984 -7.13602,-16 -16,-16 z" />
+  <path
+     d="m 84,84 v 4 h 88 v -4 z m 0,12 v 4 h 48 v -4 z"
+     style="opacity:0.2;fill:#ffffff;stroke-width:40;stroke-linecap:round;stroke-linejoin:round"
+     id="path677"
+     sodipodi:nodetypes="cccccccccc" />
+  <path
+     id="path1040"
+     style="opacity:0.2;fill:#ffffff;stroke-width:16;stroke-linecap:square"
+     d="M 64,16 C 37.40808,16 16,37.40808 16,64 v 2 C 16,39.408084 37.40808,18 64,18 h 128 c 26.59192,0 48,21.408084 48,48 V 64 C 240,37.40808 218.59192,16 192,16 Z" />
+</svg>
