@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="applications-development.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="24.46875"
+     inkscape:cx="15.979566"
+     inkscape:cy="16"
+     inkscape:window-width="1920"
+     inkscape:window-height="984"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:2;stroke-linecap:square"
+     id="rect234"
+     width="28"
+     height="28"
+     x="2"
+     y="3"
+     ry="6" />
+  <rect
+     style="fill:#6d7b84;fill-opacity:1;stroke-width:2;stroke-linecap:square"
+     id="rect396"
+     width="28"
+     height="28"
+     x="2"
+     y="2"
+     ry="6" />
+  <path
+     style="fill:#ffffff"
+     d="m 11.469209,15.567283 c -0.231755,-0.152812 -0.154504,-0.611248 0.283255,-1.018749 0.976144,-0.898136 1.805385,-0.266795 1.805385,-0.266795 l 1.975185,-1.954782 -0.471241,-0.588562 c -0.592261,-0.585782 0.02575,-1.178339 0.02575,-1.178339 1.673789,-1.6299994 4.01696,-1.8644036 4.01696,-1.8644036 l 0.02575,-0.3259081 C 14.417902,7.172714 12.641242,9.2102124 11.997481,9.846931 c -0.592266,0.585781 -1.210149,1.196903 -1.364781,1.349843 -0.334757,0.331094 0,1.473388 -0.489259,2.008232 -0.2317563,0.229218 -0.5407622,0.331092 -0.7725173,0.331092 z"
+     id="path2" />
+  <rect
+     style="fill:#ffffff"
+     width="2.484"
+     height="4.1409998"
+     x="-4.7769189"
+     y="15.606661"
+     rx="0.82800001"
+     transform="rotate(-45.000001)"
+     id="rect2" />
+  <path
+     style="opacity:0.5;fill:none;stroke:#ffffff;stroke-width:2.78261;stroke-linecap:round;stroke-linejoin:round"
+     d="m 13.565034,12.173464 9.043478,10.434783"
+     id="path3" />
+  <path
+     style="opacity:0.2;fill:#000000"
+     d="m 17.560365,9.0737707 c -0.766583,0.271023 -1.691644,0.7257482 -2.472656,1.4863283 0,0 -0.564889,0.544353 -0.08984,1.105469 0.04972,-0.06652 0.08984,-0.105469 0.08984,-0.105469 1.673789,-1.6299998 4.017578,-1.8652346 4.017578,-1.8652346 l 0.02539,-0.3242187 C 18.564632,9.2268588 18.044692,9.1326192 17.560365,9.0737707 Z M 12.82599,14.064005 c -0.301835,0.0048 -0.674457,0.11656 -1.074219,0.484375 -0.08364,0.07786 -0.153257,0.157238 -0.210937,0.236328 l 0.214843,0.214844 c 0.107821,0.107821 0.176742,0.237875 0.212891,0.375 0.817254,-0.587558 1.48141,-0.169331 1.570312,-0.107422 l 8.017579,9.251953 a 1.391305,1.391305 0 0 0 1.96289,0.140625 1.391305,1.391305 0 0 0 0.386719,-1.554687 1.391305,1.391305 0 0 1 -0.386719,0.554687 1.391305,1.391305 0 0 1 -1.96289,-0.140625 L 13.53888,14.26713 c -0.05436,-0.03785 -0.324817,-0.209248 -0.71289,-0.203125 z m -4.6503909,0.849609 c -0.2492507,0.325276 -0.2295502,0.788028 0.068359,1.085938 l 1.7558594,1.755859 c 0.3244025,0.324403 0.8474715,0.324404 1.1718745,0 l 0.583984,-0.583984 c 0.297911,-0.29791 0.31761,-0.760662 0.06836,-1.085937 -0.02217,0.02893 -0.04187,0.05944 -0.06836,0.08594 l -0.583984,0.583984 c -0.324403,0.324404 -0.847472,0.324403 -1.1718745,0 l -1.755859,-1.755862 c -0.026493,-0.02649 -0.046193,-0.05701 -0.068359,-0.08594 z"
+     id="path5" />
+  <path
+     id="path1040"
+     style="opacity:0.1;fill:#ffffff;stroke-width:2;stroke-linecap:square"
+     d="M 8,2 C 4.6760066,2 2,4.6760068 2,8 V 9 C 2,5.6760035 4.6760033,3 8,3 h 16 c 3.323997,0 6,2.6760035 6,6 V 8 C 30,4.6760068 27.323993,2 24,2 Z" />
+</svg>

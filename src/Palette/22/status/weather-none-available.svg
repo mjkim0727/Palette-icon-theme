@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg1046"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="weather-none-available.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1048"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="35.590909"
+     inkscape:cx="10.985951"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="984"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1046" />
+  <defs
+     id="defs1043" />
+  <circle
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round"
+     id="path2255"
+     cx="11"
+     cy="11.5"
+     r="10" />
+  <circle
+     style="fill:#6e6e6e;fill-opacity:1;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round"
+     id="path1557"
+     cx="11"
+     cy="11"
+     r="10" />
+  <path
+     d="m 11.99999,18.4999 h -2 v -2 h 2 z m 2.07,-7.7499 -0.89999,0.91999 c -0.72,0.73 -1.17,1.33 -1.17,2.83 h -2 v -0.5 c 0,-1.1 0.45,-2.1 1.17,-2.83 l 1.24,-1.26 C 12.78,9.54999 13,9.05 13,8.5 c 0,-1.1 -0.89999,-2 -2,-2 -1.10001,0 -2,0.89999 -2,2 H 7 c 0,-2.21 1.79,-4 4,-4 2.21,0 4,1.79 4,4 0,0.87998 -0.36,1.68 -0.92999,2.25 z"
+     style="opacity:0.2;fill:#000000"
+     id="path3266"
+     sodipodi:nodetypes="cccccccccsccssccsssc" />
+  <path
+     d="m 11.99999,17.99995 h -2 v -2 h 2 z m 2.07,-7.7499 -0.89999,0.91999 c -0.72,0.73 -1.17,1.33 -1.17,2.83 h -2 v -0.5 c 0,-1.1 0.45,-2.1 1.17,-2.83 l 1.24,-1.26 C 12.78,9.05004 13,8.55005 13,8.00005 c 0,-1.1 -0.89999,-2 -2,-2 -1.10001,0 -2,0.89999 -2,2 H 7 c 0,-2.21 1.79,-4 4,-4 2.21,0 4,1.79 4,4 0,0.87998 -0.36,1.68 -0.92999,2.25 z"
+     style="fill:#ffffff"
+     id="path3294"
+     sodipodi:nodetypes="cccccccccsccssccsssc" />
+  <path
+     id="path2282"
+     style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round"
+     d="M 11,1.0000002 A 10,10 0 0 0 1,11 10,10 0 0 0 1.0176,11.25 10,10 0 0 1 11,1.5000002 10,10 0 0 1 20.99121,11.125 10,10 0 0 0 21,11 10,10 0 0 0 11,1.0000002 Z" />
+</svg>

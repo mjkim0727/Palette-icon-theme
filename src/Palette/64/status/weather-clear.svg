@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
-   sodipodi:docname="image-missing.svg"
+   sodipodi:docname="weather-clear.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -35,32 +35,32 @@
      inkscape:current-layer="svg5" />
   <defs
      id="defs2" />
-  <rect
-     style="opacity:0.2;fill:#000000;stroke-linecap:round;stroke-linejoin:round"
-     id="rect344"
-     width="56"
-     height="48"
-     x="4"
-     y="9"
-     ry="6" />
-  <rect
-     style="fill:#e4e4e4;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round"
-     id="rect234"
-     width="56"
-     height="48"
-     x="4"
-     y="8"
-     ry="6" />
   <path
-     d="m 22,27 14,14 10,-8 8,8 V 51 H 10 V 39 Z"
      style="opacity:0.2;fill:#000000;stroke-width:2"
-     id="path1720" />
+     d="m 32,5 -8,8 H 12 v 12 l -8,8 8,8 v 12 h 12 l 8,8 8,-8 H 52 V 41 l 8,-8 -8,-8 V 13 H 40 Z"
+     id="path3" />
   <path
-     d="m 22,26 14,14 10,-8 8,8 V 50 H 10 V 38 Z"
-     style="fill:#757575;stroke-width:2;fill-opacity:1"
-     id="path1692" />
+     style="fill:#ff8a47;stroke-width:2"
+     d="m 32,4 -8,8 H 12 v 12 l -8,8 8,8 v 12 h 12 l 8,8 8,-8 H 52 V 40 l 8,-8 -8,-8 V 12 H 40 Z"
+     id="path4" />
   <path
-     id="rect1810"
-     style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke-width:4;stroke-linecap:square"
-     d="M 10 8 C 6.6760033 8 4 10.676003 4 14 L 4 15 C 4 11.676003 6.6760033 9 10 9 L 54 9 C 57.323997 9 60 11.676003 60 15 L 60 14 C 60 10.676003 57.323997 8 54 8 L 10 8 z " />
+     id="path5"
+     style="opacity:0.2;fill:#ffffff;stroke-width:2"
+     d="m 32,4 -8,8 H 12 v 1 h 12 l 8,-8 8,8 H 52 V 12 H 40 Z M 12,24 4,32 4.5,32.5 12,25 Z m 40,0 v 1 L 59.5,32.5 60,32 Z" />
+  <circle
+     style="opacity:0.2;fill:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     id="path9"
+     cx="32"
+     cy="33"
+     r="16" />
+  <circle
+     style="fill:#ffcc42;fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     id="path10"
+     cx="32"
+     cy="32"
+     r="16" />
+  <path
+     id="path11"
+     style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     d="M 32,16 A 16,16 0 0 0 16,32 16,16 0 0 0 16.03516,32.511718 16,16 0 0 1 32,17 16,16 0 0 1 47.980468,32.25 16,16 0 0 0 48,32 16,16 0 0 0 32,16 Z" />
 </svg>
