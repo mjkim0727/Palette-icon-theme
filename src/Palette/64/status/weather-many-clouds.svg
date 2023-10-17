@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="weather-many-clouds.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="12.234375"
+     inkscape:cx="31.959132"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="984"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     showguides="false" />
+  <defs
+     id="defs2" />
+  <path
+     id="path1"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:2.16666;stroke-linecap:round;stroke-linejoin:round"
+     d="M 39,9 A 13,13 0 0 0 26,22 13,13 0 0 0 39,35 H 53 A 9,9 0 0 0 62,26 9,9 0 0 0 53,17 9,9 0 0 0 51.089844,17.226562 13,13 0 0 0 39,9 Z" />
+  <path
+     id="path2"
+     style="fill:#d0d0d0;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="M 39,8 A 13,13 0 0 0 26,21 13,13 0 0 0 39,34 H 53 A 9,9 0 0 0 62,25 9,9 0 0 0 53,16 9,9 0 0 0 51.089844,16.226562 13,13 0 0 0 39,8 Z" />
+  <path
+     id="path4"
+     style="opacity:0.2;fill:#000000;stroke-width:4"
+     d="M 32 17 C 24.955702 17.0068 19.013395 22.246321 18.125 29.234375 C 17.427077 29.080535 16.714671 29.00196 16 29 C 10.477157 29 6 33.477157 6 39 C 6 44.522843 10.477157 49 16 49 L 48 49 C 53.522843 49 58 44.522843 58 39 C 58 33.477157 53.522843 29 48 29 C 47.289993 29.0084 46.58288 29.092 45.890625 29.25 C 45.008698 22.249642 39.055494 16.999784 32 17 z " />
+  <path
+     id="path3"
+     style="fill:#f2f2f2;fill-opacity:1;stroke-width:4"
+     d="M 32 16 C 24.955702 16.0068 19.013395 21.246321 18.125 28.234375 C 17.427077 28.080535 16.714671 28.00196 16 28 C 10.477157 28 6 32.477158 6 38 C 6 43.522843 10.477157 48 16 48 L 48 48 C 53.522843 48 58 43.522843 58 38 C 58 32.477158 53.522843 28 48 28 C 47.289993 28.0084 46.58288 28.092 45.890625 28.25 C 45.008698 21.249626 39.055494 15.999784 32 16 z " />
+</svg>
