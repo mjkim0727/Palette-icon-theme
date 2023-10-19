@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="gnome-boxes.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="16.3125"
+     inkscape:cx="23.969349"
+     inkscape:cy="24"
+     inkscape:window-width="1920"
+     inkscape:window-height="984"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:2.85714;stroke-linecap:square"
+     id="rect234"
+     width="40"
+     height="40"
+     x="4"
+     y="4.999999"
+     ry="9" />
+  <rect
+     style="fill:#4d4d4d;fill-opacity:1;stroke-width:2.85714;stroke-linecap:square"
+     id="rect396"
+     width="40"
+     height="40"
+     x="4"
+     y="4"
+     ry="9" />
+  <path
+     id="path3"
+     d="M 12,13 V 37 H 36 V 13 Z m 3.707031,3 h 16.585938 l -3.396485,3.396484 0.707032,0.707032 L 33,16.707031 V 33.292969 L 29.603516,29.896484 28.896484,30.603516 32.292969,34 H 15.707031 L 19.103516,30.603516 18.396484,29.896484 15,33.292969 V 16.707031 l 3.396484,3.396485 0.707032,-0.707032 z M 19,20 V 30 H 29 V 20 Z m 2,2 h 6 v 6 h -6 z"
+     style="opacity:0.2;fill:#000000" />
+  <path
+     id="path4"
+     d="M 12,12 V 36 H 36 V 12 Z m 3.707031,3 h 16.585938 l -3.396485,3.396484 0.707032,0.707032 L 33,15.707031 V 32.292969 L 29.603516,28.896484 28.896484,29.603516 32.292969,33 H 15.707031 L 19.103516,29.603516 18.396484,28.896484 15,32.292969 V 15.707031 l 3.396484,3.396485 0.707032,-0.707032 z M 19,19 V 29 H 29 V 19 Z m 2,2 h 6 v 6 h -6 z"
+     style="fill:#c4c4c4;fill-opacity:1" />
+  <path
+     id="path5"
+     d="M 13.5,11 A 3.5,3.5 0 0 0 10,14.5 3.5,3.5 0 0 0 13.5,18 3.5,3.5 0 0 0 17,14.5 3.5,3.5 0 0 0 13.5,11 Z m 21,0 A 3.5,3.5 0 0 0 31,14.5 3.5,3.5 0 0 0 34.5,18 3.5,3.5 0 0 0 38,14.5 3.5,3.5 0 0 0 34.5,11 Z M 20,19 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z m 8,0 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z m -8,8 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z m 8,0 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z M 13.5,32 A 3.5,3.5 0 0 0 10,35.5 3.5,3.5 0 0 0 13.5,39 3.5,3.5 0 0 0 17,35.5 3.5,3.5 0 0 0 13.5,32 Z m 21,0 A 3.5,3.5 0 0 0 31,35.5 3.5,3.5 0 0 0 34.5,39 3.5,3.5 0 0 0 38,35.5 3.5,3.5 0 0 0 34.5,32 Z"
+     style="opacity:0.2;fill:#000000" />
+  <path
+     id="path6"
+     d="M 13.5,10 A 3.5,3.5 0 0 0 10,13.5 3.5,3.5 0 0 0 13.5,17 3.5,3.5 0 0 0 17,13.5 3.5,3.5 0 0 0 13.5,10 Z m 21,0 A 3.5,3.5 0 0 0 31,13.5 3.5,3.5 0 0 0 34.5,17 3.5,3.5 0 0 0 38,13.5 3.5,3.5 0 0 0 34.5,10 Z M 20,18 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z m 8,0 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z m -8,8 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z m 8,0 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z M 13.5,31 A 3.5,3.5 0 0 0 10,34.5 3.5,3.5 0 0 0 13.5,38 3.5,3.5 0 0 0 17,34.5 3.5,3.5 0 0 0 13.5,31 Z m 21,0 A 3.5,3.5 0 0 0 31,34.5 3.5,3.5 0 0 0 34.5,38 3.5,3.5 0 0 0 38,34.5 3.5,3.5 0 0 0 34.5,31 Z"
+     style="fill:#e8e8e8;fill-opacity:1" />
+  <path
+     id="path1040"
+     style="opacity:0.1;fill:#ffffff;stroke-width:8;stroke-linecap:square"
+     d="m 13,4.0000003 c -4.9859899,0 -8.9999999,4.01401 -8.9999999,8.9999997 v 1 c 0,-4.9859897 4.01401,-8.9999997 8.9999999,-8.9999997 h 22 c 4.985992,0 9,4.01401 9,8.9999997 V 13 C 44,8.0140103 39.985992,4.0000003 35,4.0000003 Z" />
+</svg>
