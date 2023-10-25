@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="96"
+   height="96"
+   version="1"
+   id="svg19"
+   sodipodi:docname="audio-card.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs19" />
+  <sodipodi:namedview
+     id="namedview19"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="8.15625"
+     inkscape:cx="47.938697"
+     inkscape:cy="48"
+     inkscape:window-width="1920"
+     inkscape:window-height="984"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg19" />
+  <path
+     style="opacity:0.2;fill:#000000;stroke-width:3"
+     d="M 21.9999,22.0012 C 19.7841,22.0012 18,23.8537 18,26.155 v 45.69 C 18,74.146 19.7841,76 21.9999,76 H 30 v -9 h 18 v 9 H 86.001 C 88.215,76 90,74.146 90,71.845 V 26.155 C 90,23.8525 88.215,22 86.001,22 Z"
+     id="path1" />
+  <path
+     fill="#419d45"
+     d="M 21.9999,21 C 19.7841,21 18,22.8525 18,25.1538 v 45.69 c 0,2.301 1.7841,4.155 3.9999,4.155 H 30 v -9 h 18 v 9 h 38.001 c 2.214,0 3.999,-1.854 3.999,-4.155 v -45.69 c 0,-2.3025 -1.785,-4.155 -3.999,-4.155 z"
+     id="path2"
+     style="stroke-width:3" />
+  <path
+     id="rect2"
+     style="fill:#b7b7b7;stroke-width:3"
+     d="m 48,30 v 6 h 3 v -6 z m 9,0 v 6 h 3 v -6 z m -18,9 v 3 h 6 v -3 z m 24,0 v 3 h 6 v -3 z m -24,9 v 3 h 6 v -3 z m 24,0 v 3 h 6 v -3 z m -15,6 v 6 h 3 v -6 z m 9,0 v 6 h 3 v -6 z" />
+  <rect
+     fill="#4e4e4e"
+     width="18"
+     height="18"
+     x="45"
+     y="36"
+     rx="3.6000001"
+     ry="3.6000001"
+     id="rect10"
+     style="stroke-width:3" />
+  <path
+     id="path10"
+     style="color:#000000;opacity:0.2;fill:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 9,13 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 h 3 v 60 a 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 V 16 a 3.0003,3.0003 0 0 0 -3,-3 z" />
+  <path
+     style="color:#000000;fill:#b7b7b7;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 9,12 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 h 3 v 60 a 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 V 15 a 3.0003,3.0003 0 0 0 -3,-3 z"
+     id="path11" />
+  <path
+     id="rect11"
+     style="opacity:0.2;fill:#000000;stroke-width:3"
+     d="m 51,67 v 12 h 6 V 67 Z m 9,0 v 12 h 6 V 67 Z m 9,0 v 12 h 6 V 67 Z m 9,0 v 12 h 6 V 67 Z" />
+  <path
+     id="rect15"
+     style="fill:#f8c44e;stroke-width:3"
+     d="m 51,66 v 12 h 6 V 66 Z m 9,0 v 12 h 6 V 66 Z m 9,0 v 12 h 6 V 66 Z m 9,0 v 12 h 6 V 66 Z" />
+  <path
+     id="path18"
+     style="stroke-width:3;fill:#ffffff;opacity:0.2"
+     d="M 22.001953 21 C 19.785855 21 18 22.852999 18 25.154297 L 18 26.154297 C 18 23.852999 19.785855 22 22.001953 22 L 85.998047 22 C 88.215045 22 90 23.852999 90 26.154297 L 90 25.154297 C 90 22.852999 88.215045 21 85.998047 21 L 22.001953 21 z " />
+  <path
+     id="path19"
+     style="opacity:0.2;fill:#ffffff;stroke-width:3"
+     d="M 9.0449219 12 C 7.0420033 11.973416 5.6698996 13.833857 6.0722656 15.640625 A 3 3 0 0 1 9 13 L 15 13 A 3.0003 3.0003 0 0 1 18 16 L 18 15 C 17.999834 13.34322 16.65678 12.000166 15 12 L 9.0449219 12 z " />
+</svg>
