@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64.000004"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="application-x-ms-dos-executable.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="12.234375"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="984"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     id="rect234"
+     style="opacity:0.2;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="m 14,5 h 24 l 16,16 v 36 c 0,2.216 -1.784,4 -4,4 H 14 c -2.216,0 -4,-1.784 -4,-4 V 9 c 0,-2.216 1.784,-4 4,-4 z" />
+  <path
+     id="rect448"
+     style="fill:#e0e0e0;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="m 14,4 h 24 l 6,10 10,6 v 36 c 0,2.216 -1.784,4 -4,4 H 14 c -2.216,0 -4,-1.784 -4,-4 V 8 c 0,-2.216 1.784,-4 4,-4 z" />
+  <path
+     id="path1"
+     style="fill:#2a8de2;fill-opacity:1;stroke-width:4"
+     d="M 19,28 V 40 H 31 V 28 Z m 14,0 V 40 H 45 V 28 Z M 19,42 V 54 H 31 V 42 Z m 14,0 V 54 H 45 V 42 Z" />
+  <path
+     id="path611"
+     style="opacity:0.2;fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 38 4 L 38 17 C 38 19.215998 39.784002 21 42 21 L 54 21 L 54 20 L 38 4 z " />
+  <path
+     id="rect600"
+     style="fill:#f5f5f5;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 54,20 H 42 c -2.216,0 -4,-1.784 -4,-4 V 4 Z" />
+  <path
+     id="path1133"
+     style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 14 4 C 11.784006 4 10 5.7840066 10 8 L 10 9 C 10 6.7840064 11.784006 5 14 5 L 38 5 L 53 20 L 54 20 L 38 4 L 14 4 z " />
+</svg>

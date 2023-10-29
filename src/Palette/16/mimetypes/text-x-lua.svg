@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16.000001"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="text-x-lua.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="50.375"
+     inkscape:cx="8"
+     inkscape:cy="7.9900744"
+     inkscape:window-width="1920"
+     inkscape:window-height="984"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     id="rect448"
+     style="fill:#e0e0e0;fill-opacity:1;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round"
+     d="M 3,1 H 9 L 10.5,4.5 14,6 v 9 c 0,0.554 -0.446,1 -1,1 H 3 C 2.446,16 2,15.554 2,15 V 2 C 2,1.446 2.446,1 3,1 Z" />
+  <path
+     d="m 11,7 c -0.552285,0 -1,0.4477153 -1,1 0,0.5522847 0.447715,1 1,1 0.552285,0 1,-0.4477153 1,-1 C 12,7.4477153 11.552285,7 11,7 Z M 8,8 c -1.6568542,0 -3,1.343146 -3,3 0,1.656854 1.3431458,3 3,3 1.6568542,0 3,-1.343146 3,-3 C 11,9.343146 9.6568542,8 8,8 Z m 1,1 c 0.5522847,0 1,0.447715 1,1 0,0.552285 -0.4477153,1 -1,1 C 8.4477153,11 8,10.552285 8,10 8,9.447715 8.4477153,9 9,9 Z"
+     style="fill:#31519b;fill-opacity:1"
+     id="path1" />
+  <path
+     id="rect600"
+     style="fill:#f5f5f5;fill-opacity:1;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round"
+     d="M 14,6 H 10 C 9.446,6 9,5.554 9,5 V 1 Z" />
+</svg>

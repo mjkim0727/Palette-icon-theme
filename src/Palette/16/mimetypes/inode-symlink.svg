@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16.000001"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="inode-symlink.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="52.2"
+     inkscape:cx="7.9980843"
+     inkscape:cy="8.4961686"
+     inkscape:window-width="1400"
+     inkscape:window-height="1018"
+     inkscape:window-x="460"
+     inkscape:window-y="-45"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg5"
+     showguides="false" />
+  <defs
+     id="defs2" />
+  <path
+     id="rect448"
+     style="fill:#4f6772;fill-opacity:1;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round"
+     d="M 3,1 H 9 L 10.5,4.5 14,6 v 9 c 0,0.554 -0.446,1 -1,1 H 3 C 2.446,16 2,15.554 2,15 V 2 C 2,1.446 2.446,1 3,1 Z" />
+  <path
+     style="fill:#ffffff"
+     d="m 5,7 0.3410458,0.3224464 c 0.2578917,0.2679232 0.5483863,0.5111368 0.8135513,0.7727344 0.00291,0.00248 0.00745,0.00396 0.010517,0.00639 L 6.5955525,8.5085372 C 5.8467133,9.228568 4.9886829,10.469256 5.0022529,11.482999 c -0.029729,0.674874 0.2564566,1.328495 0.7136421,1.845188 0.7435583,0.841848 1.8565771,1.340649 2.98152,1.585952 0.1620808,0.03575 0.989171,0.19441 0.536358,-0.03906 C 8.4574366,14.528945 7.6284458,14.137309 7.1950117,13.409152 6.7213966,12.718733 7.0497808,11.726776 7.5623491,11.020634 7.7788588,10.764376 8.0523816,10.382286 8.3466038,10.164092 L 10,11.727318 V 9.2684872 7 H 9.9985 Z"
+     id="path3" />
+  <path
+     id="rect600"
+     style="fill:#839ea9;fill-opacity:1;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round"
+     d="M 14,6 H 10 C 9.446,6 9,5.554 9,5 V 1 Z" />
+</svg>
