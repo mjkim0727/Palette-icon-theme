@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="arch-updates-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="49.8125"
+     inkscape:cx="7.9899624"
+     inkscape:cy="8"
+     inkscape:window-width="1850"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     id="path346"
+     style="fill:#4d4d4d;fill-opacity:1"
+     d="M 8 0 L 2 2 L 2 9 C 2 11.069992 3.5794587 12.489457 4.9394531 13.439453 C 6.2994479 14.389449 8 15 8 15 C 8 15 9.0589265 14.615443 10.173828 13.988281 A 3 3 0 0 1 10 13 A 3 3 0 0 1 10.496094 11.351562 C 10.30987 11.504558 10.116627 11.656838 9.9101562 11.802734 C 9.1361014 12.342347 8.491354 12.570234 8 12.773438 C 7.5076446 12.56982 6.8604758 12.341821 6.0859375 11.800781 C 4.8968079 10.97014 4 10.052282 4 9 L 4 3.4414062 L 8 2 L 12 3.4414062 L 12 9 C 12 9.502965 11.772895 9.9944844 11.398438 10.464844 A 3 3 0 0 1 13 10 A 3 3 0 0 1 13.833984 10.119141 C 13.939772 9.7676489 14 9.3958258 14 9 L 14 2 L 8 0 z M 8 3 C 7.4477159 3 7 3.4477159 7 4 C 7 4.5522841 7.4477159 5 8 5 C 8.5522841 5 9 4.5522841 9 4 C 9 3.4477159 8.5522841 3 8 3 z M 6 6 L 6 7 L 7 7 L 7 11 L 9 11 L 9 6 L 7 6 L 6 6 z " />
+  <circle
+     style="opacity:1;fill:#ff9800;stroke-width:2;fill-opacity:1"
+     id="path1"
+     cx="13"
+     cy="13"
+     r="2"
+     class="warning" />
+</svg>
