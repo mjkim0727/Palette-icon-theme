@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="a-dance-of-fire-and-ice.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="6.2265625"
+     inkscape:cx="63.919699"
+     inkscape:cy="64"
+     inkscape:window-width="1850"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:8;stroke-linecap:square"
+     id="rect234"
+     width="112"
+     height="112"
+     x="8"
+     y="9"
+     ry="24" />
+  <rect
+     style="fill:#3e265c;fill-opacity:1;stroke-width:8;stroke-linecap:square"
+     id="rect396"
+     width="112"
+     height="112"
+     x="8"
+     y="8"
+     ry="24" />
+  <path
+     style="fill:#2252c4;stroke-width:4"
+     d="m 96,95.998856 c -29.223644,12.095264 -50.513436,7.243194 -64,-16 15.03488,1.063044 31.939024,6.4127 48,-12 z"
+     id="path2" />
+  <path
+     style="fill:#ed2d30;stroke-width:4"
+     d="m 32,31.998858 c 29.675288,-10.940488 55.43488,-7.75397 68,16.000002 -14.981644,-1.651556 -35.229648,-5.769008 -52,12 z"
+     id="path4" />
+  <circle
+     style="opacity:0.2;fill:#000000;stroke-width:5.14284"
+     id="path7"
+     cx="88"
+     cy="83"
+     r="18" />
+  <circle
+     style="opacity:0.2;fill:#000000;stroke-width:5.14284"
+     id="path8"
+     cx="40"
+     cy="47"
+     r="18" />
+  <circle
+     style="fill:#ff7043;fill-opacity:1;stroke-width:5.14284"
+     id="path9"
+     cx="40"
+     cy="46"
+     r="18" />
+  <circle
+     style="fill:#448aff;fill-opacity:1;stroke-width:5.14284"
+     id="path10"
+     cx="88"
+     cy="82"
+     r="18" />
+  <path
+     id="path5"
+     style="opacity:0.1;fill:#ffffff;stroke-width:4"
+     d="M 88,64 A 18,18 0 0 0 70,82 18,18 0 0 0 70.03516,82.503906 18,18 0 0 1 88,65 18,18 0 0 1 105.98047,82.261718 18,18 0 0 0 106,82 18,18 0 0 0 88,64 Z" />
+  <path
+     id="path6"
+     style="opacity:0.2;fill:#ffffff;stroke-width:4"
+     d="M 40,28 A 18,18 0 0 0 22,46 18,18 0 0 0 22.03516,46.503906 18,18 0 0 1 40,29 18,18 0 0 1 57.980468,46.261718 18,18 0 0 0 58,46 18,18 0 0 0 40,28 Z" />
+  <path
+     id="path1040"
+     style="opacity:0.1;fill:#ffffff;stroke-width:8;stroke-linecap:square"
+     d="M 32,8 C 18.70404,8 8,18.70404 8,32 v 1 C 8,19.70404 18.70404,9 32,9 h 64 c 13.29596,0 24,10.70404 24,24 V 32 C 120,18.70404 109.29596,8 96,8 Z" />
+</svg>
