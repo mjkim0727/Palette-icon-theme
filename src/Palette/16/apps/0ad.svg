@@ -28,7 +28,7 @@
      inkscape:cx="8"
      inkscape:cy="8"
      inkscape:window-width="1920"
-     inkscape:window-height="1008"
+     inkscape:window-height="1004"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -70,6 +70,6 @@
      d="M 7.5 2 A 5.5 5.5 0 0 0 2 7.5 A 5.5 5.5 0 0 0 2.0175781 7.75 A 5.5 5.5 0 0 1 7.5 2.5 A 5.5 5.5 0 0 1 12.988281 7.6601562 A 5.5 5.5 0 0 0 13 7.5 A 5.5 5.5 0 0 0 7.5 2 z " />
   <path
      id="rect639"
-     style="fill:#ffffff;stroke-linecap:square;opacity:0.1"
+     style="fill:#ffffff;stroke-linecap:square;opacity:0.2"
      d="M 4 0 C 1.7840022 0 0 1.7840022 0 4 L 0 5 C 0 2.7840022 1.7840022 1 4 1 L 12 1 C 14.215998 1 16 2.7840022 16 5 L 16 4 C 16 1.7840022 14.215998 0 12 0 L 4 0 z " />
 </svg>
