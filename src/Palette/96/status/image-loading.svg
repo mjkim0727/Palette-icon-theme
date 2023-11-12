@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="64"
-   height="64"
-   viewBox="0 0 64 64"
+   width="96"
+   height="96"
+   viewBox="0 0 96 96"
    version="1.1"
    id="svg5"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="12.5"
-     inkscape:cx="31.96"
-     inkscape:cy="32"
+     inkscape:zoom="8.3333333"
+     inkscape:cx="47.94"
+     inkscape:cy="48"
      inkscape:window-width="1920"
      inkscape:window-height="1004"
      inkscape:window-x="0"
@@ -36,27 +36,27 @@
   <defs
      id="defs2" />
   <rect
-     style="opacity:0.2;fill:#000000;stroke-linecap:round;stroke-linejoin:round"
+     style="opacity:0.2;fill:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round"
      id="rect344"
-     width="56"
-     height="48"
-     x="4"
-     y="9"
-     ry="6" />
+     width="84"
+     height="72"
+     x="6"
+     y="13"
+     ry="9" />
   <rect
-     style="fill:#e4e4e4;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#e4e4e4;fill-opacity:1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round"
      id="rect234"
-     width="56"
-     height="48"
-     x="4"
-     y="8"
-     ry="6" />
+     width="84"
+     height="72"
+     x="6"
+     y="12"
+     ry="9" />
   <path
      id="path4030"
-     style="fill:#999999;fill-opacity:1;stroke-width:2"
-     d="m 16,28 a 4,4 0 0 0 -4,4 4,4 0 0 0 4,4 4,4 0 0 0 4,-4 4,4 0 0 0 -4,-4 z m 16,0 a 4,4 0 0 0 -4,4 4,4 0 0 0 4,4 4,4 0 0 0 4,-4 4,4 0 0 0 -4,-4 z m 16,0 a 4,4 0 0 0 -4,4 4,4 0 0 0 4,4 4,4 0 0 0 4,-4 4,4 0 0 0 -4,-4 z" />
+     style="fill:#999999;fill-opacity:1;stroke-width:3"
+     d="m 24,42 a 6,6 0 0 0 -6,6 6,6 0 0 0 6,6 6,6 0 0 0 6,-6 6,6 0 0 0 -6,-6 z m 24,0 a 6,6 0 0 0 -6,6 6,6 0 0 0 6,6 6,6 0 0 0 6,-6 6,6 0 0 0 -6,-6 z m 24,0 a 6,6 0 0 0 -6,6 6,6 0 0 0 6,6 6,6 0 0 0 6,-6 6,6 0 0 0 -6,-6 z" />
   <path
      id="rect1810"
-     style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke-width:4;stroke-linecap:square"
-     d="M 10 8 C 6.6760033 8 4 10.676003 4 14 L 4 15 C 4 11.676003 6.6760033 9 10 9 L 54 9 C 57.323997 9 60 11.676003 60 15 L 60 14 C 60 10.676003 57.323997 8 54 8 L 10 8 z " />
+     style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke-width:6;stroke-linecap:square"
+     d="M 15 12 C 10.014015 12 6 16.014014 6 21 L 6 22 C 6 17.014014 10.014015 13 15 13 L 81 13 C 85.985986 13 90 17.014014 90 22 L 90 21 C 90 16.014014 85.985986 12 81 12 L 15 12 z " />
 </svg>
