@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="system-switch-user.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="6.25"
+     inkscape:cx="63.92"
+     inkscape:cy="64"
+     inkscape:window-width="1920"
+     inkscape:window-height="1004"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:8;stroke-linecap:square"
+     id="rect234"
+     width="112"
+     height="112"
+     x="8"
+     y="9"
+     ry="24" />
+  <rect
+     style="fill:#3f51b5;fill-opacity:1;stroke-width:8;stroke-linecap:square"
+     id="rect396"
+     width="112"
+     height="112"
+     x="8"
+     y="8"
+     ry="24" />
+  <path
+     id="path2"
+     style="opacity:0.2;stroke-width:4"
+     d="m 84,25 c -3.027316,0 -6.05464,1.961902 -6,5.882812 V 77 H 64 l 20,26 20,-26 H 90 V 30.882812 C 90.054644,26.961902 87.027316,25 84,25 Z M 44,27 24,53 h 14 v 46.117188 c -0.10928,7.841822 12.109284,7.841822 12,0 V 53 h 14 z" />
+  <path
+     id="path3"
+     style="fill:#ffffff;stroke-width:4"
+     d="m 84,24 c -3.027316,0 -6.05464,1.961902 -6,5.882812 V 76 H 64 l 20,26 20,-26 H 90 V 29.882812 C 90.054644,25.961902 87.027316,24 84,24 Z M 44,26 24,52 h 14 v 46.117188 c -0.10928,7.841822 12.109284,7.841822 12,0 V 52 h 14 z" />
+  <path
+     id="path1040"
+     style="opacity:0.1;fill:#ffffff;stroke-width:8;stroke-linecap:square"
+     d="M 32,8 C 18.70408,8 8,18.70408 8,32 v 1 C 8,19.70408 18.70408,9 32,9 h 64 c 13.29592,0 24,10.70408 24,24 V 32 C 120,18.70408 109.29592,8 96,8 Z" />
+</svg>

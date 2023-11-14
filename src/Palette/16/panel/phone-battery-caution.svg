@@ -10,11 +10,6 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <path
-     id="rect342"
-     style="fill:currentColor;stroke-linecap:square"
-     d="M 10,2 C 9.4460012,2 9,2.4460012 9,3 v 10 c 0,0.553998 0.4460012,1 1,1 h 5 c 0.553998,0 1,-0.446002 1,-1 V 3 C 16,2.4460012 15.553998,2 15,2 Z m 0,2 h 5 v 8 h -5 z"
-     class="ColorScheme-Text" />
   <sodipodi:namedview
      id="namedview909"
      pagecolor="#ffffff"
@@ -52,4 +47,9 @@
      style="fill:currentColor;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
      class="ColorScheme-Text"
      d="M 2,2 V 3 H 1 C 0.4460012,3 0,3.4460012 0,4 v 8.9996 c 0,0.553998 0.4460012,1 1,1 h 5 c 0.553998,0 1,-0.446002 1,-1 V 4 C 7,3.4460012 6.553998,3 6,3 H 5 V 2 Z m 0,3 h 3 v 6.9996 H 2 Z" />
+  <path
+     id="rect342"
+     style="fill:currentColor;stroke-linecap:square"
+     d="M 10,2 C 9.4460012,2 9,2.4460012 9,3 v 10 c 0,0.553998 0.4460012,1 1,1 h 5 c 0.553998,0 1,-0.446002 1,-1 V 3 C 16,2.4460012 15.553998,2 15,2 Z m 0,2 h 5 v 8 h -5 z"
+     class="ColorScheme-Text" />
 </svg>

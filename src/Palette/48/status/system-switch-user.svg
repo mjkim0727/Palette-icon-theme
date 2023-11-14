@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="system-switch-user.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="16.666667"
+     inkscape:cx="23.97"
+     inkscape:cy="24"
+     inkscape:window-width="1920"
+     inkscape:window-height="1004"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:2.85714;stroke-linecap:square"
+     id="rect234"
+     width="40"
+     height="40"
+     x="4"
+     y="4.999999"
+     ry="9" />
+  <rect
+     style="fill:#3f51b5;fill-opacity:1;stroke-width:2.85714;stroke-linecap:square"
+     id="rect396"
+     width="40"
+     height="40"
+     x="4"
+     y="4"
+     ry="9" />
+  <path
+     style="opacity:0.2;fill:#000000;stroke-width:2"
+     d="m 32,11.000353 c -1.009562,0 -2.01912,0.674714 -2,2.023437 v 15.976564 h -5 l 7,9 7,-9 H 34 V 13.02379 c 0.0192,-1.348723 -0.990438,-2.023437 -2,-2.023437 z m -16,1 -7,9.000001 h 5 v 15.976562 c -0.03826,2.697446 4.03825,2.697446 4,0 V 21.000354 h 5 z"
+     id="path3" />
+  <path
+     style="fill:#ffffff;stroke-width:2"
+     d="m 32,10 c -1.009562,0 -2.01912,0.674715 -2,2.023438 V 28 h -5 l 7,9 7,-9 H 34 V 12.023438 C 34.019126,10.674715 33.009562,10 32,10 Z m -16,1 -7,9 h 5 v 15.976562 c -0.03826,2.697446 4.03825,2.697446 4,0 V 20 h 5 z"
+     id="path4" />
+  <path
+     id="path1040"
+     style="opacity:0.1;fill:#ffffff;stroke-width:8;stroke-linecap:square"
+     d="M 13,4.0000004 C 8.01401,4.0000004 4,8.0140102 4,13 v 1 C 4,9.0140102 8.01401,5.0000004 13,5.0000004 h 22 c 4.985992,0 9,4.0140098 9,8.9999996 V 13 C 44,8.0140102 39.985992,4.0000004 35,4.0000004 Z" />
+</svg>

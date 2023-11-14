@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="96"
+   height="96"
+   viewBox="0 0 96 96"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="input-mouse.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="8.3333333"
+     inkscape:cx="47.94"
+     inkscape:cy="48"
+     inkscape:window-width="1920"
+     inkscape:window-height="1004"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:3"
+     id="rect1"
+     width="48"
+     height="84"
+     x="24"
+     y="7"
+     ry="24" />
+  <rect
+     style="opacity:1;fill:#a7a7a7;fill-opacity:1;stroke-width:3"
+     id="rect2"
+     width="48"
+     height="84"
+     x="24"
+     y="6"
+     ry="24" />
+  <path
+     id="rect3"
+     style="opacity:0.1;fill:#000000;fill-opacity:1;stroke-width:3"
+     d="M 48,6 C 34.704014,6 24,16.704013 24,30 V 42 H 72 V 30 C 72,16.704013 61.295986,6 48,6 Z" />
+  <path
+     id="rect4"
+     style="opacity:0.1;fill:#000000;fill-opacity:1;stroke-width:3"
+     d="M 48,6 C 34.704014,6 24,16.704013 24,30 v 12 h 24 z" />
+  <path
+     id="path1"
+     style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke-width:13.3333;stroke-linecap:round;stroke-linejoin:round"
+     d="M 48,6 C 34.704013,6 24,16.704013 24,30 v 1 C 24,17.704013 34.704013,7 48,7 61.295987,7 72,17.704013 72,31 V 30 C 72,16.704013 61.295987,6 48,6 Z" />
+  <rect
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:3"
+     id="rect5"
+     width="8"
+     height="23"
+     x="44"
+     y="14"
+     ry="4" />
+  <rect
+     style="opacity:1;fill:#e4e4e4;fill-opacity:1;stroke-width:3"
+     id="rect6"
+     width="8"
+     height="23"
+     x="44"
+     y="13"
+     ry="4" />
+</svg>
