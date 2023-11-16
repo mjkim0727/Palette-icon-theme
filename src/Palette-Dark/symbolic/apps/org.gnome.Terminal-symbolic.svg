@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="org.gnome.Terminal-symbolic.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="51.125"
+     inkscape:cx="7.99022"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1004"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <path
+     id="path2"
+     style="fill:#dfdfdf;fill-opacity:1"
+     d="M 2 1 C 2e-06 1 0 3 0 3 L 0 12 C 0 12 2e-06 14 2 14 L 14 14 C 14 14 16 13.999998 16 12 L 16 3 C 16 3 15.999998 1 14 1 L 2 1 z M 2 3 L 14 3 L 14 12 L 2 12 L 2 3 z M 3.5 4 C 3.3700001 4 3.2403905 4.0503907 3.1503906 4.1503906 C 2.9503908 4.3403904 2.9503908 4.6596096 3.1503906 4.8496094 L 5.7890625 7.5 L 3.1503906 10.150391 C 2.9503908 10.34039 2.9503908 10.65961 3.1503906 10.849609 C 3.3403904 11.049609 3.6596096 11.049609 3.8496094 10.849609 L 6.8496094 7.8496094 C 7.0496092 7.6596096 7.0496092 7.3403904 6.8496094 7.1503906 L 3.8496094 4.1503906 C 3.7596095 4.0503907 3.6299999 4 3.5 4 z M 8.5 10 C 8.5 10 8 10.000001 8 10.5 C 8 10.999999 8.5 11 8.5 11 L 11.5 11 C 11.5 11 12 10.999999 12 10.5 C 12 10.000001 11.5 10 11.5 10 L 8.5 10 z " />
+</svg>

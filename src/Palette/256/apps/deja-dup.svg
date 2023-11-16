@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="deja-dup.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="3.1953125"
+     inkscape:cx="127.84352"
+     inkscape:cy="128"
+     inkscape:window-width="1920"
+     inkscape:window-height="1004"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:16;stroke-linecap:square"
+     id="rect234"
+     width="224"
+     height="224"
+     x="16"
+     y="18"
+     ry="48" />
+  <rect
+     style="fill:#4f4f4f;fill-opacity:1;stroke-width:16;stroke-linecap:square"
+     id="rect396"
+     width="224"
+     height="224"
+     x="16"
+     y="16"
+     ry="48" />
+  <rect
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:15.3333"
+     id="rect1"
+     width="184"
+     height="184"
+     x="36"
+     y="38"
+     ry="28" />
+  <rect
+     style="fill:#6c6c6c;fill-opacity:1;stroke-width:15.3333"
+     id="rect2"
+     width="184"
+     height="184"
+     x="36"
+     y="36"
+     ry="28" />
+  <circle
+     style="opacity:0.1;fill:#000000;fill-opacity:1;stroke-width:16"
+     id="path9"
+     cx="128"
+     cy="170"
+     r="20" />
+  <circle
+     style="fill:#37474f;fill-opacity:1;stroke-width:16"
+     id="path10"
+     cx="128"
+     cy="168"
+     r="20" />
+  <path
+     id="path15-5"
+     style="opacity:0.2;fill:#000000;stroke-width:4;stroke-linecap:round;-inkscape-stroke:none"
+     d="m 164.00756,138 a 8,8 0 0 0 -4.44532,1.34376 l -31.5625,21.03906 -31.562496,-21.03906 a 8,8 0 0 0 -11.093748,2.21874 8,8 0 0 0 2.218748,11.09375 l 32.437496,21.625 V 206 a 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 v -31.71875 l 32.4375,-21.625 a 8,8 0 0 0 2.21875,-11.09375 8,8 0 0 0 -5.08593,-3.40625 8,8 0 0 0 -1.5625,-0.15624 z" />
+  <path
+     id="path23"
+     style="fill:#bdbdbd;stroke-width:4;stroke-linecap:round;-inkscape-stroke:none"
+     d="m 164.00756,136 a 8,8 0 0 0 -4.44532,1.34376 l -31.5625,21.03906 -31.562496,-21.03906 a 8,8 0 0 0 -11.093748,2.21874 8,8 0 0 0 2.218748,11.09375 l 32.437496,21.625 V 204 a 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 v -31.71875 l 32.4375,-21.625 a 8,8 0 0 0 2.21875,-11.09375 8,8 0 0 0 -5.08593,-3.40625 8,8 0 0 0 -1.5625,-0.15624 z" />
+  <circle
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:16"
+     id="path11"
+     cx="128"
+     cy="170"
+     r="12" />
+  <circle
+     style="fill:#eeeeee;fill-opacity:1;stroke-width:16"
+     id="path12"
+     cx="128"
+     cy="168"
+     r="12" />
+  <path
+     id="path4"
+     style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke-width:12"
+     d="m 128,156 a 12,12 0 0 0 -12,12 12,12 0 0 0 0.19532,1.97656 A 12,12 0 0 1 128,160 12,12 0 0 1 139.8125,169.91406 12,12 0 0 0 140,168 12,12 0 0 0 128,156 Z" />
+  <circle
+     style="opacity:0.1;fill:#000000;fill-opacity:1;stroke-width:26.6666"
+     id="path13"
+     cx="128"
+     cy="86"
+     r="40" />
+  <circle
+     style="fill:#d9d9d9;fill-opacity:1;stroke-width:22.8572"
+     id="path14"
+     cx="128"
+     cy="84"
+     r="40" />
+  <path
+     d="m 124,44 v 25.062496 l -12.53125,-21.70312 -6.9375,4 12.53125,21.70312 -21.703124,-12.531248 -4,6.937504 L 113.0625,80 H 88 v 8 h 25.0625 l -21.703124,12.53125 4,6.9375 21.703124,-12.531246 -12.53125,21.703116 6.9375,4 L 124,98.937504 V 110.67187 124 h 8 V 110.67187 98.937504 l 12.53125,21.703116 6.9375,-4 -12.53125,-21.703116 21.70312,12.531246 4,-6.9375 L 142.9375,88 H 168 v -8 h -25.0625 l 21.70312,-12.531248 -4,-6.937504 -21.70312,12.531248 12.53125,-21.70312 -6.9375,-4 L 132,69.062496 V 44 Z"
+     style="opacity:0.2;fill:#000000;stroke-width:8;-inkscape-stroke:none"
+     id="path3" />
+  <circle
+     style="opacity:0.1;fill:#000000;fill-opacity:1;stroke-width:24"
+     id="path15"
+     cx="128"
+     cy="86"
+     r="24" />
+  <circle
+     style="fill:#b3b3b3;fill-opacity:1;stroke-width:24"
+     id="path16"
+     cx="128"
+     cy="84"
+     r="24" />
+  <circle
+     style="fill:#37474f;fill-opacity:1;stroke-width:21.3334"
+     id="path17"
+     cx="128"
+     cy="84"
+     r="16" />
+  <circle
+     style="fill:#b3b3b3;fill-opacity:1;stroke-width:24"
+     id="path18"
+     cx="128"
+     cy="84"
+     r="12" />
+  <path
+     id="path1040"
+     style="opacity:0.1;fill:#ffffff;stroke-width:16;stroke-linecap:square"
+     d="M 64,16 C 37.40808,16 16,37.40808 16,64 v 2 C 16,39.40808 37.40808,18 64,18 h 128 c 26.59192,0 48,21.40808 48,48 V 64 C 240,37.40808 218.59192,16 192,16 Z" />
+  <path
+     id="rect3"
+     style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke-width:8"
+     d="M 64,36 C 48.488032,36 36,48.488032 36,64 v 2 C 36,50.488032 48.488032,38 64,38 h 128 c 15.51196,0 28,12.488032 28,28 V 64 C 220,48.488032 207.51196,36 192,36 Z" />
+  <rect
+     style="opacity:0.1;fill:#000000;stroke-width:4"
+     width="24"
+     height="44"
+     x="24"
+     y="78"
+     ry="7"
+     id="rect5" />
+  <rect
+     style="fill:#8e8e8e;stroke-width:4"
+     width="24"
+     height="44"
+     x="24"
+     y="76"
+     ry="7"
+     id="rect6" />
+  <rect
+     style="opacity:0.1;fill:#000000;stroke-width:4"
+     width="24"
+     height="44"
+     x="24"
+     y="146"
+     ry="7"
+     id="rect7" />
+  <rect
+     style="fill:#8e8e8e;stroke-width:4"
+     width="24"
+     height="44"
+     x="24"
+     y="144"
+     ry="7"
+     id="rect8" />
+  <rect
+     style="opacity:0.1;fill:#000000;stroke-width:4"
+     width="24"
+     height="12"
+     x="24"
+     y="92"
+     id="rect21" />
+  <rect
+     style="opacity:0.1;fill:#000000;stroke-width:4"
+     width="24"
+     height="12"
+     x="24"
+     y="160"
+     id="rect22" />
+</svg>
