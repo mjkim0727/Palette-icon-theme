@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="retroarch.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="5.6953125"
+     inkscape:cx="64"
+     inkscape:cy="64"
+     inkscape:window-width="1920"
+     inkscape:window-height="937"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:8;stroke-linecap:square"
+     id="rect234"
+     width="112"
+     height="112"
+     x="8"
+     y="9"
+     ry="24" />
+  <rect
+     style="fill:#e4e4e4;fill-opacity:1;stroke-width:8;stroke-linecap:square"
+     id="rect396"
+     width="112"
+     height="112"
+     x="8"
+     y="8"
+     ry="24" />
+  <path
+     d="m 44,39 8,12 H 36 l -2,8 H 25 L 28,47 H 22 L 16,71 H 21.64706 30.4 L 28,79 H 42 L 32,91 h 12 l 8,-12 h 24 l 8,12 H 96 L 86,79 h 14 L 97.6,71 H 112 l -6,-24 h -6 l 3,12 H 94 L 92,51 H 76 L 84,39 H 78 L 70,51 H 58 L 50,39 Z"
+     style="opacity:0.2;fill:#000000;stroke-width:2"
+     id="path2338" />
+  <path
+     d="m 44,38 8,12 H 36 l -2,8 H 25 L 28,46 H 22 L 16,70 H 21.64706 30.4 L 28,78 H 42 L 32,90 h 12 l 8,-12 h 24 l 8,12 H 96 L 86,78 h 14 L 97.6,70 H 112 l -6,-24 h -6 l 3,12 H 94 L 92,50 H 76 L 84,38 H 78 L 70,50 H 58 L 50,38 Z"
+     style="fill:#565656;stroke-width:2"
+     id="path2310"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccc" />
+  <path
+     d="M 42,57 V 67 H 52 V 57 Z m 34,0 V 67 H 86 V 57 Z"
+     style="opacity:0.1;fill:#000000;fill-opacity:1;stroke-width:1.875;stroke-linecap:round;stroke-linejoin:round"
+     id="path2394"
+     sodipodi:nodetypes="cccccccccc" />
+  <path
+     d="M 42,56 V 66 H 52 V 56 Z m 34,0 V 66 H 86 V 56 Z"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:1.875;stroke-linecap:round;stroke-linejoin:round"
+     id="path2366"
+     sodipodi:nodetypes="cccccccccc" />
+  <g
+     id="g361"
+     transform="matrix(1.9999884,0,0,1.9999884,1.396e-4,1.396e-4)" />
+  <path
+     id="path1040"
+     style="opacity:0.2;fill:#ffffff;stroke-width:8;stroke-linecap:square"
+     d="M 32,8 C 18.70404,8 8,18.70404 8,32 v 1 C 8,19.70404 18.70404,9 32,9 h 64 c 13.29596,0 24,10.70404 24,24 V 32 C 120,18.70404 109.29596,8 96,8 Z" />
+</svg>
