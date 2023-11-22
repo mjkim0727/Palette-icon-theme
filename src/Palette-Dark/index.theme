@@ -4,7 +4,7 @@ Name[ko]=팔레트 (어두운 테마)
 Name[ja]=パレット (Dark)
 Name[zh_TW]=Palette (暗)
 Comment=Palette icon theme
-Inherits=breeze,hicolor
+Inherits=Papirus-Dark,breeze,hicolor
 
 Example=folder
 
