@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="kget.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="51.375"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="fill:#37a0f2;fill-opacity:1;stroke-width:1.14286;stroke-linecap:square"
+     id="rect396"
+     width="16"
+     height="16"
+     x="0"
+     y="0"
+     ry="4" />
+  <path
+     id="path1"
+     style="opacity:0.2;fill:#000000"
+     d="M 7 3.5 L 7 9.4765625 L 5 9.4765625 L 8 12.5 L 11 9.4765625 L 9 9.5234375 L 9 3.5 L 7 3.5 z M 8 12.5 L 4.5 12.5 C 4.2230003 12.5 4 12.723 4 13 C 4 13.277 4.2230003 13.5 4.5 13.5 L 11.5 13.5 C 11.777 13.5 12 13.277 12 13 C 12 12.723 11.777 12.5 11.5 12.5 L 8 12.5 z " />
+  <path
+     id="path2"
+     style="fill:#ffffff"
+     d="M 7 3 L 7 8.9765625 L 5 8.9765625 L 8 12 L 11 8.9765625 L 9 9.0234375 L 9 3 L 7 3 z M 8 12 L 4.5 12 C 4.2230003 12 4 12.223 4 12.5 C 4 12.777 4.2230003 13 4.5 13 L 11.5 13 C 11.777 13 12 12.777 12 12.5 C 12 12.223 11.777 12 11.5 12 L 8 12 z " />
+  <path
+     id="rect639"
+     style="fill:#ffffff;stroke-linecap:square;opacity:0.2"
+     d="M 4 0 C 1.7840022 0 0 1.7840022 0 4 L 0 5 C 0 2.7840022 1.7840022 1 4 1 L 12 1 C 14.215998 1 16 2.7840022 16 5 L 16 4 C 16 1.7840022 14.215998 0 12 0 L 4 0 z " />
+</svg>
