@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="diodon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="25.6875"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:2;stroke-linecap:square"
+     id="rect234"
+     width="28"
+     height="28"
+     x="2"
+     y="3"
+     ry="6" />
+  <rect
+     style="fill:#b7b7b7;fill-opacity:1;stroke-width:2;stroke-linecap:square"
+     id="rect396"
+     width="28"
+     height="28"
+     x="2"
+     y="2"
+     ry="6" />
+  <g
+     id="g361"
+     transform="matrix(0.49999709,0,0,0.49999709,3.4946207e-5,3.492e-5)" />
+  <path
+     d="M 8,2.0000001 C 4.6760033,2.0000001 2,4.6760035 2,8 V 9 C 2,5.6760035 4.6760033,3 8,3 h 16 c 3.323996,0 6,2.6760035 6,6 V 8 C 30,4.6760035 27.323996,2.0000001 24,2.0000001 Z"
+     style="opacity:0.2;fill:#ffffff;stroke-width:2;stroke-linecap:square"
+     id="path1040"
+     sodipodi:nodetypes="sscsscsss" />
+  <rect
+     style="opacity:0.2;fill:#000000"
+     id="rect1"
+     width="14"
+     height="14"
+     x="12"
+     y="7.000442"
+     ry="1" />
+  <rect
+     style="opacity:0.2;fill:#000000"
+     id="rect2"
+     width="14"
+     height="14"
+     x="6"
+     y="13.000442"
+     ry="1" />
+  <rect
+     style="opacity:1;fill:#d3d3d3;fill-opacity:1"
+     id="rect3"
+     width="14"
+     height="14"
+     x="12"
+     y="6"
+     ry="1" />
+  <path
+     id="path1"
+     style="opacity:0.2;fill:#000000"
+     d="M 15 9 L 15 10 L 23 10 L 23 9 L 15 9 z M 15 11 L 15 12 L 23 12 L 23 11 L 15 11 z M 15 13 L 15 14 L 23 14 L 23 13 L 15 13 z M 15 15 L 15 16 L 20 16 L 20 15 L 15 15 z " />
+  <rect
+     style="opacity:1;fill:#e4e4e4;fill-opacity:1"
+     id="rect4"
+     width="14"
+     height="14"
+     x="6"
+     y="12"
+     ry="1" />
+  <path
+     id="path4"
+     style="opacity:0.5;fill:#000000"
+     d="M 9 15 L 9 16 L 17 16 L 17 15 L 9 15 z M 9 17 L 9 18 L 17 18 L 17 17 L 9 17 z M 9 19 L 9 20 L 17 20 L 17 19 L 9 19 z M 9 21 L 9 22 L 14 22 L 14 21 L 9 21 z " />
+  <path
+     id="rect5"
+     style="opacity:0.1;fill:#ffffff;fill-opacity:1"
+     d="M 13 6 C 12.446001 6 12 6.4460006 12 7 L 12 8 C 12 7.4460006 12.446001 7 13 7 L 25 7 C 25.553999 7 26 7.4460006 26 8 L 26 7 C 26 6.4460006 25.553999 6 25 6 L 13 6 z " />
+  <path
+     id="rect6"
+     style="opacity:0.1;fill:#ffffff;fill-opacity:1"
+     d="M 7 12 C 6.4460006 12 6 12.446001 6 13 L 6 14 C 6 13.446001 6.4460006 13 7 13 L 19 13 C 19.553999 13 20 13.446001 20 14 L 20 13 C 20 12.446001 19.553999 12 19 12 L 7 12 z " />
+</svg>
