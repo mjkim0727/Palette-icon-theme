@@ -7,7 +7,7 @@
    viewBox="0 0 48 48"
    version="1.1"
    id="svg5"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    sodipodi:docname="winecfg.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,12 +25,12 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="16.729167"
-     inkscape:cx="24"
-     inkscape:cy="24"
-     inkscape:window-width="1850"
-     inkscape:window-height="1011"
-     inkscape:window-x="70"
-     inkscape:window-y="32"
+     inkscape:cx="24.029887"
+     inkscape:cy="24.029887"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5" />
   <defs
@@ -70,7 +70,7 @@
      cy="37"
      r="10" />
   <circle
-     style="fill:#f8a009;fill-opacity:1;stroke-width:2"
+     style="fill:#b7b7b7;fill-opacity:1;stroke-width:2"
      id="path11"
      cx="36"
      cy="36"

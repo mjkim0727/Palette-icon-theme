@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="winetricks.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="6.421875"
+     inkscape:cx="64"
+     inkscape:cy="64"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:8;stroke-linecap:square"
+     id="rect234"
+     width="112"
+     height="112"
+     x="8"
+     y="9"
+     ry="24" />
+  <rect
+     style="fill:#ac3131;fill-opacity:1;stroke-width:8;stroke-linecap:square"
+     id="rect396"
+     width="112"
+     height="104"
+     x="8"
+     y="8"
+     ry="24" />
+  <path
+     id="rect1"
+     style="fill:#e7dbd0;fill-opacity:1;stroke-width:7.48332"
+     d="M 40,56 C 21.53094,56.03 8,64 8,64 v 32 c 0,13.29596 10.70404,24 24,24 h 64 c 13.29596,0 24,-10.70404 24,-24 V 64 c 0,0 -9.67424,5.071124 -32,4 C 70.37266,67.154292 66.35026,55.957076 40,56 Z" />
+  <path
+     id="path1"
+     style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke-width:7.48332"
+     d="M 40,56 C 21.530996,56.03 8,64 8,64 v 1 c 0,0 13.530958,-7.97 32,-8 26.350234,-0.04292 30.372678,11.154292 48,12 22.32574,1.071122 32,-4 32,-4 v -1 c 0,0 -9.67431,5.071122 -32,4 C 70.37271,67.154292 66.350178,55.957076 40,56 Z" />
+  <path
+     id="path1040"
+     style="opacity:0.1;fill:#ffffff;stroke-width:8;stroke-linecap:square"
+     d="M 32,8 C 18.70404,8 8,18.70404 8,32 v 1 C 8,19.704042 18.70404,9 32,9 h 64 c 13.29596,0 24,10.704042 24,24 V 32 C 120,18.70404 109.29596,8 96,8 Z" />
+  <ellipse
+     style="opacity:0.2;fill:#000000;stroke-width:5.6"
+     id="path10"
+     cx="96"
+     cy="97"
+     rx="27.999998"
+     ry="27.999996" />
+  <ellipse
+     style="fill:#f8a009;fill-opacity:1;stroke-width:5.6"
+     id="path11"
+     cx="96"
+     cy="96"
+     rx="27.999998"
+     ry="27.999996" />
+  <path
+     id="path5"
+     style="fill:#ffffff;stroke-width:5.33333"
+     d="M 96,80 91.05209,90.531248 80,92.229168 88,100.42708 86.114581,112 96,106.53125 105.88542,112 104,100.42708 l 8,-8.197912 -11.05209,-1.69792 z" />
+  <path
+     id="path12"
+     style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke-width:5.6"
+     d="M 96,68 A 27.999999,27.999997 0 0 0 68.000001,95.999997 27.999999,27.999997 0 0 0 68.035161,96.503903 27.999999,27.999997 0 0 1 96,69 27.999999,27.999997 0 0 1 123.98046,96.261715 27.999999,27.999997 0 0 0 124,95.999997 27.999999,27.999997 0 0 0 96,68 Z" />
+</svg>
