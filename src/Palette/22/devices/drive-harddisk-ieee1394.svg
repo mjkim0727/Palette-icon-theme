@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1"
+   id="svg3"
+   sodipodi:docname="drive-harddisk-ieee1394.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="33.090909"
+     inkscape:cx="10.98489"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="942"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:0.5"
+     id="rect3"
+     width="16"
+     height="20"
+     x="3"
+     y="1.5"
+     ry="1" />
+  <rect
+     style="opacity:1;fill:#8e8e8e;fill-opacity:1;stroke-width:0.5"
+     id="rect4"
+     width="16"
+     height="20"
+     x="3"
+     y="1"
+     ry="1" />
+  <path
+     d="M 7.424125,4.5957031 4.596,7.4238281 5.3030313,8.1308594 8.1311563,5.3027344 Z m 7.072266,0 -2.121094,2.1210938 2.828125,2.8300781 2.121094,-2.1230469 z M 8.8381875,6.0097656 6.0100625,8.8378906 6.7170938,9.546875 9.5471719,6.7167969 Z M 11.000297,8 c -1.6568541,0 -3.0000001,1.3431458 -3.0000001,3 0,1.656854 1.343146,3 3.0000001,3 1.656854,0 3,-1.343146 3,-3 0,-1.6568542 -1.343146,-3 -3,-3 z m 0,1 c 1.104569,0 2,0.8954305 2,2 0,1.104569 -0.895431,2 -2,2 -1.1045691,0 -2.0000001,-0.895431 -2.0000001,-2 0,-1.1045695 0.895431,-2 2.0000001,-2 z m -2.0000001,6 v 1 h 4.0000001 v -1 z m 0,2 v 1 h 4.0000001 v -1 z"
+     style="opacity:0.5;fill:#000000"
+     id="path1" />
+  <path
+     style="opacity:0.2;fill:#ffffff;stroke-width:0.5"
+     d="M 4,1 C 3.446,1 3,1.446 3,2 v 0.5 c 0,-0.554 0.446,-1 1,-1 h 14 c 0.554,0 1,0.446 1,1 V 2 C 19,1.446 18.554,1 18,1 Z"
+     id="path3" />
+</svg>

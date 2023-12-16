@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="128"
+   height="128"
+   version="1"
+   id="svg7"
+   sodipodi:docname="scanner.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs7" />
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="5.6953125"
+     inkscape:cx="64"
+     inkscape:cy="64"
+     inkscape:window-width="1920"
+     inkscape:window-height="942"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:4"
+     width="112"
+     height="88"
+     x="-121"
+     y="-108"
+     ry="6"
+     transform="matrix(0,-1,-1,0,0,0)"
+     id="rect1" />
+  <rect
+     style="fill:#4f4f4f;stroke-width:4"
+     width="112"
+     height="88"
+     x="-120"
+     y="-108"
+     ry="6"
+     transform="matrix(0,-1,-1,0,0,0)"
+     id="rect2" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:4"
+     width="88"
+     height="64"
+     x="-109"
+     y="-96"
+     rx="0"
+     ry="0"
+     transform="matrix(0,-1,-1,0,0,0)"
+     id="rect6" />
+  <rect
+     style="fill:#e4e4e4;stroke-width:4"
+     width="88"
+     height="64"
+     x="-108"
+     y="-96"
+     rx="0"
+     ry="0"
+     transform="matrix(0,-1,-1,0,0,0)"
+     id="rect3" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:4"
+     width="112"
+     height="12"
+     x="8"
+     y="41"
+     ry="3"
+     id="rect4" />
+  <rect
+     style="fill:#f34235;stroke-width:4"
+     width="112"
+     height="12"
+     x="8"
+     y="40"
+     ry="3"
+     id="rect5" />
+  <rect
+     style="opacity:0.2;fill:#ffffff;stroke-width:1.99999"
+     width="1"
+     height="64"
+     x="-21"
+     y="-96"
+     rx="0"
+     ry="0"
+     transform="matrix(0,-1,-1,0,0,0)"
+     id="rect7" />
+  <path
+     id="path1"
+     style="opacity:0.1;fill:#ffffff;stroke-width:4"
+     d="m 26,8 c -3.323988,0 -6,2.676011 -6,6 v 1 c 0,-3.323989 2.676012,-6 6,-6 h 76 c 3.32399,0 6,2.676011 6,6 v -1 c 0,-3.323989 -2.67601,-6 -6,-6 z" />
+</svg>

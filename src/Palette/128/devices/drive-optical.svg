@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="128"
+   height="128"
+   version="1"
+   id="svg3"
+   sodipodi:docname="drive-optical.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="5.6953125"
+     inkscape:cx="63.912209"
+     inkscape:cy="64"
+     inkscape:window-width="1920"
+     inkscape:window-height="942"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:4"
+     width="112"
+     height="112"
+     x="-121"
+     y="-120"
+     ry="5"
+     transform="matrix(0,-1,-1,0,0,0)"
+     id="rect1" />
+  <rect
+     style="fill:#8e8e8e;stroke-width:4"
+     width="112"
+     height="112"
+     x="-120"
+     y="-120"
+     ry="5"
+     transform="matrix(0,-1,-1,0,0,0)"
+     id="rect2" />
+  <path
+     style="opacity:0.5;fill:#000000;stroke-width:4"
+     d="M 64,24 A 40,40 0 0 0 24,64 40,40 0 0 0 64,104 40,40 0 0 0 104,64 40,40 0 0 0 64,24 Z m 0,24 A 15.999998,15.999998 0 0 1 80,64 15.999998,15.999998 0 0 1 64,80 15.999998,15.999998 0 0 1 48,64 15.999998,15.999998 0 0 1 64,48 Z"
+     id="path2" />
+  <path
+     id="path3"
+     style="opacity:0.2;fill:#ffffff;stroke-width:4"
+     d="m 13,8 c -2.769994,0 -5,2.230006 -5,5 v 1 c 0,-2.769994 2.230006,-5 5,-5 h 102 c 2.76799,0 5,2.230006 5,5 v -1 c 0,-2.769994 -2.23201,-5 -5,-5 z" />
+</svg>
