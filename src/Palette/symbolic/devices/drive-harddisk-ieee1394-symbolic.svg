@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="drive-harddisk-ieee1394-symbolic.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="22.78125"
+     inkscape:cx="5.0041152"
+     inkscape:cy="9.0644719"
+     inkscape:window-width="1920"
+     inkscape:window-height="942"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <path
+     id="path1"
+     style="fill:#4d4d4d;fill-opacity:1"
+     d="M 4.9785156 1.8378906 L 2.8574219 3.9589844 L 3.5644531 4.6660156 L 5.6855469 2.5449219 L 4.9785156 1.8378906 z M 12.035156 1.8535156 L 9.9140625 3.9746094 L 12.035156 6.0957031 L 14.15625 3.9746094 L 12.035156 1.8535156 z M 6.3925781 3.2519531 L 4.2714844 5.3730469 L 4.9785156 6.0820312 L 7.0996094 3.9589844 L 6.3925781 3.2519531 z M 8.5 5 C 7.1200014 5 6 6.1190014 6 7.5 C 6 8.8809986 7.1200014 10 8.5 10 C 9.8799986 10 11 8.8809986 11 7.5 C 11 6.1190014 9.8799986 5 8.5 5 z M 8.5 6 C 9.3299992 6 10 6.6720008 10 7.5 C 10 8.3279992 9.3299992 9 8.5 9 C 7.6700008 9 7 8.3279992 7 7.5 C 7 6.6720008 7.6700008 6 8.5 6 z M 7 11 L 7 12 L 10 12 L 10 11 L 7 11 z M 7 13 L 7 14 L 10 14 L 10 13 L 7 13 z " />
+</svg>
