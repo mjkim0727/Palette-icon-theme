@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16.000001"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="text-x-ruby.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="50.375"
+     inkscape:cx="8"
+     inkscape:cy="7.9900744"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     id="rect448"
+     style="fill:#e0e0e0;fill-opacity:1;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round"
+     d="M 3,1 H 9 L 10.5,4.5 14,6 v 9 c 0,0.554 -0.446,1 -1,1 H 3 C 2.446,16 2,15.554 2,15 V 2 C 2,1.446 2.446,1 3,1 Z" />
+  <path
+     d="M 7.5,8.00007 C 7.3674,8.000096 7.24024,8.05279 7.14648,8.146554 l -3,2.999996 C 4.05268,11.24025 4.00004,11.36746 4,11.50006 v 3 c 4e-5,0.27614 0.22387,0.49998 0.5,0.5 h 6 c 0.0137,-0.0123 0.0268,-0.0253 0.0391,-0.0391 0.2183,-0.0321 0.38973,-0.20357 0.42187,-0.42187 0.0137,-0.0123 0.0268,-0.0253 0.0391,-0.0391 V 8.5 c -3e-5,-0.276131 -0.22387,-0.499972 -0.5,-0.5 z m 0.20703,1 h 1.58594 l -1.14649,1.14648 -2,2 L 5,13.29303 V 11.7071 Z M 10,9.707103 V 12.38288 L 9.10742,10.59967 Z M 8.36328,11.34381 9.38281,13.38288 7.34375,12.36335 Z m -1.76366,1.76368 1.78319,0.89257 H 5.70703 Z"
+     style="color:#000000;fill:#f44336;fill-opacity:1;stroke:none;stroke-linejoin:round;-inkscape-stroke:none"
+     id="path1" />
+  <path
+     id="rect600"
+     style="fill:#f5f5f5;fill-opacity:1;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round"
+     d="M 14,6 H 10 C 9.446,6 9,5.554 9,5 V 1 Z" />
+</svg>
