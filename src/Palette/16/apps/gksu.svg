@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="gksu.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="50.375"
+     inkscape:cx="8"
+     inkscape:cy="7.9900744"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="fill:#eb5555;fill-opacity:1;stroke-width:1.14286;stroke-linecap:square"
+     id="rect396"
+     width="16"
+     height="16"
+     x="0"
+     y="0"
+     ry="4" />
+  <path
+     d="m 8.0000002,8.5000014 c -3.999601,0.0023 -4.000001,2.4615386 -4.000001,2.4615386 v 1 c 0,0 0.738457,1.538461 4.000001,1.538461 C 11.261543,13.500001 12,11.96154 12,11.96154 v -1 c 0,0 0,-2.4630776 -3.9991998,-2.4615386 z m 0,-5.0000014 C 9.1045332,3.5 10,4.3954667 10,5.5 c 0,1.1044 -0.8955998,2 -1.9999998,2 -1.1044,0 -2,-0.8956 -2,-2 0,-1.1044 0.8956,-2 2,-2 z"
+     style="fill:#000000;opacity:0.2"
+     id="path1474" />
+  <path
+     d="M 8.0000001,8.0000013 C 4.0004,8.0023113 4,10.461539 4,10.461539 v 1 C 4,11.461539 4.738457,13 8.0000001,13 11.261543,13 12,11.461539 12,11.461539 v -1 c 0,0 0,-2.4630761 -3.9991999,-2.4615377 z m 1e-7,-5.000001 C 9.1045335,3.0000003 10,3.895467 10,5.0000002 c 0,1.1044001 -0.8955998,2 -1.9999998,2 -1.1044,0 -2,-0.8955999 -2,-2 0,-1.1043999 0.8956,-1.9999999 2,-1.9999999 z"
+     style="fill:#ffffff"
+     id="path350" />
+  <path
+     id="rect639"
+     style="fill:#ffffff;stroke-linecap:square;opacity:0.2"
+     d="M 4 0 C 1.7840022 0 0 1.7840022 0 4 L 0 5 C 0 2.7840022 1.7840022 1 4 1 L 12 1 C 14.215998 1 16 2.7840022 16 5 L 16 4 C 16 1.7840022 14.215998 0 12 0 L 4 0 z " />
+</svg>
