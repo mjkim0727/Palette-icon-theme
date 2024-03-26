@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1192"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="printer-network.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1194"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="50.25"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1192"
+     showguides="false" />
+  <defs
+     id="defs1189" />
+  <rect
+     style="fill:#e4e4e4;fill-opacity:1;stroke-width:2;stroke-linecap:square"
+     id="rect1739"
+     width="10"
+     height="6.50002"
+     x="3"
+     y="0"
+     ry="1" />
+  <rect
+     style="fill:#4f4f4f;fill-opacity:1;stroke-width:2;stroke-linecap:square"
+     id="rect1737"
+     width="14"
+     height="7"
+     x="1"
+     y="4"
+     ry="1" />
+  <rect
+     style="fill:#76ff03;fill-opacity:1;stroke-width:2;stroke-linecap:square"
+     id="rect2138"
+     width="1"
+     height="1"
+     x="2"
+     y="5" />
+  <rect
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:2;stroke-linecap:square"
+     id="rect2769"
+     width="12"
+     height="2"
+     x="2"
+     y="8" />
+  <rect
+     style="fill:#8e8e8e"
+     width="4"
+     height="16"
+     x="-16"
+     y="-16"
+     ry="1"
+     transform="matrix(0,-1,-1,0,0,0)"
+     id="rect2" />
+  <circle
+     style="fill:#76ff03;fill-opacity:1;stroke-width:1"
+     id="path7"
+     cx="8"
+     cy="14"
+     r="1" />
+  <circle
+     style="fill:#ffff00;fill-opacity:1;stroke-width:1"
+     id="path8"
+     cx="11"
+     cy="14"
+     r="1" />
+  <circle
+     style="fill:#ffcd40;fill-opacity:1;stroke-width:1"
+     id="path9"
+     cx="14"
+     cy="14"
+     r="1" />
+</svg>
