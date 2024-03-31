@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="google-keep.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="38.136364"
+     inkscape:cx="10.986889"
+     inkscape:cy="11"
+     inkscape:window-width="1878"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:1.42857;stroke-linecap:square"
+     id="rect234"
+     width="20"
+     height="20"
+     x="1"
+     y="1.5"
+     ry="4.5" />
+  <rect
+     style="fill:#fec006;fill-opacity:1;stroke-width:1.42857;stroke-linecap:square"
+     id="rect396"
+     width="20"
+     height="20"
+     x="1"
+     y="1"
+     ry="4.5" />
+  <path
+     id="path1522"
+     style="fill:#000000;fill-opacity:1;stroke-linecap:square;stroke-linejoin:bevel;opacity:0.2"
+     d="m 11,5.5 c -2.209131,0 -4,1.790869 -4,4 0.0039,1.425135 0.647889,2.496022 2,4 h 4 c 1.352111,-1.503978 1.996086,-2.574865 2,-4 0,-2.209131 -1.790869,-4 -4,-4 z m -2,10 v 2 h 4 v -2 z" />
+  <path
+     id="path1522-6"
+     style="fill:#ffffff;fill-opacity:1;stroke-linecap:square;stroke-linejoin:bevel"
+     d="M 11,5 C 8.790869,5 7,6.790869 7,9 c 0.0039,1.425135 0.647889,2.496022 2,4 h 4 C 14.352111,11.496022 14.996086,10.425135 15,9 15,6.790869 13.209131,5 11,5 Z M 9,15 v 2 h 4 v -2 z" />
+  <path
+     id="path1040"
+     style="opacity:0.2;fill:#ffffff;stroke-width:4;stroke-linecap:square"
+     d="M 5.5,1 C 3.0070049,1 1,3.0070048 1,5.5 V 6 C 1,3.5070048 3.0070049,1.5 5.5,1.5 h 11 C 18.992996,1.5 21,3.5070048 21,6 V 5.5 C 21,3.0070048 18.992996,1 16.5,1 Z" />
+</svg>
