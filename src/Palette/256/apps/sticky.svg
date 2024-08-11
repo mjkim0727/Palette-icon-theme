@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3.2 (1:1.3.2+202404261509+091e20ef0f)"
+   sodipodi:docname="sticky.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="3.1210938"
+     inkscape:cx="127.8398"
+     inkscape:cy="128"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:16;stroke-linecap:square"
+     id="rect234"
+     width="224"
+     height="224"
+     x="16"
+     y="18"
+     ry="48" />
+  <rect
+     style="fill:#ba68c8;fill-opacity:1;stroke-width:16;stroke-linecap:square"
+     id="rect396"
+     width="224"
+     height="224"
+     x="16"
+     y="16"
+     ry="48" />
+  <path
+     style="opacity:0.2;fill:#000000;stroke-width:4"
+     d="M 59.428572,50 C 59.428572,50 48,50 48,61.428572 V 198.57142 C 48,210 59.428572,210 59.428572,210 H 152 l 56,-56 V 61.428572 C 208,50 196.57142,50 196.57142,50 Z"
+     id="path2" />
+  <path
+     style="fill:#fff176;stroke-width:4"
+     d="M 59.428572,48 C 59.428572,48 48,48 48,59.428572 V 196.57142 C 48,208 59.428572,208 59.428572,208 H 152 l 56,-56 V 59.428572 C 208,48 196.57142,48 196.57142,48 Z"
+     id="path3" />
+  <path
+     style="fill:#fff9c4;stroke-width:4"
+     d="m 208,152 h -47.6 c -4.6368,0 -8.4,3.7632 -8.4,8.4 V 208 Z"
+     id="path4" />
+  <path
+     style="fill:#ffeb3b;stroke-width:4"
+     d="M 59.429688,48 C 59.429688,48 48,48.001116 48,59.429688 V 76 H 208 V 59.429688 C 208,48.001116 196.57032,48 196.57032,48 Z"
+     id="path6" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:4"
+     width="160"
+     height="2"
+     x="48"
+     y="76"
+     id="rect6" />
+  <path
+     id="path1040"
+     style="opacity:0.2;fill:#ffffff;stroke-width:16;stroke-linecap:square"
+     d="M 64,16 C 37.408052,16 16,37.408056 16,64 v 2 C 16,39.408056 37.408052,18 64,18 h 128 c 26.59194,0 48,21.408056 48,48 V 64 C 240,37.408056 218.59194,16 192,16 Z" />
+</svg>

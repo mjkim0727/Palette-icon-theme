@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3.2 (1:1.3.2+202404261509+091e20ef0f)"
+   sodipodi:docname="sticky.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="6.2421875"
+     inkscape:cx="63.9199"
+     inkscape:cy="64"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:8;stroke-linecap:square"
+     id="rect234"
+     width="112"
+     height="112"
+     x="8"
+     y="9"
+     ry="24" />
+  <rect
+     style="fill:#ba68c8;fill-opacity:1;stroke-width:8;stroke-linecap:square"
+     id="rect396"
+     width="112"
+     height="112"
+     x="8"
+     y="8"
+     ry="24" />
+  <path
+     style="opacity:0.2;fill:#000000;stroke-width:2"
+     d="M 29.714286,25 C 29.714286,25 24,25 24,30.714286 V 99.285714 C 24,105 29.714286,105 29.714286,105 H 76 L 104,77 V 30.714286 C 104,25 98.285714,25 98.285714,25 Z"
+     id="path2" />
+  <path
+     style="fill:#fff176;stroke-width:2"
+     d="M 29.714286,24 C 29.714286,24 24,24 24,29.714286 V 98.285714 C 24,104 29.714286,104 29.714286,104 H 76 L 104,76 V 29.714286 C 104,24 98.285714,24 98.285714,24 Z"
+     id="path3" />
+  <path
+     style="fill:#fff9c4;stroke-width:2"
+     d="M 104,76 H 80.2 C 77.8816,76 76,77.8816 76,80.200002 V 104 Z"
+     id="path4" />
+  <path
+     style="fill:#ffeb3b;stroke-width:2"
+     d="M 29.714844,24 C 29.714844,24 24,24.000558 24,29.714844 V 38 h 80 V 29.714844 C 104,24.000558 98.285156,24 98.285156,24 Z"
+     id="path6" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:2"
+     width="80"
+     height="1"
+     x="24"
+     y="38"
+     id="rect6" />
+  <path
+     id="path1040"
+     style="opacity:0.2;fill:#ffffff;stroke-width:8;stroke-linecap:square"
+     d="M 32,8 C 18.704026,8 8,18.704028 8,32 v 1 C 8,19.704028 18.704026,9 32,9 h 64 c 13.29597,0 24,10.704028 24,24 V 32 C 120,18.704028 109.29597,8 96,8 Z" />
+</svg>
