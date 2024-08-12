@@ -7,7 +7,7 @@
    viewBox="0 0 48 48"
    version="1.1"
    id="svg5"
-   inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
+   inkscape:version="1.3.2 (1:1.3.2+202404261509+091e20ef0f)"
    sodipodi:docname="cs-panel.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,11 +24,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="14.958333"
-     inkscape:cx="24"
-     inkscape:cy="23.966574"
+     inkscape:zoom="16.645833"
+     inkscape:cx="23.969962"
+     inkscape:cy="24"
      inkscape:window-width="1920"
-     inkscape:window-height="1008"
+     inkscape:window-height="1006"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -54,7 +54,8 @@
   <path
      id="rect391"
      style="opacity:1;fill:#2196f3;fill-opacity:1;stroke-width:4;stroke-linecap:square"
-     d="M 13,4 C 8.014005,4 4,8.014005 4,13 V 34 H 44 V 13 C 44,8.014005 39.985996,4 35,4 Z" />
+     d="M 13,4 C 8.014005,4 4,8.014005 4,13 V 32 H 44 V 13 C 44,8.014005 39.985996,4 35,4 Z"
+     sodipodi:nodetypes="ssccsss" />
   <path
      id="path1040"
      style="opacity:0.2;fill:#ffffff;stroke-width:8;stroke-linecap:square"
