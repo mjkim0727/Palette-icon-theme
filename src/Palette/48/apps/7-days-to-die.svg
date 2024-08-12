@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3.2 (1:1.3.2+202404261509+091e20ef0f)"
+   sodipodi:docname="7-days-to-die.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="16.645833"
+     inkscape:cx="23.969962"
+     inkscape:cy="24"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:2.85714;stroke-linecap:square"
+     id="rect234"
+     width="40"
+     height="40"
+     x="4"
+     y="4.999999"
+     ry="9" />
+  <rect
+     style="fill:#595552;fill-opacity:1;stroke-width:2.85714;stroke-linecap:square"
+     id="rect396"
+     width="40"
+     height="40"
+     x="4"
+     y="4"
+     ry="9" />
+  <path
+     d="m 8,9 2,6 h 18 l -4,5.132566 2,-1.5648 0.666666,0.42734 0.87996,0.0048 -3.25496,2.915678 L 24,21 l -1.477374,2 0.515372,0.792338 -3.56404,4.57852 -1.994792,3.33704 -0.07814,1.826028 L 18,35 16,37 17.18724,37.631516 16,41 20.223948,34.361514 21.102624,33.659168 16,43 22.442708,35.728366 24,33 V 32.051654 L 24.508876,31 H 26 L 28,30.09268 29.498126,27.459188 29.128334,27 28,28.465512 V 27.91814 L 30,25 v -2 l 4,-6 6,-8 z"
+     style="opacity:0.2;fill:#000000;stroke-width:2"
+     id="path2" />
+  <path
+     d="m 8,8 2,6 h 18 l -4,5.132566 2,-1.5648 0.666666,0.42734 L 27.546626,18 24.291666,20.915684 24,20 l -1.477374,2 0.515372,0.792338 -3.56404,4.57852 -1.994792,3.33704 -0.07814,1.826028 L 18,34 16,36 17.18724,36.631516 16,40 20.223948,33.361514 21.102624,32.659168 16,42 22.442708,34.728366 24,32 V 31.051654 L 24.508876,30 H 26 L 28,29.09268 29.498126,26.459188 29.128334,26 28,27.465512 V 26.91814 L 30,24 v -2 l 4,-6 6,-8 z"
+     style="fill:#c6241d;stroke-width:2"
+     id="path3" />
+  <path
+     d="M 8,8 8.3320312,9 H 39.25 L 40,8 Z M 27.21875,15 24,19.132812 26,17.566406 28,15 Z m -0.6875,3.910156 -2.238282,2.003906 L 24.035156,20.105468 24,20.132812 24.03125,20.09375 24,20 22.523438,22 22.871094,22.53125 24,21 24.292968,21.914062 27.546876,19 26.667968,18.996 Z m -3.847656,4.335938 -3.210938,4.125 -1.992188,3.335938 -0.07812,1.828124 0.03906,0.09374 0.03906,-0.921874 1.992188,-3.335938 3.566406,-4.578126 z M 29.230468,26.125 28,27.917968 v 0.546876 L 29.128906,27 29.167968,27.046876 29.5,26.460938 Z m -8.128906,7.535156 -0.878906,0.703126 -0.36328,0.570312 L 16,42 17.425782,40.390624 Z M 17.710938,34.289062 16,36 16.652344,36.347656 18,35 Z m -0.820312,3.1875 L 16,40 l 0.792968,-1.242188 0.394532,-1.125 z"
+     style="opacity:0.2;fill:#ffffff;stroke-width:2"
+     id="path5" />
+  <path
+     id="path1040"
+     style="opacity:0.1;fill:#ffffff;stroke-width:8;stroke-linecap:square"
+     d="m 13,4.0000002 c -4.98599,0 -9,4.01401 -9,8.9999998 v 1 C 4,9.0140102 8.01401,5.0000002 13,5.0000002 h 22 c 4.985992,0 9,4.01401 9,8.9999998 V 13 C 44,8.0140104 39.985992,4.0000002 35,4.0000002 Z" />
+</svg>
