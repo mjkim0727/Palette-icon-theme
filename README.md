@@ -10,6 +10,10 @@ Material Design icon theme
 
 ![preview](images/icon-preview.png)
 
+* Gruvbox Color
+
+![preview](images/gruvbox-preview.png)
+
 ## Color Variant
 
 * Gruvbox
