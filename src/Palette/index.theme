@@ -1,9 +1,5 @@
 [Icon Theme]
 Name=Palette
-Name[en]=Palette
-Name[ko]=팔레트
-Name[ja]=パレット
-Name[zh_TW]=Palette
 Comment=Palette icon theme
 Inherits=Papirus,breeze,hicolor
 
