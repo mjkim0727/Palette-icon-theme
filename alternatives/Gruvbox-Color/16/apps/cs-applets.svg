@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="cs-applets.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="51.375"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="fill:#49665b;fill-opacity:1;stroke-width:1.14286;stroke-linecap:square"
+     id="rect396"
+     width="16"
+     height="14"
+     x="0"
+     y="2"
+     ry="4" />
+  <path
+     id="rect391"
+     style="fill:#83a598;fill-opacity:1;stroke-width:2;stroke-linecap:square"
+     d="M 4 0 C 1.7840044 0 0 1.7840044 0 4 L 0 12 L 16 12 L 16 4 C 16 1.7840044 14.215996 0 12 0 L 4 0 z " />
+  <path
+     id="rect639"
+     style="fill:#ffffff;stroke-linecap:square;opacity:0.2"
+     d="M 4 0 C 1.7840022 0 0 1.7840022 0 4 L 0 5 C 0 2.7840022 1.7840022 1 4 1 L 12 1 C 14.215998 1 16 2.7840022 16 5 L 16 4 C 16 1.7840022 14.215998 0 12 0 L 4 0 z " />
+  <rect
+     style="fill:#ffffff"
+     id="rect985"
+     width="2"
+     height="2"
+     x="2"
+     y="11" />
+  <rect
+     style="fill:#ffffff"
+     id="rect987"
+     width="2"
+     height="2"
+     x="5"
+     y="11" />
+  <rect
+     style="fill:#ffffff"
+     id="rect989"
+     width="2"
+     height="2"
+     x="8"
+     y="11" />
+  <rect
+     style="fill:#ffffff"
+     id="rect991"
+     width="2"
+     height="2"
+     x="11"
+     y="11" />
+</svg>
