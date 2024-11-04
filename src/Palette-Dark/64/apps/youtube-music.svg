@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="youtube-music.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="12.59375"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:4;stroke-linecap:square"
+     id="rect234"
+     width="56"
+     height="56"
+     x="4"
+     y="5"
+     ry="12" />
+  <rect
+     style="fill:#4f4f4f;stroke-width:4;stroke-linecap:square;fill-opacity:1"
+     id="rect396"
+     width="56"
+     height="56"
+     x="4"
+     y="4"
+     ry="12" />
+  <circle
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:7.99999;stroke-linecap:square"
+     id="path744"
+     cx="31.999964"
+     cy="32.999954"
+     r="19.99996" />
+  <circle
+     style="fill:#fa2235;fill-opacity:1;stroke-width:7.99999;stroke-linecap:square"
+     id="path345"
+     cx="31.999964"
+     cy="31.99996"
+     r="19.99996" />
+  <path
+     id="path909"
+     style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke-width:5.71427;stroke-linecap:square"
+     d="M 31.999963,12 A 19.999965,19.999965 0 0 0 12,31.999965 19.999965,19.999965 0 0 0 12.03516,32.50387 19.999959,19.999959 0 0 1 31.999967,12.999998 19.999959,19.999959 0 0 1 51.9804,32.257777 19.999965,19.999965 0 0 0 52,31.999965 19.999965,19.999965 0 0 0 32.000035,12 Z" />
+  <path
+     id="path1342"
+     style="opacity:0.2;fill:#000000;stroke-width:2.9277;stroke-linecap:square"
+     d="M 31.999963,18.99999 A 13.999976,13.999976 0 0 0 17.999988,32.999965 13.999976,13.999976 0 0 0 31.999963,46.999941 13.999976,13.999976 0 0 0 45.999939,32.999965 13.999976,13.999976 0 0 0 31.999963,18.99999 Z m 0,1.999996 A 11.999979,11.999979 0 0 1 43.999942,32.999965 11.999979,11.999979 0 0 1 31.999963,44.999944 11.999979,11.999979 0 0 1 19.999984,32.999965 11.999979,11.999979 0 0 1 31.999963,20.999986 Z m -3.999993,5.99999 v 11.999979 l 9.999983,-5.99999 z" />
+  <path
+     id="path1314"
+     style="fill:#4f4f4f;stroke-width:2.9277;stroke-linecap:square;fill-opacity:1"
+     d="M 31.999963,17.99999 A 13.999976,13.999976 0 0 0 17.999988,31.999965 13.999976,13.999976 0 0 0 31.999963,45.999941 13.999976,13.999976 0 0 0 45.999939,31.999965 13.999976,13.999976 0 0 0 31.999963,17.99999 Z m 0,1.999996 A 11.999979,11.999979 0 0 1 43.999942,31.999965 11.999979,11.999979 0 0 1 31.999963,43.999944 11.999979,11.999979 0 0 1 19.999984,31.999965 11.999979,11.999979 0 0 1 31.999963,19.999986 Z m -3.999993,5.999989 v 11.99998 l 9.999983,-5.99999 z" />
+  <path
+     d="M 16,4.0000002 C 9.3520066,4.0000002 4,9.352007 4,16 v 1 C 4,10.352007 9.3520066,5 16,5 h 32 c 6.647993,0 12,5.352007 12,12 V 16 C 60,9.352007 54.647993,4.0000002 48,4.0000002 Z"
+     style="opacity:0.1;fill:#ffffff;stroke-width:4;stroke-linecap:square"
+     id="path1040" />
+</svg>
