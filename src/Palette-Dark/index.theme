@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Palette (Dark)
 Comment=Palette icon theme
-Inherits=Papirus-Dark,breeze,hicolor
+Inherits=Palette,Papirus,breeze,hicolor
 
 Example=folder
 
