@@ -17,3 +17,8 @@ Material Design icon theme
 ## Color Variant
 
 * Gruvbox
+* Nord (WIP)
+
+## To-Dos
+
+[ ] Experimental Dark Mode icon Support
