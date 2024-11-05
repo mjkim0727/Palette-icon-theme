@@ -21,4 +21,6 @@ Material Design icon theme
 
 ## To-Dos
 
-[ ] Experimental Dark Mode icon Support
+[*] Experimental Dark Mode icon Support
+
+[ ] Adwaita Color Support
