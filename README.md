@@ -14,6 +14,10 @@ Material Design icon theme
 
 ![preview](images/gruvbox-preview.png)
 
+* Dark Mode App icon
+
+![preview](images/dark-preview.png)
+
 ## Color Variant
 
 * Gruvbox
