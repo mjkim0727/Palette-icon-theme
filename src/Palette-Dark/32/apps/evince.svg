@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="evince.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="24.5625"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:2;stroke-linecap:square"
+     id="rect234"
+     width="28"
+     height="28"
+     x="2"
+     y="3"
+     ry="6" />
+  <rect
+     style="fill:#4f4f4f;fill-opacity:1;stroke-width:2;stroke-linecap:square"
+     id="rect396"
+     width="28"
+     height="28"
+     x="2"
+     y="2"
+     ry="6" />
+  <path
+     id="path2"
+     style="opacity:0.2;fill:#ffffff"
+     d="m 6,9 v 6 h 8 V 10 H 26 V 9 Z m 0,8 v 5 h 5 v -1 h 3 v -4 z m 0,7 v 2 h 16 v -1 h 4 v -1 z" />
+  <rect
+     style="fill:#ff4d39;stroke-width:1.25"
+     width="9.9925003"
+     height="10"
+     x="16"
+     y="12"
+     rx="0"
+     ry="0"
+     id="rect3" />
+  <path
+     style="opacity:0.2;fill:#000000;stroke-width:1.25"
+     d="m 16.159173,20.877483 c 1.86362,-0.537553 3.819253,-1.199315 5.25016,-2.521025 0.579372,-0.54826 1.011809,-1.569317 0.72614,-2.369195 -0.294255,-0.821155 -1.436348,-1.153163 -2.239183,-0.98813 -1.182026,0.204269 -2.382968,1.283015 -2.554656,2.513198 -0.170557,1.088525 0.6305,1.885779 1.567033,2.381049 1.251272,0.665162 2.75006,0.720172 4.117158,0.445937 C 23.955251,20.143227 25.221428,19.763212 26,19.218108 l -0.0075,-1.62125 c -1.340888,1.47409 -3.74496,2.347124 -5.743192,2.179159 -0.987103,-0.08267 -2.106562,-0.41757 -2.386583,-1.420763 -0.268696,-0.930256 0.38475,-2.092999 1.213752,-2.521545 0.595128,-0.323615 1.567741,-0.526776 2.160743,-0.09142 0.556321,0.421203 0.485196,1.431435 0.108875,1.949241 -0.613553,0.839579 -1.669295,1.180532 -2.504058,1.778689 -0.84234,0.560263 -1.742997,1.033041 -2.682857,1.40727 z"
+     id="path3" />
+  <path
+     style="fill:#ffffff;stroke-width:1.25"
+     d="m 16.159173,19.877188 c 1.86362,-0.537553 3.819253,-1.199315 5.25016,-2.521025 0.579372,-0.54826 1.011809,-1.569317 0.72614,-2.369195 -0.294255,-0.821155 -1.436348,-1.153163 -2.239183,-0.98813 -1.182026,0.204269 -2.382968,1.283015 -2.554656,2.513198 -0.170557,1.088525 0.6305,1.885779 1.567033,2.381049 1.251272,0.665162 2.75006,0.720172 4.117158,0.445937 C 23.955251,19.142932 25.221428,18.762917 26,18.217813 l -0.0075,-1.62125 c -1.340888,1.47409 -3.74496,2.347124 -5.743192,2.179159 -0.987103,-0.08267 -2.106562,-0.41757 -2.386583,-1.420763 -0.268696,-0.930256 0.38475,-2.092999 1.213752,-2.521545 0.595128,-0.323615 1.567741,-0.526776 2.160743,-0.09142 0.556321,0.421203 0.485196,1.431435 0.108875,1.949241 -0.613553,0.839579 -1.669295,1.180532 -2.504058,1.778689 -0.84234,0.560263 -1.742997,1.033041 -2.682857,1.40727 z"
+     id="path4" />
+  <path
+     style="opacity:0.4;fill:#ffffff"
+     d="M 6,6 V 7 H 16 V 6 Z"
+     id="path5" />
+  <path
+     d="M 8,2.0000001 C 4.6760033,2.0000001 2,4.6760035 2,8 V 9 C 2,5.6760035 4.6760033,3 8,3 h 16 c 3.323996,0 6,2.6760035 6,6 V 8 C 30,4.6760035 27.323996,2.0000001 24,2.0000001 Z"
+     style="opacity:0.1;fill:#ffffff;stroke-width:2;stroke-linecap:square"
+     id="path1040"
+     sodipodi:nodetypes="sscsscsss" />
+</svg>
