@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="gnome-tweak-tool.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="12.28125"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:4;stroke-linecap:square"
+     id="rect234"
+     width="56"
+     height="56"
+     x="4"
+     y="5"
+     ry="12" />
+  <rect
+     style="fill:#3a3a3a;fill-opacity:1;stroke-width:4;stroke-linecap:square"
+     id="rect396"
+     width="56"
+     height="56"
+     x="4"
+     y="4"
+     ry="12" />
+  <path
+     d="M 20.999924,14 C 17.133972,14 13.999999,17.133973 14,20.999926 c 0,3.86595 3.133974,6.999924 6.999924,6.999924 H 42.999686 V 14 Z"
+     style="fill:#3084e9;stroke-width:0.99999"
+     id="path4505"
+     sodipodi:nodetypes="sssccs" />
+  <path
+     d="M 20.999924,35.999762 V 49.99961 H 43.000076 C 46.866028,49.99961 50,46.865636 50,42.999686 50,39.133734 46.866028,35.999762 43.000076,35.999762 Z"
+     style="fill:#8a8a8a;fill-opacity:1;stroke-width:0.99999"
+     id="path4533"
+     sodipodi:nodetypes="ccsssc" />
+  <path
+     id="path6429"
+     style="opacity:0.1;fill:#000000;stroke-width:0.99999"
+     d="m 21,14 c -3.865944,0 -7.000001,3.134056 -7,7 0,0.17035 0.0093,0.337456 0.02344,0.503906 C 14.279173,17.870676 17.301715,15 21,15 h 22 v -1 z m 0,22 v 1 h 22 c 3.698284,0 6.720826,2.870676 6.976562,6.503906 C 49.990702,43.337456 50,43.17035 50,43 50,39.134056 46.865944,36 43,36 Z" />
+  <g
+     id="g361"
+     transform="matrix(0.99999418,0,0,0.99999418,6.99e-5,6.98e-5)" />
+  <path
+     id="path5215"
+     style="opacity:0.2;fill:#000000;stroke-width:1.99998;stroke-linecap:square"
+     d="m 42.999686,14.99998 a 6.999924,6.9999246 0 0 0 -6.999924,6.999924 6.999924,6.9999246 0 0 0 6.999924,6.999924 6.999924,6.9999246 0 0 0 6.999924,-6.999924 6.999924,6.9999246 0 0 0 -6.999924,-6.999924 z m -21.99976,21.999762 a 6.999924,6.9999246 0 0 0 -6.999924,6.999924 6.999924,6.9999246 0 0 0 6.999924,6.999924 6.999924,6.9999246 0 0 0 6.999924,-6.999924 6.999924,6.9999246 0 0 0 -6.999924,-6.999924 z" />
+  <ellipse
+     style="fill:#5f5f5f;fill-opacity:1;stroke-width:1.99998;stroke-linecap:square"
+     id="path5297"
+     cx="42.999687"
+     cy="20.999924"
+     rx="6.9999242"
+     ry="6.9999247" />
+  <circle
+     style="fill:#5f5f5f;fill-opacity:1;stroke-width:1.99998;stroke-linecap:square"
+     id="path5351"
+     cx="20.999924"
+     cy="42.999687"
+     r="6.9999242" />
+  <path
+     id="path1040"
+     style="opacity:0.1;fill:#ffffff;stroke-width:4;stroke-linecap:square"
+     d="M 16,4 C 9.3520066,4 4,9.352007 4,16 v 1 C 4,10.352007 9.3520066,5 16,5 h 32 c 6.647992,0 12,5.352007 12,12 V 16 C 60,9.352007 54.647992,4 48,4 Z" />
+</svg>
