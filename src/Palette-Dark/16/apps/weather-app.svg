@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="weather-app.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="45.0625"
+     inkscape:cx="8.0110957"
+     inkscape:cy="8.0110957"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="fill:#4f4f4f;fill-opacity:1;stroke-width:1.14286;stroke-linecap:square"
+     id="rect396"
+     width="16"
+     height="16"
+     x="0"
+     y="0"
+     ry="4" />
+  <path
+     d="m 9.9999999,3.5 -1,1 H 7 v 1.9999999 l -1,1 1,1 -2e-7,2.0000001 H 9.0000001 L 10,11.5 l 1,-1 h 2 V 8.5000001 l 1,-1 -1,-1 V 4.4999998 L 11,4.5 Z"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:0.353554;stroke-linecap:round;stroke-linejoin:round"
+     id="path1" />
+  <path
+     id="rect1"
+     style="fill:#ff8a47;fill-opacity:1;stroke-width:0.353554;stroke-linecap:round;stroke-linejoin:round"
+     d="m 9.9999999,3 -1,1 H 7 v 1.9999999 l -1,1 1,1 L 6.9999998,10 H 9.0000001 L 10,11 11,10 h 2 V 8.0000001 l 1,-1 -1,-1 V 3.9999998 L 11,4 Z" />
+  <path
+     id="path1-3"
+     style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke-width:0.353554;stroke-linecap:round;stroke-linejoin:round"
+     d="M 10,3 9,4 H 7 v 0.5 h 2 l 1,-1 1,1 h 2 V 4 H 11 Z M 7,6 6,7 6.25,7.25 7,6.5 Z m 6,0 V 6.5 L 13.75,7.25 14,7 Z" />
+  <circle
+     style="opacity:0.2;fill:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+     id="path9"
+     cx="10"
+     cy="7.5"
+     r="2" />
+  <circle
+     style="fill:#ffcc42;fill-opacity:1;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+     id="path10"
+     cx="10"
+     cy="7"
+     r="2" />
+  <path
+     id="path11"
+     style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+     d="M 10,5 A 2,2 0 0 0 8,7 2,2 0 0 0 8.01758,7.25 2,2 0 0 1 10,5.5 2,2 0 0 1 11.982422,7.240235 2,2 0 0 0 12,7 2,2 0 0 0 10,5 Z" />
+  <path
+     style="opacity:0.2;fill:#000000;stroke-width:0.537373"
+     d="M 7.5,7.5 A 2.3823529,2.4545455 0 0 0 5.1176471,9.9545455 2.3823529,2.4545455 0 0 0 5.1486674,10.334872 1.5882353,1.6363636 0 0 0 4.5882353,10.227273 1.5882353,1.6363636 0 0 0 3,11.863636 1.5882353,1.6363636 0 0 0 4.5882353,13.5 H 10.411764 A 1.5882353,1.6363636 0 0 0 12,11.863636 1.5882353,1.6363636 0 0 0 10.411764,10.227273 1.5882353,1.6363636 0 0 0 9.8502994,10.332741 2.3823529,2.4545455 0 0 0 9.8823528,9.9545455 2.3823529,2.4545455 0 0 0 7.5,7.5 Z"
+     id="path7" />
+  <path
+     d="M 7.5,7 C 6.1842635,7 5.1176471,8.0989382 5.1176471,9.4545455 5.1181553,9.5812196 5.1281824,9.7076625 5.1476329,9.8327418 4.9688448,9.7631964 4.7793413,9.727468 4.5882353,9.7272728 3.7110772,9.7272728 3,10.459898 3,11.363636 3,12.267375 3.7110772,13 4.5882353,13 H 10.411764 C 11.288923,13 12,12.267375 12,11.363636 12,10.459898 11.288923,9.7272728 10.411764,9.7272728 10.220058,9.7286888 10.030184,9.7658696 9.8513322,9.8370032 9.8713462,9.7105472 9.8817182,9.5826707 9.8823482,9.4545458 9.8823528,8.0989382 8.8157375,7 7.5,7 Z"
+     style="fill:#ffffff;stroke-width:0.537373"
+     id="path8" />
+  <path
+     id="rect639"
+     style="fill:#ffffff;stroke-linecap:square;opacity:0.1"
+     d="M 4 0 C 1.7840022 0 0 1.7840022 0 4 L 0 5 C 0 2.7840022 1.7840022 1 4 1 L 12 1 C 14.215998 1 16 2.7840022 16 5 L 16 4 C 16 1.7840022 14.215998 0 12 0 L 4 0 z " />
+</svg>

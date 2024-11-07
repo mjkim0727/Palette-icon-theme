@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="weather-app.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="3.0703125"
+     inkscape:cx="128"
+     inkscape:cy="128"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:16;stroke-linecap:square"
+     id="rect234"
+     width="224"
+     height="224"
+     x="16"
+     y="18"
+     ry="48" />
+  <rect
+     style="fill:#4f4f4f;fill-opacity:1;stroke-width:16;stroke-linecap:square"
+     id="rect396"
+     width="224"
+     height="224"
+     x="16"
+     y="16"
+     ry="48" />
+  <path
+     style="opacity:0.2;fill:#000000;stroke-width:8"
+     d="m 156,50 -16,16 h -24 v 24 l -16,16 16,16 v 24 h 24 l 16,16 16,-16 h 24 V 122 L 212,106 196,90 V 66 h -24 z"
+     id="path3" />
+  <path
+     style="fill:#ff8a47;stroke-width:8"
+     d="m 156,48 -16,16 h -24 v 24 l -16,16 16,16 v 24 h 24 l 16,16 16,-16 h 24 V 120 L 212,104 196,88 V 64 h -24 z"
+     id="path4" />
+  <path
+     id="path12"
+     style="opacity:0.2;fill:#ffffff;stroke-width:8"
+     d="m 156,48 -16,16 h -24 v 2 h 24 l 16,-16 16,16 h 24 v -2 h -24 z m -40,40 -16,16 1,1 15,-15 z m 80,0 v 2 l 15,15 1,-1 z" />
+  <circle
+     style="opacity:0.2;fill:#000000;stroke-width:8;stroke-linecap:round;stroke-linejoin:round"
+     id="path9"
+     cx="156"
+     cy="106"
+     r="32" />
+  <circle
+     style="fill:#ffcc42;fill-opacity:1;stroke-width:8;stroke-linecap:round;stroke-linejoin:round"
+     id="path10"
+     cx="156"
+     cy="104"
+     r="32" />
+  <path
+     id="path11"
+     style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke-width:8;stroke-linecap:round;stroke-linejoin:round"
+     d="m 156,72 a 32,32 0 0 0 -32,32 32,32 0 0 0 0.0703,1.02344 A 32,32 0 0 1 156,74 32,32 0 0 1 187.96094,104.5 32,32 0 0 0 188,104 32,32 0 0 0 156,72 Z" />
+  <path
+     style="opacity:0.2;fill:#000000;stroke-width:8"
+     d="m 120,106 a 36,36 0 0 0 -36,36 36,36 0 0 0 0.468752,5.57813 A 24,24 0 0 0 76,146 24,24 0 0 0 52,170 24,24 0 0 0 76,194 h 88 a 24,24 0 0 0 24,-24 24,24 0 0 0 -24,-24 24,24 0 0 0 -8.48438,1.54687 A 36,36 0 0 0 156,142 36,36 0 0 0 120,106 Z"
+     id="path7" />
+  <path
+     d="m 120,104 c -19.88225,0 -36,16.11775 -36,36 0.0076,1.85788 0.1592,3.71238 0.45312,5.54687 C 81.751432,144.52688 78.887824,144.00286 76,144 c -13.254832,0 -24,10.74517 -24,24 0,13.25483 10.745168,24 24,24 h 88 c 13.25483,0 24,-10.74517 24,-24 0,-13.25483 -10.74517,-24 -24,-24 -2.89691,0.0208 -5.7661,0.56616 -8.46875,1.60938 0.30241,-1.85469 0.45914,-3.73022 0.46875,-5.60938 0,-19.88225 -16.11775,-36 -36,-36 z"
+     style="fill:#ffffff;stroke-width:8"
+     id="path8" />
+  <path
+     id="path1040"
+     style="opacity:0.1;fill:#ffffff;stroke-width:16;stroke-linecap:square"
+     d="M 64,16 C 37.408056,16 16,37.408056 16,64 v 2 C 16,39.408028 37.408028,18 64,18 h 128 c 26.59198,0 48,21.408028 48,48 V 64 C 240,37.408056 218.59194,16 192,16 Z" />
+</svg>
