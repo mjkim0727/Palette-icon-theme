@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3.2 (1:1.3.2+202404261509+091e20ef0f)"
+   sodipodi:docname="folder-cyan-games.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="12.96875"
+     inkscape:cx="32"
+     inkscape:cy="32.038554"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     d="m 8,9 c -2.215998,0 -4,1.784002 -4,4 0.02585,13.306653 0,26.638264 0,40 0,2.215998 1.784002,4 4,4 h 48 c 2.215998,0 4,-1.784002 4,-4 V 19 c 0,-2.215998 -1.784002,-4 -4,-4 H 32 L 30,12 C 28.770786,10.156178 28.215998,9 26,9 Z"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:4;stroke-linecap:square"
+     id="path2595" />
+  <path
+     d="m 8,8 c -2.215998,0 -4,1.7840022 -4,4 0.02585,13.306653 0,26.638264 0,40 0,2.215998 1.784002,4 4,4 h 48 c 2.215998,0 4,-1.784002 4,-4 V 18 c 0,-2.215998 -1.784002,-4 -4,-4 H 32 L 30,11 C 28.770786,9.1561783 28.215998,8 26,8 Z"
+     style="fill:#2190a4;fill-opacity:1;stroke-width:4;stroke-linecap:square"
+     id="path2567" />
+  <path
+     d="M 8,8 C 5.7840042,8 4,9.784005 4,12 4.0006406,12.329771 3.9994217,12.660432 4,12.990234 4.00528,10.77881 5.7872928,9 8,9 h 18 c 2.215996,0 2.770787,1.15618 4,3 l 2,3 h 24 c 2.215996,0 4,1.784004 4,4 v -1 c 0,-2.215996 -1.784004,-4 -4,-4 H 32 L 30,11 C 28.770787,9.15618 28.215996,8 26,8 Z"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:4;stroke-linecap:square;opacity:0.1"
+     id="path2855" />
+  <rect
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:4;stroke-linecap:square"
+     id="rect2667"
+     width="56"
+     height="32"
+     x="4"
+     y="23"
+     ry="4" />
+  <rect
+     style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke-width:4;stroke-linecap:square"
+     id="rect3435"
+     width="48"
+     height="25"
+     x="7.9998393"
+     y="18"
+     ry="3" />
+  <rect
+     style="opacity:1;fill:#52bfd3;fill-opacity:1;stroke-width:4;stroke-linecap:square"
+     id="rect2727"
+     width="56"
+     height="32"
+     x="4"
+     y="23.999998"
+     ry="4" />
+  <path
+     id="path5"
+     style="opacity:0.5;fill:#000000"
+     d="m 26.730027,32.000028 c -0.302,10e-4 -0.64986,0.09678 -1.00586,0.300781 -1.296998,0.73 -2.492625,3.12266 -3.140625,6.222657 -0.552999,2.633997 -0.754781,6.231688 -0.425781,7.679687 0.287,1.244999 0.782064,1.796875 1.664063,1.796875 1.307998,-0.024 2.953141,-1.580783 3.99414,-3.675781 0.753999,-1.158999 2.499596,-1.686906 4.183594,-1.628907 1.683998,-0.063 3.431548,0.469908 4.185547,1.628907 1.040999,2.094998 2.684189,3.651781 3.992187,3.675781 0.881999,0 1.377063,-0.551876 1.664063,-1.796875 0.329,-1.447999 0.127218,-5.04569 -0.425781,-7.679687 -0.648,-3.099997 -1.841674,-5.492657 -3.138672,-6.222657 -0.356,-0.204 -0.683376,-0.301781 -0.984375,-0.300781 -0.301,0.002 -0.575938,0.102781 -0.835938,0.300781 -0.658999,0.503 -2.033033,1.040969 -4.457031,1.042969 -2.423998,0.002 -3.798032,-0.539969 -4.457031,-1.042969 -0.26,-0.198 -0.509501,-0.302781 -0.8125,-0.300781 z m 0.269531,3 h 2 v 2 h 2 v 2 h -2 v 2 h -2 v -2 h -2 v -2 h 2 z m 9,0 c 0.551999,0 1,0.448001 1,1 0,0.551999 -0.448001,1 -1,1 -0.551999,0 -1,-0.448001 -1,-1 0,-0.551999 0.448001,-1 1,-1 z m -2,2 c 0.551999,0 1,0.448001 1,1 0,0.551999 -0.448001,1 -1,1 -0.551999,0 -1,-0.448001 -1,-1 0,-0.551999 0.448001,-1 1,-1 z m 4,0 c 0.551999,0 1,0.448001 1,1 0,0.551999 -0.448001,1 -1,1 -0.551999,0 -1,-0.448001 -1,-1 0,-0.551999 0.448001,-1 1,-1 z m -2,2 c 0.551999,0 1,0.448001 1,1 0,0.551999 -0.448001,1 -1,1 -0.551999,0 -1,-0.448001 -1,-1 0,-0.551999 0.448001,-1 1,-1 z" />
+</svg>

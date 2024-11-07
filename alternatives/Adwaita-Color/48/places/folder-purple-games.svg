@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3.2 (1:1.3.2+202404261509+091e20ef0f)"
+   sodipodi:docname="folder-purple-games.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="17.291667"
+     inkscape:cx="24.057831"
+     inkscape:cy="24.028915"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     id="path2024"
+     style="opacity:0.2;fill:#000000;stroke-width:8;stroke-linecap:square"
+     d="M 7,8 C 5.3431458,8 4,9.3431458 4,11 v 28 c 0,1.656854 1.3431458,3 3,3 h 34 c 1.656854,0 3,-1.343146 3,-3 V 16 c 0,-1.656854 -1.343146,-3 -3,-3 H 24 L 22,10 C 20.770788,8.156182 20.215994,8 18,8 Z" />
+  <path
+     id="path2052"
+     style="fill:#613583;fill-opacity:1;stroke-width:8;stroke-linecap:square"
+     d="M 7,7 C 5.3431458,7 4,8.3431458 4,10 v 28 c 0,1.656854 1.3431458,3 3,3 h 34 c 1.656854,0 3,-1.343146 3,-3 V 15 c 0,-1.656854 -1.343146,-3 -3,-3 H 24 L 22,9 C 20.770788,7.1561818 20.215994,7 18,7 Z" />
+  <path
+     id="path3024"
+     style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke-width:8;stroke-linecap:square"
+     d="M 7,7 C 5.3431477,7 4,8.3431475 4,10 v 1 C 4,9.3431475 5.3431477,8 7,8 h 11 c 2.215992,0 2.770789,0.1561834 4,2 l 2,3 h 17 c 1.656852,0 3,1.343148 3,3 v -1 c 0,-1.656852 -1.343148,-3 -3,-3 H 24 L 22,9 C 20.770789,7.1561834 20.215992,7 18,7 Z" />
+  <rect
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:8;stroke-linecap:square"
+     id="rect2667"
+     width="40"
+     height="24"
+     x="4"
+     y="16"
+     ry="3" />
+  <rect
+     style="fill:#f2f2f2;fill-opacity:1;stroke-width:3;stroke-linecap:square"
+     id="rect3435"
+     width="36"
+     height="18"
+     x="6"
+     y="14"
+     ry="1.5" />
+  <rect
+     style="opacity:1;fill:#c061cb;fill-opacity:1;stroke-width:8;stroke-linecap:square"
+     id="rect2072"
+     width="40"
+     height="24"
+     x="4"
+     y="17"
+     ry="3" />
+  <path
+     id="path5"
+     style="opacity:0.5;fill:#000000"
+     d="m 28.238545,23.000015 c -0.24125,0.0012 -0.463828,0.07997 -0.673828,0.230469 -0.529999,0.380999 -1.628596,0.779297 -3.558594,0.779297 -1.939998,0 -3.040313,-0.398298 -3.570312,-0.779297 -0.21,-0.151 -0.410391,-0.222656 -0.650391,-0.222657 -0.24,0 -0.520547,0.07166 -0.810547,0.222657 -1.029999,0.550999 -1.989766,2.333205 -2.509765,4.658203 -0.44,1.983998 -0.599844,4.679673 -0.339844,5.763672 0.23,0.941999 0.629844,1.353515 1.339844,1.353515 1.039999,-0.02 2.349454,-1.183814 3.189453,-2.757812 0.599999,-0.871999 2.001564,-1.262656 3.351562,-1.222656 1.339999,-0.05 2.739845,0.350657 3.339844,1.222656 0.839999,1.573998 2.14922,2.737812 3.199219,2.757812 0.699999,0 1.100078,-0.411516 1.330078,-1.353515 0.26,-1.083999 0.100156,-3.779674 -0.339844,-5.763672 -0.519999,-2.324998 -1.479766,-4.107204 -2.509765,-4.658203 -0.285,-0.1555 -0.54586,-0.231719 -0.78711,-0.230469 z m -8.238281,3 h 1 v 1 h 1 v 1 h -1 v 1 h -1 v -1 h -1 v -1 h 1 z m 7.5,0 a 0.5,0.5 0 0 1 0.5,0.5 0.5,0.5 0 0 1 -0.5,0.5 0.5,0.5 0 0 1 -0.5,-0.5 0.5,0.5 0 0 1 0.5,-0.5 z m -1,1 a 0.5,0.5 0 0 1 0.5,0.5 0.5,0.5 0 0 1 -0.5,0.5 0.5,0.5 0 0 1 -0.5,-0.5 0.5,0.5 0 0 1 0.5,-0.5 z m 2,0 a 0.5,0.5 0 0 1 0.5,0.5 0.5,0.5 0 0 1 -0.5,0.5 0.5,0.5 0 0 1 -0.5,-0.5 0.5,0.5 0 0 1 0.5,-0.5 z m -1,1 a 0.5,0.5 0 0 1 0.5,0.5 0.5,0.5 0 0 1 -0.5,0.5 0.5,0.5 0 0 1 -0.5,-0.5 0.5,0.5 0 0 1 0.5,-0.5 z" />
+</svg>

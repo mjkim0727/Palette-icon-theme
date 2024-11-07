@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3.2 (1:1.3.2+202404261509+091e20ef0f)"
+   sodipodi:docname="folder-pink-games.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="3.1210938"
+     inkscape:cx="127.8398"
+     inkscape:cy="128"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     d="m 32,34 c -8.863992,0 -16,7.136008 -16,16 0.1034,53.22661 0,106.55306 0,160 0,8.864 7.136008,16 16,16 h 192 c 8.864,0 16,-7.136 16,-16 V 74 c 0,-8.863992 -7.136,-16 -16,-16 h -96 l -8,-12 c -4.91686,-7.375288 -7.13601,-12 -16,-12 z"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:16;stroke-linecap:square"
+     id="path2595" />
+  <path
+     d="m 32,32 c -8.863992,0 -16,7.136008 -16,16 0.1034,53.22661 0,106.55306 0,160 0,8.864 7.136008,16 16,16 h 192 c 8.864,0 16,-7.136 16,-16 V 72 c 0,-8.863992 -7.136,-16 -16,-16 h -96 l -8,-12 c -4.91686,-7.375288 -7.13601,-12 -16,-12 z"
+     style="fill:#b2306d;fill-opacity:1;stroke-width:16;stroke-linecap:square"
+     id="path2567" />
+  <path
+     id="path2855"
+     style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke-width:16;stroke-linecap:square"
+     d="m 32,32 c -8.863974,0 -16,7.136028 -16,16 0.0013,0.666044 6.16e-4,1.33304 0,2 0,-8.863984 7.136016,-16 16,-16 h 72 c 8.86398,0 11.08315,4.62472 16,12 l 8,12 h 96 c 8.86398,0 16,7.136016 16,16 v -2 c 0,-8.863976 -7.13602,-16 -16,-16 h -96 l -8,-12 c -4.91685,-7.375272 -7.13602,-12 -16,-12 z" />
+  <rect
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:16;stroke-linecap:square"
+     id="rect2667"
+     width="224"
+     height="128"
+     x="16"
+     y="94"
+     ry="16" />
+  <rect
+     style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke-width:16;stroke-linecap:square"
+     id="rect3435"
+     width="192"
+     height="100"
+     x="31.999359"
+     y="72"
+     ry="12" />
+  <rect
+     style="opacity:1;fill:#de81ae;fill-opacity:1;stroke-width:16;stroke-linecap:square"
+     id="rect2727"
+     width="224"
+     height="128"
+     x="16"
+     y="95.999992"
+     ry="16" />
+  <path
+     id="path5"
+     style="opacity:1;fill:#b2306d;stroke-width:4"
+     d="m 106.92011,128.00011 c -1.208,0.004 -2.59944,0.38712 -4.02344,1.20313 -5.187994,2.92 -9.970502,12.49064 -12.562502,24.89062 -2.211996,10.53599 -3.019124,24.92676 -1.703124,30.71876 1.148,4.97998 3.128256,7.1875 6.656252,7.1875 5.231994,-0.096 11.812564,-6.32314 15.976564,-14.70314 3.01599,-4.63598 9.99838,-6.74762 16.73437,-6.51562 6.73599,-0.252 13.72619,1.87964 16.74219,6.51562 4.164,8.38 10.73676,14.60714 15.96875,14.70314 3.52799,0 5.50825,-2.20752 6.65625,-7.1875 1.316,-5.792 0.50887,-20.18277 -1.70312,-30.71876 -2.592,-12.39998 -7.3667,-21.97062 -12.55469,-24.89062 -1.424,-0.816 -2.73351,-1.20713 -3.9375,-1.20313 -1.204,0.008 -2.30375,0.41113 -3.34375,1.20313 -2.636,2.012 -8.13214,4.16387 -17.82813,4.17187 -9.69599,0.008 -15.19213,-2.15987 -17.82812,-4.17187 -1.04,-0.792 -2.03801,-1.21113 -3.25,-1.20313 z m 1.07812,12 h 8 v 8 h 8 v 8 h -8 v 8 h -8 v -8 h -7.999998 v -8 h 7.999998 z m 36,0 c 2.208,0 4,1.79201 4,4 0,2.208 -1.792,4 -4,4 -2.20799,0 -4,-1.792 -4,-4 0,-2.20799 1.79201,-4 4,-4 z m -8,8 c 2.208,0 4,1.79201 4,4 0,2.208 -1.792,4 -4,4 -2.20799,0 -4,-1.792 -4,-4 0,-2.20799 1.79201,-4 4,-4 z m 16,0 c 2.208,0 4,1.79201 4,4 0,2.208 -1.792,4 -4,4 -2.20799,0 -4,-1.792 -4,-4 0,-2.20799 1.79201,-4 4,-4 z m -8,8 c 2.208,0 4,1.79201 4,4 0,2.208 -1.792,4 -4,4 -2.20799,0 -4,-1.792 -4,-4 0,-2.20799 1.79201,-4 4,-4 z" />
+</svg>
