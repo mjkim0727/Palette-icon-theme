@@ -18,13 +18,18 @@ Material Design icon theme
 
 ![preview](images/dark-preview.png)
 
+* Adwaita (for GNOME)
+
+![preview](images/adwaita-preview.png)
+
 ## Color Variant
 
+* Adwaita
 * Gruvbox
 * Nord (WIP)
 
 ## To-Dos
 
-[*] Experimental Dark Mode icon Support
+[x] Experimental Dark Mode icon Support
 
-[ ] Adwaita Color Support
+[x] Adwaita Color Support
