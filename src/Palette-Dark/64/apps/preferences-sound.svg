@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
+   sodipodi:docname="preferences-sound.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="11.21875"
+     inkscape:cx="32"
+     inkscape:cy="31.955432"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:4;stroke-linecap:square"
+     id="rect234"
+     width="56"
+     height="56"
+     x="4"
+     y="5"
+     ry="12" />
+  <rect
+     style="fill:#bdbdbd;fill-opacity:1;stroke-width:4;stroke-linecap:square"
+     id="rect396"
+     width="56"
+     height="56"
+     x="4"
+     y="4"
+     ry="12" />
+  <path
+     d="M 31,17 21,27 h -8 v 12 h 8 l 10,10 z m 6,0 v 4 c 5.71336,0.76194 9.99878,5.90444 10,12 -10e-4,6.09556 -4.28664,11.23806 -10,12 v 4 C 44.9987,47.98408 50.99828,41.12741 51,33 50.998,24.87259 44.9987,18.01592 37,17 Z m 0,8 v 16 c 3.42802,-0.50796 5.99926,-3.9363 6,-8 -7.4e-4,-4.0637 -2.57198,-7.49204 -6,-8 z"
+     style="opacity:0.2;fill:#000000;stroke-width:4.01622;stroke-linecap:round;stroke-linejoin:round"
+     id="path1142" />
+  <path
+     d="M 31,16 21,26 h -8 v 12 h 8 l 10,10 z m 6,0 v 4 c 5.71336,0.76194 9.99878,5.90444 10,12 -10e-4,6.09556 -4.28664,11.23806 -10,12 v 4 C 44.9987,46.98407 50.99828,40.12741 51,32 50.998,23.87259 44.9987,17.01592 37,16 Z m 0,8 v 16 c 3.42802,-0.50796 5.99926,-3.9363 6,-8 -7.4e-4,-4.0637 -2.57198,-7.49204 -6,-8 z"
+     style="fill:#5f5f5f;fill-opacity:1;stroke-width:4.01622;stroke-linecap:round;stroke-linejoin:round"
+     id="path1114"
+     sodipodi:nodetypes="cccccccccccccccccc" />
+  <path
+     id="path1040"
+     style="opacity:0.2;fill:#ffffff;stroke-width:4;stroke-linecap:square"
+     d="M 16,4 C 9.3520132,4 4,9.3520136 4,16 v 1 C 4,10.352007 9.3520066,5 16,5 h 32 c 6.647994,0 12,5.352007 12,12 V 16 C 60,9.3520136 54.647986,4 48,4 Z" />
+</svg>
