@@ -12,9 +12,9 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs9">
-     <style
-        id="current-color-scheme"
-        type="text/css">
+    <style
+       id="current-color-scheme"
+       type="text/css">
         .ColorScheme-Text { color:#4d4d4d; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
      </style>
   </defs>
@@ -36,9 +36,16 @@
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg9" />
-  <path
-     id="path1"
-     style="fill:currentColor"
+  <circle
+     style="opacity:0.35;fill:currentColor;stroke-width:0.875"
      class="ColorScheme-Text"
-     d="M 3.5 3 C 3.223 3 3 3.223 3 3.5 L 3 4.5 C 3 4.777 3.223 5 3.5 5 L 4.5 5 C 4.777 5 5 4.777 5 4.5 L 5 3.5 C 5 3.223 4.777 3 4.5 3 L 3.5 3 z M 7.5 3 C 7.223 3 7 3.223 7 3.5 L 7 4.5 C 7 4.777 7.223 5 7.5 5 L 8.5 5 C 8.777 5 9 4.777 9 4.5 L 9 3.5 C 9 3.223 8.777 3 8.5 3 L 7.5 3 z M 11.5 3 C 11.223 3 11 3.223 11 3.5 L 11 4.5 C 11 4.777 11.223 5 11.5 5 L 12.5 5 C 12.777 5 13 4.777 13 4.5 L 13 3.5 C 13 3.223 12.777 3 12.5 3 L 11.5 3 z M 3.5 7 C 3.223 7 3 7.223 3 7.5 L 3 8.5 C 3 8.777 3.223 9 3.5 9 L 4.5 9 C 4.777 9 5 8.777 5 8.5 L 5 7.5 C 5 7.223 4.777 7 4.5 7 L 3.5 7 z M 7.5 7 C 7.223 7 7 7.223 7 7.5 L 7 8.5 C 7 8.777 7.223 9 7.5 9 L 8.5 9 C 8.777 9 9 8.777 9 8.5 L 9 7.5 C 9 7.223 8.777 7 8.5 7 L 7.5 7 z M 11.5 7 C 11.223 7 11 7.223 11 7.5 L 11 8.5 C 11 8.777 11.223 9 11.5 9 L 12.5 9 C 12.777 9 13 8.777 13 8.5 L 13 7.5 C 13 7.223 12.777 7 12.5 7 L 11.5 7 z M 3.5 11 C 3.223 11 3 11.223 3 11.5 L 3 12.5 C 3 12.777 3.223 13 3.5 13 L 4.5 13 C 4.777 13 5 12.777 5 12.5 L 5 11.5 C 5 11.223 4.777 11 4.5 11 L 3.5 11 z M 7.5 11 C 7.223 11 7 11.223 7 11.5 L 7 12.5 C 7 12.777 7.223 13 7.5 13 L 8.5 13 C 8.777 13 9 12.777 9 12.5 L 9 11.5 C 9 11.223 8.777 11 8.5 11 L 7.5 11 z M 11.5 11 C 11.223 11 11 11.223 11 11.5 L 11 12.5 C 11 12.777 11.223 13 11.5 13 L 12.5 13 C 12.777 13 13 12.777 13 12.5 L 13 11.5 C 13 11.223 12.777 11 12.5 11 L 11.5 11 z " />
+     id="path2"
+     cx="8"
+     cy="8"
+     r="7" />
+  <path
+     id="path3"
+     style="opacity:1;fill:currentColor;stroke-width:0.8"
+     class="ColorScheme-Text"
+     d="M 8 4 C 5.790861 4 4 5.790861 4 8 C 4 10.209139 5.790861 12 8 12 C 10.209139 12 12 10.209139 12 8 C 12 5.790861 10.209139 4 8 4 z M 8 5 C 9.656854 5 11 6.3431457 11 8 C 11 9.656854 9.656854 11 8 11 C 6.3431457 11 5 9.656854 5 8 C 5 6.3431457 6.3431457 5 8 5 z " />
 </svg>
