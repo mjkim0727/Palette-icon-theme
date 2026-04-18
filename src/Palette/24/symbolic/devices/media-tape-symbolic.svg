@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="media-tape-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="33.625"
+     inkscape:cx="11.98513"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#4d4d4d; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
+  <path
+     id="rect339"
+     style="fill:currentColor;fill-opacity:1;stroke-width:4;stroke-linecap:square"
+     class="ColorScheme-Text"
+     d="M 6,6 C 4.8920055,6 4,6.8920055 4,8 v 8 c 0,1.107995 0.8920055,2 2,2 h 12 c 1.107995,0 2,-0.892005 2,-2 V 8 C 20,6.8920055 19.107995,6 18,6 Z m 0,2 h 12 v 8 H 6 Z m 3,2 c -1.0999988,0 -2,0.900001 -2,2 0,1.099999 0.9000012,2 2,2 h 6 c 1.099999,0 2,-0.900001 2,-2 0,-1.099999 -0.900001,-2 -2,-2 -1.099999,0 -2,0.900001 -2,2 0,0.36 0.109297,0.71 0.279297,1 H 10.720703 C 10.890703,12.71 11,12.36 11,12 11,10.900001 10.099999,10 9,10 Z m 0,1 c 0.5499995,0 1,0.450001 1,1 0,0.549999 -0.4500006,1 -1,1 -0.5499995,0 -1,-0.450001 -1,-1 0,-0.549999 0.4500006,-1 1,-1 z m 6,0 c 0.549999,0 1,0.450001 1,1 0,0.549999 -0.450001,1 -1,1 -0.549999,0 -1,-0.450001 -1,-1 0,-0.549999 0.450001,-1 1,-1 z" />
+</svg>
