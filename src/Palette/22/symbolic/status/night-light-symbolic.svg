@@ -1,10 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#4d4d4d; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
-  </style>
- </defs>
- <g transform="translate(-81.000012,-681.28996)">
-  <path style="fill:currentColor" class="ColorScheme-Text" d="m 92.641732,685.28997 c -2.722529,0.10157 -5.231357,1.80685 -6.220533,4.56824 -1.302986,3.63742 0.515775,7.68743 4.095697,9.01134 2.71773,1.00506 5.656531,0.14514 7.483116,-1.90865 -1.308435,0.42914 -2.765217,0.45222 -4.157286,-0.0626 -3.324214,-1.22935 -5.028457,-4.97666 -3.818545,-8.35426 0.506669,-1.41443 1.452959,-2.51152 2.617551,-3.25409 z"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="night-light-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="36.681818"
+     inkscape:cx="10.986369"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#4d4d4d; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
+  <path
+     d="M 8.8789,3.2230499 7.0293,3.9828199 7.79102,5.8324201 9.6406199,5.0707001 8.8789,3.223 Z m 4.2754,0.00781 -0.76953,1.8457 1.8457,0.76953 L 15,4.0003894 Z M 11,6.0003626 c -2.7614237,0 -5,2.2385762 -5,5.0000004 0,2.761424 2.2385763,5.000001 5,5.000001 2.761424,0 5,-2.238577 5,-5.000001 0,-2.7614241 -2.238576,-5.0000004 -5,-5.0000004 z m -7,0.9999999 -0.76953,1.8457 1.8457,0.7695302 0.76953,-1.8457001 z m 14.018,0.029297 -1.8496,0.76172 0.76172,1.8496002 1.8477,-0.7617202 -0.75977,-1.8495999 z m -7.8848,1.1094 c -0.08596,0.2791149 -0.130701,0.569286 -0.13281,0.8613302 0,1.6568543 1.343146,3.0000003 3,3.0000003 0.292044,-0.0021 0.582215,-0.04685 0.86133,-0.13281 -0.381245,1.262607 -1.542399,2.128126 -2.8613,2.132801 -1.6568541,0 -3,-1.343147 -3,-3.000001 0.00467,-1.3189023 0.8701934,-2.480056 2.1328,-2.8613005 z M 5.0707,12.35976 3.223,13.121481 l 0.75977,1.8496 1.8496,-0.76172 -0.76172,-1.849601 z m 11.854,0.02539 -0.76953,1.845701 1.8457,0.769529 0.76953,-1.8457 z m -9.1543,3.7695 -0.76953,1.845701 1.8457,0.76953 0.7695299,-1.845701 z m 6.4395,0.01367 -1.8496,0.761721 0.76172,1.847699 1.8496,-0.759769 -0.76172,-1.849601 z"
+     style="fill:currentColor;fill-opacity:1;stroke-width:1.633;stroke-linecap:square;paint-order:fill markers stroke"
+     class="ColorScheme-Text"
+     id="path300" />
 </svg>
