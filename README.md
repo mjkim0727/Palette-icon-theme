@@ -33,3 +33,5 @@ Material Design icon theme
 - [x] Experimental Dark Mode icon Support
 
 - [x] Adwaita Color Support
+
+- [ ] Plasma 6 Support
