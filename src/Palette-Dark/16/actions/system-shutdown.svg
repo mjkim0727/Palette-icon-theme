@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="22"
-   height="22"
-   viewBox="0 0 22 22"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
    version="1.1"
    id="svg5"
    inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
-   sodipodi:docname="zoom-in.svg"
+   sodipodi:docname="system-shutdown.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="36.681818"
-     inkscape:cx="10.986369"
-     inkscape:cy="11"
+     inkscape:zoom="51.875"
+     inkscape:cx="8"
+     inkscape:cy="8.0096386"
      inkscape:window-width="1920"
      inkscape:window-height="1010"
      inkscape:window-x="0"
@@ -42,8 +42,8 @@
      </style>
   </defs>
   <path
-     id="path1"
-     style="fill:currentColor;fill-opacity:1;stroke-width:0.875"
-     class="ColorScheme-Text"
-     d="m 11,4 c -3.8659854,0 -7,3.1340146 -7,7 0,3.865985 3.1340146,7 7,7 3.865985,0 7,-3.134015 7,-7 0,-3.8659854 -3.134015,-7 -7,-7 z m 0,2 c 2.761417,0 5,2.2385819 5,5 0,2.761417 -2.238583,5 -5,5 C 8.2385814,16 6,13.761417 6,11 6,8.2385819 8.2385814,6 11,6 Z m -1,2 v 2 H 8 v 2 h 2 v 2 h 2 v -2 h 2 V 10 H 12 V 8 Z" />
+     d="m 7.0000019,1 v 6 h 2 V 1 Z M 12.24219,2.34375 10.828127,3.7578125 11.535158,4.4648438 C 12.473157,5.4026428 12.999802,6.6736013 13.000002,8 c 0,2.773297 -2.226703,5 -5.0000001,5 -2.7718972,0 -4.9979,-2.224697 -5,-4.996094 v -0.002 -0.0019 C 3.0055422,6.6767013 3.5345491,5.4100616 4.4726581,4.4765625 L 5.1816425,3.7714844 3.7714863,2.3535156 3.0625019,3.0585938 c -1.3138987,1.3075986 -2.0562,3.0838018 -2.0625,4.9375 -2.52e-6,0.0013 -2.52e-6,0.0026 0,0.00391 0,3.8540962 3.1459039,7.0000002 7,7.0000002 3.8540961,0 7.0000001,-3.145904 7.0000001,-7.0000002 -2.8e-4,-1.8559983 -0.738223,-3.6370203 -2.050781,-4.949219 z"
+     id="path2612"
+     style="fill:currentColor;fill-opacity:1"
+     class="ColorScheme-Text" />
 </svg>
