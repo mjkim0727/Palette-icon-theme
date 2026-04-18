@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="16px"
+   viewBox="0 0 16 16"
+   width="16px"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="emoji-nature-symbolic.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+     <style
+        id="current-color-scheme"
+        type="text/css">
+        .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="50.4375"
+     inkscape:cx="7.9900867"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 6 1 C 6 1 3 1 3 4 L 3 9 C 3 9 3.0429687 10.417969 3.0273438 11 C 3.0273438 12 2.492188 12.414062 1.625 13.121094 C 0.996094 13.609375 0.85156225 14.429688 1.3164062 14.820312 C 1.7460943 15.171876 2.4804695 15.121094 2.9765625 14.476562 L 3.9960938 13 C 4.6953118 11.984375 4.9804688 11.125 4.9960938 10 L 5 4 C 5 3 5.9960937 3 5.9960938 3 L 5.9960938 9.5742188 L 9 6.5 L 9 4 C 9 3 9.9960938 3 9.9960938 3 L 10 5.5 L 11.996094 3.4648438 C 12.335938 3.1523438 12.5 3 12.996094 3 L 13 4 L 8.9960938 8 L 12.996094 8 C 12.996094 8 13 9 11.996094 9 L 7.9960938 9 L 5.9960938 11 C 5.9960938 11.425781 5.9960938 13.007813 7.9960938 13.007812 L 12 13 C 12 13 15 13 14.996094 10.007812 L 14.996094 1 L 6 1 z " />
+</svg>

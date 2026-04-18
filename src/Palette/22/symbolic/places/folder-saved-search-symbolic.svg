@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="folder-saved-search-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="36.681818"
+     inkscape:cx="10.986369"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#4d4d4d; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
+  <path
+     d="M 9.5,4 C 6.4624339,4 4,6.4624339 4,9.5 4,12.537566 6.4624339,15 9.5,15 c 1.113185,-1.01e-4 2.200138,-0.337986 3.1172,-0.969 l 3.6618,3.662 c 0.188559,0.196161 0.448909,0.307017 0.721,0.307 0.552285,0 1,-0.447715 1,-1 -1.9e-5,-0.270113 -0.109309,-0.528731 -0.303,-0.717 l -3.67,-3.6697 C 14.658678,11.697794 14.997934,10.612279 15,9.5 15,6.4624339 12.537566,4 9.5,4 Z m 0,2 C 11.432997,6 13,7.5670034 13,9.5 13,11.432997 11.432997,13 9.5,13 7.5670034,13 6,11.432997 6,9.5 6,7.5670034 7.5670034,6 9.5,6 Z"
+     style="fill:currentColor;fill-opacity:1"
+     class="ColorScheme-Text"
+     id="path296" />
+</svg>

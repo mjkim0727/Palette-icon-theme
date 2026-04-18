@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="24"
+   viewBox="0 0 24 24"
+   width="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="emoji-people-symbolic.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#4d4d4d; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="33.625"
+     inkscape:cx="11.98513"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="m 12,4 c -4.402344,0 -8,3.597656 -8,8 0,4.402344 3.597656,8 8,8 4.402344,0 8,-3.597656 8,-8 0,-4.402344 -3.597656,-8 -8,-8 z m 0,1.9804688 c 3.339844,0 6.019531,2.6796872 6.019531,6.0195312 0,3.339844 -2.679687,6.019531 -6.019531,6.019531 C 8.660156,18.019531 5.9804687,15.339844 5.9804688,12 5.9804688,8.660156 8.660156,5.9804687 12,5.9804688 Z M 10,9 c -0.550781,0 -1,0.449219 -1,1 0,0.550781 0.449219,1 1,1 0.550781,0 1,-0.449219 1,-1 0,-0.550781 -0.449219,-1 -1,-1 z m 4,0 c -0.550781,0 -1,0.449219 -1,1 0,0.550781 0.449219,1 1,1 0.550781,0 1,-0.449219 1,-1 0,-0.550781 -0.449219,-1 -1,-1 z m -5.0488281,3.998047 c -0.081482,0.003 -0.1616213,0.02686 -0.2324219,0.06836 -0.113281,0.06641 -0.199219,0.175782 -0.234375,0.304688 C 8.449219,13.5 8.4687502,13.636719 8.5351562,13.75 c 0.7148441,1.238281 2.0351558,2 3.4648438,2 1.429688,0 2.75,-0.761719 3.464844,-2 0.06641,-0.113281 0.08594,-0.25 0.05078,-0.378906 C 15.480469,13.242188 15.394531,13.132812 15.28125,13.066406 15.167969,13 15.03125,12.980469 14.902344,13.015625 14.773438,13.050781 14.664062,13.136719 14.597656,13.25 14.0625,14.179688 13.074219,14.75 12,14.75 c -1.074219,0 -2.0625002,-0.570312 -2.5976562,-1.5 -0.066406,-0.113281 -0.1757816,-0.199219 -0.3046876,-0.234375 -0.04834,-0.01318 -0.097595,-0.01936 -0.1464843,-0.01758 z" />
+</svg>

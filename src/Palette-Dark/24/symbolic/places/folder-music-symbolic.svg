@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="folder-music-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="33.625"
+     inkscape:cx="11.98513"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
+  <path
+     id="path2380"
+     style="fill:currentColor;stroke-linecap:round;stroke-linejoin:round"
+     class="ColorScheme-Text"
+     d="M 11,6 A 2,2 0 0 0 9,8 v 5.171875 C 8.6788433,13.05822 8.3406737,13.000097 8,13 c -1.6568523,0 -3,1.343148 -3,3 0,1.656852 1.3431477,3 3,3 1.6568523,0 3,-1.343148 3,-3 V 8 h 6 v 5.171875 C 16.678843,13.05822 16.340674,13.000097 16,13 c -1.656852,0 -3,1.343148 -3,3 0,1.656852 1.343148,3 3,3 1.656852,0 3,-1.343148 3,-3 V 8 A 2,2 0 0 0 17,6 Z m -3,9 c 0.5522844,0 1,0.447716 1,1 0,0.552284 -0.4477156,1 -1,1 -0.5522844,0 -1,-0.447716 -1,-1 0,-0.552284 0.4477156,-1 1,-1 z m 8,0 c 0.552284,0 1,0.447716 1,1 0,0.552284 -0.447716,1 -1,1 -0.552284,0 -1,-0.447716 -1,-1 0,-0.552284 0.447716,-1 1,-1 z" />
+</svg>
