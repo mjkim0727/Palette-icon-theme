@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg3193"
+   sodipodi:docname="org.gnome.Settings-thunderbolt-symbolic.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#4d4d4d; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview3195"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="36.25"
+     inkscape:cx="7.9862069"
+     inkscape:cy="8"
+     inkscape:window-width="1440"
+     inkscape:window-height="828"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3193" />
+  <path
+     id="path1"
+     style="fill:currentColor;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="M 11,0 6.8164062,1.1132812 4,8 H 8 L 6.4863281,10.777344 5.2949219,9.419922 4.515625,15.269531 9.4785156,11.761719 7.7480469,11.447266 12,6 H 8 Z M 5.7050781,1.3867188 C 2.9668754,2.3370756 1,4.9382781 1,8 c 0,2.263921 1.0766871,4.275448 2.7441406,5.554688 L 4.0722656,11.09375 C 3.4012681,10.242474 3,9.167956 3,8 3,6.6366568 3.5468027,5.4019799 4.4316406,4.5 Z M 11.130859,1.7382812 10.236328,3.5273438 C 11.874747,4.3482863 13,6.0426523 13,8 c 0,2.267905 -1.510621,4.182936 -3.5800781,4.794922 L 6.5253906,14.839844 C 7.0012445,14.942049 7.4937539,15 8,15 11.865969,15 15,11.865969 15,8 15,5.2596282 13.424763,2.8875611 11.130859,1.7382812 Z" />
+</svg>

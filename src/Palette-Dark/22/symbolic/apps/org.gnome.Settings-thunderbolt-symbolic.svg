@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   id="svg3193"
+   sodipodi:docname="org.gnome.Settings-thunderbolt-symbolic.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview3195"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="26.363636"
+     inkscape:cx="10.981034"
+     inkscape:cy="11"
+     inkscape:window-width="1440"
+     inkscape:window-height="828"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3193" />
+  <path
+     id="path1"
+     style="fill:currentColor;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="M 14,3 9.816406,4.1132812 7,11 h 4 L 9.486328,13.777344 8.2949219,12.419922 7.515625,18.269531 12.478516,14.761719 10.748047,14.447266 15,9 H 11 Z M 8.7050781,4.3867188 C 5.9668754,5.3370756 4,7.9382781 4,11 c 0,2.263921 1.0766871,4.275448 2.7441406,5.554688 L 7.0722656,14.09375 C 6.4012681,13.242474 6,12.167956 6,11 6,9.636657 6.5468027,8.4019799 7.4316406,7.5 Z M 14.130859,4.7382812 13.236328,6.5273438 C 14.874747,7.3482863 16,9.042652 16,11 c 0,2.267905 -1.510621,4.182936 -3.580078,4.794922 L 9.525391,17.839844 C 10.001245,17.942049 10.493754,18 11,18 c 3.865969,0 7,-3.134031 7,-7 0,-2.7403718 -1.575237,-5.1124389 -3.869141,-6.2617188 z" />
+</svg>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="system-software-install-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="24.166667"
+     inkscape:cx="11.97931"
+     inkscape:cy="12"
+     inkscape:window-width="1440"
+     inkscape:window-height="828"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#4d4d4d; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
+  <path
+     id="path296"
+     style="fill:currentColor;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="M 6,5 C 5.4460006,5 5,5.4460006 5,6 v 4 c 0,0.553999 0.4460006,1 1,1 h 4 c 0.553999,0 1,-0.446001 1,-1 V 6 C 11,5.4460006 10.553999,5 10,5 Z m 8,0 c -0.553999,0 -1,0.4460006 -1,1 v 4 c 0,0.553999 0.446001,1 1,1 h 4 c 0.553999,0 1,-0.446001 1,-1 V 6 C 19,5.4460006 18.553999,5 18,5 Z M 7,7 H 9 V 9 H 7 Z m 8,0 h 2 v 2 h -2 z m -9,6 c -0.5539994,0 -1,0.446001 -1,1 v 4 c 0,0.553999 0.4460006,1 1,1 h 4 c 0.553999,0 1,-0.446001 1,-1 v -4 c 0,-0.553999 -0.446001,-1 -1,-1 z m 10,0 c -0.553999,0 -1,0.454226 -1,1.019531 V 16 h -1.572266 c -0.382206,-6.3e-5 -0.573382,0.404491 -0.302734,0.640625 l 2.572266,2.25 c 0.167309,0.14605 0.438159,0.14605 0.605468,0 l 2.572266,-2.25 C 19.145649,16.404491 18.954469,15.999936 18.572266,16 H 17 V 14.019531 C 17,13.454226 16.553998,13 16,13 Z m -9,2 h 2 v 2 H 7 Z" />
+</svg>

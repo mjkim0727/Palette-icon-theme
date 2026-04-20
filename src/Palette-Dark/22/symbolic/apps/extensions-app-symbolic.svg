@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="extensions-app-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="26.363636"
+     inkscape:cx="10.981034"
+     inkscape:cy="11"
+     inkscape:window-width="1440"
+     inkscape:window-height="828"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
+  <path
+     d="M 9.5,3 C 8.1318,3 7,4.1318 7,5.5 V 6 H 5 C 3.9045,6 3,6.90455 3,8 v 4 H 5.5 C 5.79185,12 6,12.20815 6,12.5 6,12.79185 5.79185,13 5.5,13 H 3 v 4 c 0,1.0955 0.90455,2 2,2 H 9 V 16.5 C 9,16.20815 9.20815,16 9.5,16 9.79185,16 10,16.20815 10,16.5 V 19 h 4 c 1.0955,0 2,-0.90455 2,-2 v -2 h 0.5 C 17.8682,15 19,13.8682 19,12.5 19,11.1318 17.8682,9.9999999 16.5,9.9999999 H 16 V 8 C 16,6.9045 15.09545,6 14,6 H 12 V 5.5 C 12,4.1318 10.8682,3 9.5,3 Z m 0,2 C 9.79185,5 10,5.20815 10,5.5 V 8 h 4 v 4 h 2.5 c 0.29185,0 0.5,0.20815 0.5,0.5 0,0.29185 -0.20815,0.5 -0.5,0.5 H 14 v 4 H 12 V 16.5 C 12,15.1318 10.8682,14 9.5,14 8.1318,14 7,15.1318 7,16.5 V 17 H 5 V 15 H 5.5 C 6.8682,15 8,13.8682 8,12.5 8,11.1318 6.8682,9.9999999 5.5,9.9999999 H 5 V 8 H 9 V 5.5 C 9,5.20815 9.20815,5 9.5,5 Z"
+     style="fill:currentColor;fill-opacity:1;-inkscape-stroke:none"
+     class="ColorScheme-Text"
+     id="path395" />
+</svg>

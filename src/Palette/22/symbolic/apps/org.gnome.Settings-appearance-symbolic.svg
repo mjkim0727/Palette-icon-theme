@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   viewBox="0 0 22 22"
+   id="svg3"
+   sodipodi:docname="org.gnome.Settings-appearance-symbolic.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#4d4d4d; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="26.363636"
+     inkscape:cx="10.981034"
+     inkscape:cy="11"
+     inkscape:window-width="1440"
+     inkscape:window-height="828"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 18.238281,1.172 C 15.810389,3.6047945 15.375856,4.0309304 12.941406,6.4571562 13.624996,6.8126262 14.17585,7.36736 14.53125,8.047 l 0.171875,-0.171875 0.0078,0.00781 5.128906,-5.1289063 z M 5,3.000125 c -2,0 -2,2 -2,2 v 9 c 0,0 2e-6,2 2,2 h 12 c 0,0 2,-2e-6 2,-2 V 5.0079375 l -2,2 V 14.000125 H 5 v -9 h 7.986328 l 2.007813,-2 z m 6.011719,4 c -1.6562,0 -3.0000002,1.3398 -3.0000002,3 v 3 h 3.0000002 c 1.6602,0.0078 3,-1.3438 3,-3 0,-1.6602 -1.3398,-3 -3,-3 z M 7,17.000125 c 0,0 -1,1e-6 -1,1 v 1 h 10 v -1 c 0,-1 -1,-1 -1,-1 z"
+     sodipodi:nodetypes="cccccccsccscscccccccsssccsscsccscc" />
+</svg>

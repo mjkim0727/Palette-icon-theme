@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="libreoffice-main-symbolic.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="24.166667"
+     inkscape:cx="11.97931"
+     inkscape:cy="12"
+     inkscape:window-width="1440"
+     inkscape:window-height="828"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 6,4 C 5.4477,4 5,4.44772 5,5 v 14 c 0,0.552 0.4477,1 1,1 h 12 c 0.556,0 1,-0.452 1,-1 v -7.5 c 0,-0.2574 -0.121547,-0.621947 -0.310547,-0.810547 L 12.279297,4.2753906 C 12.091797,4.0878506 11.7701,4 11.5,4 Z m 9.5,0 c -0.552,0 -0.692516,0.5145956 -0.353516,0.8535156 l 3,3 C 18.497484,8.2041156 19,7.942 19,7.5 v -3 C 19,4.21996 18.78,4 18.5,4 Z M 7,6 h 4 l 6,6 v 6 H 7 Z" />
+</svg>
