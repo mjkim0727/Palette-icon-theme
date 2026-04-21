@@ -24,11 +24,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="36.681818"
-     inkscape:cx="10.986369"
+     inkscape:zoom="37.772727"
+     inkscape:cx="11"
      inkscape:cy="11"
      inkscape:window-width="1920"
-     inkscape:window-height="1010"
+     inkscape:window-height="1012"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -44,7 +44,7 @@
   </defs>
   <path
      id="path843"
-     style="opacity:0.35;fill:currentColor;stroke-width:1.83615;stroke-linecap:square"
+     style="fill:currentColor;stroke-width:1.83615;stroke-linecap:square;opacity:0.35"
      class="ColorScheme-Text"
      d="M 15,4 V 6 H 5 v 5 H 7 V 8 h 8 v 2 l 3,-3 z m 0,7 v 3 H 7 v -2 l -3,3 3,3 v -2 h 10 v -5 z" />
 </svg>

@@ -25,11 +25,11 @@
      inkscape:document-units="px"
      showgrid="false"
      showguides="true"
-     inkscape:zoom="51.875"
+     inkscape:zoom="51.9375"
      inkscape:cx="8"
-     inkscape:cy="8.0096386"
+     inkscape:cy="8"
      inkscape:window-width="1920"
-     inkscape:window-height="1010"
+     inkscape:window-height="1012"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -43,8 +43,8 @@
      </style>
   </defs>
   <path
-     d="M 8,1 C 5.784,1 4,2.784 4,5 V 7 H 3 C 2.446,7 2,7.446 2,8 v 6 c 0,0.554 0.446,1 1,1 h 10 c 0.554,0 1,-0.446 1,-1 V 8 C 14,7.446 13.554,7 13,7 H 12 V 5 C 12,2.784 10.216,1 8,1 Z M 8,3 C 9.108,3 9.9999996,3.892 9.9999996,5 V 7 H 6 V 5 C 6,3.892 6.892,3 8,3 Z M 4,9 h 8 v 4 H 4 Z"
+     id="path346"
      style="fill:currentColor;fill-opacity:1"
      class="ColorScheme-Text"
-     id="path346" />
+     d="M 8,1 C 5.7840022,1 4,2.7840022 4,5 V 7 H 3 C 2.4460006,7 2,7.446001 2,8 v 6 c 0,0.553999 0.4460006,1 1,1 h 10 c 0.553999,0 1,-0.446001 1,-1 V 8 C 14,7.446001 13.553999,7 13,7 H 12 V 5 C 12,2.7840022 10.215998,1 8,1 Z m 0,2 c 1.107999,0 2,0.8920011 2,2 V 7 H 6 V 5 C 6,3.8920011 6.892001,3 8,3 Z M 4,9 h 8 v 4 H 4 Z" />
 </svg>

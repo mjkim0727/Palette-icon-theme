@@ -1,10 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
-  </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="m 14,14 v 1 c 0,0.28 0.1,0.54 0.28,0.72 l 0.78,0.78 -0.78,0.78 C 14.1,17.46 14,17.72 14,18 v 1 h 1 c 0.28,0 0.54,-0.1 0.72,-0.28 l 0.78,-0.78 0.78,0.78 C 17.46,18.9 17.72,19 18,19 h 1 v -1 c 0,-0.28 -0.1,-0.54 -0.28,-0.72 L 17.94,16.5 18.72,15.72 C 18.9,15.54 19,15.28 19,15 v -1 h -1 c -0.28,0 -0.54,0.1 -0.72,0.28 L 16.5,15.06 15.72,14.28 C 15.54,14.1 15.28,14 15,14 Z"/>
- <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 11,4 a 7,7 0 0 0 -7,7 7,7 0 0 0 7,7 7,7 0 0 0 2,-0.295 V 15.576 A 5,5 0 0 1 11,16 5,5 0 0 1 6,11 a 5,5 0 0 1 5,-5 5,5 0 0 1 5,5 5,5 0 0 1 -0.42,2 h 2.121 A 7,7 0 0 0 18,11 7,7 0 0 0 11,4 Z"/>
- <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="M 13.49,7.9961 A 0.50005,0.50005 0 0 0 13.146,8.1465 L 11,10.293 9.3535,8.6465 a 0.50005,0.50005 0 1 0 -0.707,0.707 l 2,2 a 0.50005,0.50005 0 0 0 0.707,0 l 2.5005,-2.5 A 0.50005,0.50005 0 0 0 13.49,7.9961 Z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="appointment-missed-symbolic.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="37.772727"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <path
+     id="path3"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 14.232422,12.818359 12.818359,14.232422 14.585938,16 12.818359,17.767578 14.232422,19.181641 16,17.414062 17.767578,19.181641 19.181641,17.767578 17.414062,16 19.181641,14.232422 17.767578,12.818359 16,14.585938 Z" />
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="m 11,3 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 8,8 0 0 0 1.480469,-0.15625 l -1.076172,-1.076172 0.9375,-0.9375 A 6,6 0 0 1 11,17 6,6 0 0 1 5,11 a 6,6 0 0 1 6,-6 6,6 0 0 1 6,6 6,6 0 0 1 -0.169922,1.341797 l 0.9375,-0.9375 1.076172,1.076172 A 8,8 0 0 0 19,11 8,8 0 0 0 11,3 Z m 2.828125,5.1699219 c -0.25562,0 -0.511181,0.097099 -0.707031,0.2929687 L 11,10.583984 9.585938,9.169922 c -0.39174,-0.3917401 -1.022363,-0.3917401 -1.414063,0 -0.39174,0.39174 -0.39174,1.022362 0,1.414062 l 2.121094,2.123047 c 0.39174,0.39174 1.022362,0.39174 1.414062,0 l 2.828125,-2.830078 c 0.39174,-0.39174 0.39174,-1.0223624 0,-1.4140624 -0.19587,-0.19587 -0.451411,-0.2929687 -0.707031,-0.2929687 z" />
 </svg>

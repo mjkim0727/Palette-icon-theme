@@ -25,11 +25,11 @@
      inkscape:document-units="px"
      showgrid="false"
      showguides="true"
-     inkscape:zoom="36.681818"
-     inkscape:cx="10.986369"
+     inkscape:zoom="37.772727"
+     inkscape:cx="11"
      inkscape:cy="11"
      inkscape:window-width="1920"
-     inkscape:window-height="1010"
+     inkscape:window-height="1012"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -53,5 +53,5 @@
      cx="15"
      cy="7"
      r="2"
-     class="ColorScheme-NeutralText warning" />
+     class="ColorScheme-Highlight suggested" />
 </svg>

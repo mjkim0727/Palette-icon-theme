@@ -1,20 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    width="16"
    height="16"
-   viewBox="0 0 16 16"
    version="1.1"
-   id="svg5"
-   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   id="svg3"
    sodipodi:docname="arch-updates-symbolic.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3">
+     <style
+        id="current-color-scheme"
+        type="text/css">
+        .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
   <sodipodi:namedview
-     id="namedview7"
+     id="namedview3"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -22,36 +27,23 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="px"
-     showgrid="false"
-     showguides="true"
-     inkscape:zoom="49.8125"
-     inkscape:cx="8.0100376"
+     inkscape:zoom="51.9375"
+     inkscape:cx="8"
      inkscape:cy="8"
      inkscape:window-width="1920"
-     inkscape:window-height="1010"
+     inkscape:window-height="1012"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5" />
-  <defs
-     id="defs2">
-    <style
-       id="current-color-scheme"
-       type="text/css">
-        .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
-     </style>
-  </defs>
+     inkscape:current-layer="svg3" />
   <path
-     id="path346"
-     style="fill:currentColor;fill-opacity:1"
-     class="ColorScheme-Text"
-     d="M 8 0 L 2 2 L 2 9 C 2 11.069992 3.5794587 12.489457 4.9394531 13.439453 C 6.2994479 14.389449 8 15 8 15 C 8 15 9.0589265 14.615443 10.173828 13.988281 A 3 3 0 0 1 10 13 A 3 3 0 0 1 10.496094 11.351562 C 10.30987 11.504558 10.116627 11.656838 9.9101562 11.802734 C 9.1361014 12.342347 8.491354 12.570234 8 12.773438 C 7.5076446 12.56982 6.8604758 12.341821 6.0859375 11.800781 C 4.8968079 10.97014 4 10.052282 4 9 L 4 3.4414062 L 8 2 L 12 3.4414062 L 12 9 C 12 9.502965 11.772895 9.9944844 11.398438 10.464844 A 3 3 0 0 1 13 10 A 3 3 0 0 1 13.833984 10.119141 C 13.939772 9.7676489 14 9.3958258 14 9 L 14 2 L 8 0 z M 8 3 C 7.4477159 3 7 3.4477159 7 4 C 7 4.5522841 7.4477159 5 8 5 C 8.5522841 5 9 4.5522841 9 4 C 9 3.4477159 8.5522841 3 8 3 z M 6 6 L 6 7 L 7 7 L 7 11 L 9 11 L 9 6 L 7 6 L 6 6 z " />
-  <circle
-     style="opacity:1;fill:currentColor;stroke-width:2;fill-opacity:1"
      id="path1"
-     cx="13"
-     cy="13"
-     r="2"
-     class="ColorScheme-NeutralText warning" />
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 8 -0.046875 L 7.703125 0.044921875 L 1 2.1308594 L 1 9.4003906 C 1 11.877391 2.9474781 13.438759 4.3925781 14.380859 C 5.9078781 15.368759 7.6816406 15.947266 7.6816406 15.947266 L 8 16.054688 L 8.3183594 15.947266 C 8.3183594 15.947266 10.092122 15.368669 11.607422 14.380859 L 11.609375 14.380859 L 11.611328 14.378906 C 11.749268 14.288031 11.894223 14.186294 12.039062 14.083984 A 2.5 2.5 0 0 1 14.164062 12.023438 C 14.660853 11.289138 15 10.422591 15 9.4003906 L 15 2.1308594 L 8 -0.046875 z M 8 2.046875 L 13 3.6035156 L 13 9.4003906 C 13 10.749691 11.785472 11.866378 10.513672 12.705078 C 9.4444719 13.402098 8.302 13.792191 8 13.900391 C 7.698 13.792201 6.5555281 13.402108 5.4863281 12.705078 C 4.2113281 11.873848 3 10.787391 3 9.4003906 L 3 3.6035156 L 8 2.046875 z M 8 4 C 7.44772 4 7 4.44772 7 5 C 7 5.55228 7.44772 6 8 6 C 8.55228 6 9 5.55228 9 5 C 9 4.44772 8.55228 4 8 4 z M 6 7 L 6 8 L 7 8 L 7 12 L 9 12 L 9 7 L 6 7 z " />
+  <path
+     id="path3"
+     style="fill:currentColor"
+     class="ColorScheme-NeutralText warning"
+     d="M 14.5 13 A 1.5 1.5 0 0 0 13 14.5 A 1.5 1.5 0 0 0 14.5 16 A 1.5 1.5 0 0 0 16 14.5 A 1.5 1.5 0 0 0 14.5 13 z " />
 </svg>

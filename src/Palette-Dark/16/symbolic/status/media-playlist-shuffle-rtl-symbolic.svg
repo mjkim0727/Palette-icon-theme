@@ -7,7 +7,7 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    sodipodi:docname="media-playlist-shuffle-rtl-symbolic.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,25 +24,25 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="51.875"
+     inkscape:zoom="51.9375"
      inkscape:cx="8"
      inkscape:cy="8"
      inkscape:window-width="1920"
-     inkscape:window-height="1008"
+     inkscape:window-height="1012"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5" />
   <defs
      id="defs2">
-     <style
-        id="current-color-scheme"
-        type="text/css">
+    <style
+       id="current-color-scheme"
+       type="text/css">
         .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
      </style>
   </defs>
   <path
-     d="m 14,2 c 0,0.999999 0,1.2171722 -0.09961,1.515625 L 10.830078,6.5859375 9.4140625,5.171875 12.484375,2.0996094 C 12.784172,2.0431834 13.000001,2.0000004 14,2 Z M 6,2 4.7070303,3.2929688 13.900391,12.484375 C 14,12.782828 14,13.000001 14,14 13.000001,14 12.784172,13.95682 12.484375,13.90039 L 3.2929683,4.7070312 1.9999993,6 V 2 Z M 5.1718743,9.4140625 6.5859375,10.828125 4.7070303,12.707031 6,14 H 1.9999993 v -4 l 1.292969,1.292969 z"
+     d="m 14.000001,2 c 0,0.999999 0,1.2171722 -0.09961,1.515625 L 10.830079,6.585938 9.414063,5.171875 12.484376,2.0996094 C 12.784173,2.0431834 13.000002,2.0000004 14.000001,2 Z m -8,0 -1.29297,1.2929688 9.193361,9.1914062 c 0.09961,0.298453 0.09961,0.515626 0.09961,1.515625 -0.999999,0 -1.215828,-0.04318 -1.515625,-0.09961 L 3.292969,4.7070312 2,6 V 2 Z M 5.171875,9.414063 6.585938,10.828125 4.707031,12.707031 6.000001,14 H 2 v -4 l 1.292969,1.292969 z"
      style="fill:currentColor;stroke-width:0.8;stroke-linecap:square"
      class="ColorScheme-Text"
      id="path637" />

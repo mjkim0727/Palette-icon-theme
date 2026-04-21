@@ -53,5 +53,5 @@
      cx="12"
      cy="4"
      r="2"
-     class="ColorScheme-NeutralText warning" />
+     class="ColorScheme-Highlight suggested" />
 </svg>

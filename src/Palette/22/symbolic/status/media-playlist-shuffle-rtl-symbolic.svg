@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="media-playlist-shuffle-rtl-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="37.772727"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#4d4d4d; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
+  <path
+     d="m 17.000001,5 c 0,0.999999 0,1.2171722 -0.09961,1.515625 L 13.830079,9.585938 12.414063,8.171875 15.484376,5.0996094 C 15.784173,5.0431834 16.000002,5.0000004 17.000001,5 Z m -8,0 -1.29297,1.2929688 9.193361,9.1914062 c 0.09961,0.298453 0.09961,0.515626 0.09961,1.515625 -0.999999,0 -1.215828,-0.04318 -1.515625,-0.09961 L 6.292969,7.7070312 5,9 V 5 Z M 8.171875,12.414063 9.585938,13.828125 7.707031,15.707031 9.000001,17 H 5 v -4 l 1.292969,1.292969 z"
+     style="fill:currentColor;stroke-width:0.8;stroke-linecap:square"
+     class="ColorScheme-Text"
+     id="path637" />
+</svg>

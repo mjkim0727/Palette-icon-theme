@@ -25,11 +25,11 @@
      inkscape:document-units="px"
      showgrid="false"
      showguides="true"
-     inkscape:zoom="36.681818"
-     inkscape:cx="10.986369"
+     inkscape:zoom="37.772727"
+     inkscape:cx="11"
      inkscape:cy="11"
      inkscape:window-width="1920"
-     inkscape:window-height="1010"
+     inkscape:window-height="1012"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -46,5 +46,5 @@
      id="path346"
      style="fill:currentColor;fill-opacity:1"
      class="ColorScheme-Text"
-     d="M 11,4 C 8.784,4 7,5.784 7,8 h 2 c 0,-1.108 0.892,-2 2,-2 1.108,0 2,0.892 2,2 v 2 H 6 c -0.554,0 -1,0.446 -1,1 v 6 c 0,0.554 0.446,1 1,1 h 10 c 0.554,0 1,-0.446 1,-1 v -6 c 0,-0.554 -0.446,-1 -1,-1 H 15 V 8 C 15,5.784 13.216,4 11,4 Z m -4,8 h 8 v 4 H 7 Z" />
+     d="M 11,4 C 8.7840022,4 7,5.7840022 7,8 h 2 c 0,-1.1079989 0.892001,-2 2,-2 1.107999,0 2,0.8920011 2,2 v 2 c -2.333333,0 -4.6666667,0 -7,0 -0.5539994,0 -1,0.446001 -1,1 v 6 c 0,0.553999 0.4460006,1 1,1 h 10 c 0.553999,0 1,-0.446001 1,-1 v -6 c 0,-0.553999 -0.446001,-1 -1,-1 H 15 V 8 C 15,5.7840022 13.215998,4 11,4 Z m -4,8 h 8 v 4 H 7 Z" />
 </svg>

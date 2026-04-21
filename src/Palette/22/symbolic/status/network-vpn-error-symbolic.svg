@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="network-vpn-error-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="37.772727"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#4d4d4d; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
+  <path
+     id="path345"
+     style="opacity:0.35;fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 11,4 C 9.338002,4 8,5.3380017 8,7 V 9 H 6 v 6 h 8 V 13 H 8 v -2 h 6 V 9 7 C 14,5.3380017 12.661998,4 11,4 Z m 0,2 c 0.553999,0 1,0.4460006 1,1 V 9 H 10 V 7 C 10,6.4460006 10.446001,6 11,6 Z M 5,16 v 2 h 4 v 1 h 4 v -1 h 1 v -2 z" />
+  <path
+     style="fill:currentColor"
+     class="ColorScheme-NegativeText error"
+     d="M 15,8.9999998 V 13 l 0.25,2 h 1.5 L 17,13 V 8.9999998 Z M 15,16 v 2 h 2 v -2 z"
+     id="path1554" />
+</svg>
