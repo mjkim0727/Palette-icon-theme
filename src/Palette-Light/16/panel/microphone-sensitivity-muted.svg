@@ -1,20 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    width="16"
    height="16"
-   viewBox="0 0 16 16"
    version="1.1"
-   id="svg5"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   id="svg10"
    sodipodi:docname="microphone-sensitivity-muted.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#4d4d4d; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
   <sodipodi:namedview
-     id="namedview7"
+     id="namedview12"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -22,29 +27,33 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="px"
      showgrid="false"
-     showguides="true"
-     inkscape:zoom="51.875"
-     inkscape:cx="7.9807229"
+     inkscape:zoom="51.9375"
+     inkscape:cx="8"
      inkscape:cy="8"
      inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:window-height="1012"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5" />
-  <defs
-     id="defs2">
-    <style
-       id="current-color-scheme"
-       type="text/css">
-   .ColorScheme-Text { color:#4d4d4d; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
-     </style>
-  </defs>
+     inkscape:current-layer="svg10" />
   <path
-     id="path361"
-     style="fill:currentColor;fill-opacity:1;opacity:0.35"
-     d="M 8 0 C 6.975613 0 6.0741676 0.51013493 5.5332031 1.2910156 L 7.0234375 2.78125 C 7.1238043 2.3354206 7.5249978 2 8 2 C 8.5499982 2 9 2.4500016 9 3 L 9 4.7578125 L 11 6.7578125 L 11 3 C 11 1.3400051 9.6599949 0 8 0 z M 2.4140625 1 L 1 2.4140625 L 5 6.4140625 L 5 8 C 5 9.6599953 6.3400051 11 8 11 C 8.4637807 11 8.8998031 10.892361 9.2910156 10.705078 L 10.033203 11.447266 C 9.4393317 11.796139 8.747585 12 8 12 C 5.7700066 12 4 10.229994 4 8 L 4 7 L 2 7 L 2 8 C 2 10.969991 4.1600084 13.430159 7 13.910156 L 7 16 L 9 16 L 9 13.910156 C 9.9103787 13.756289 10.747452 13.395494 11.46875 12.882812 L 13.728516 15.142578 L 15.142578 13.728516 L 2.4140625 1 z M 12 7 L 12 7.7578125 L 13.794922 9.5527344 C 13.927508 9.0575854 14 8.537222 14 8 L 14 7 L 12 7 z "
-     class="ColorScheme-Text"/>
+     id="path302"
+     style="opacity:0.35;fill:currentColor;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="M 6,0 C 5.2173986,0 4.5080816,0.3002796 3.9746094,0.7890625 L 5.3945312,2.2089844 C 5.5628597,2.0801445 5.7707047,2 6,2 6.553998,2 7,2.4460018 7,3 v 0.8144531 l 2,2 V 3 C 9,1.3400051 7.659995,0 6,0 Z M 1.53125,0.4707031 0.4707031,1.53125 3,4.0605469 V 8 c 0,1.659995 1.3400051,3 3,3 1.071272,0 2.006729,-0.560089 2.537109,-1.402344 l 0.72461,0.72461 C 8.542392,11.340591 7.358548,12 6,12 3.7700066,12 2,10.229994 2,8 H 0 c 0,2.969991 2.1600084,5.430159 5,5.910156 V 16 h 2 v -2.089844 c 1.484296,-0.250867 2.77907,-1.046434 3.679688,-2.169922 l 3.791015,3.791016 1.060547,-1.0625 z M 5,6.060547 6.996094,8.056641 C 6.966464,8.583649 6.534676,9 6,9 5.4460018,9 5,8.553998 5,8 Z M 11.1875,8 11.949219,8.763672 C 11.98108,8.513437 12,8.25896 12,8 Z" />
+  <circle
+     style="opacity:0.35;fill:currentColor;fill-opacity:1"
+     class="ColorScheme-Text"
+     id="path424"
+     cx="14"
+     cy="4"
+     r="1" />
+  <circle
+     style="opacity:0.35;fill:currentColor;fill-opacity:1"
+     class="ColorScheme-Text"
+     id="path426"
+     cx="14"
+     cy="8"
+     r="1" />
 </svg>
