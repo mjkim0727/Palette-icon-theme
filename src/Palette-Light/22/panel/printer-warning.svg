@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="printer-warning.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="37.772727"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#4d4d4d; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
+  <path
+     d="M 6.0000001,4 V 8 C 4.338,8 3,9.338 3,11 v 4 h 2.0000001 1 v 3 H 11.1016 c -0.12718,-0.367 -0.11905,-0.78027 0.08789,-1.1445 h -0.002 l 0.48633,-0.85547 h -3.6738 v -2 h 4.8086 l 1.1348,-2 H 6.000068 v 1 H 5.0000678 v -2 c 0,-0.554 0.4460001,-1 1.0000002,-1 h 10 c 0.554,0 1,0.446 1,1 v 0.90039 l 1.7578,3.0996 h 0.24219 v -4 c 0,-1.662 -1.338,-3 -3,-3 v -4 h -10 z M 8,6 h 6 V 8 H 8 Z m 7.4629,6 v 0.0039 h 0.002 V 12 Z m -1.4902,4 -0.57031,1.0039 h 0.59766 v -1 V 16 h -0.02734 z"
+     style="fill:currentColor;stroke-width:2.9277;stroke-linecap:square;paint-order:fill markers stroke"
+     class="ColorScheme-Text"
+     id="path348" />
+  <path
+     style="fill:currentColor"
+     class="ColorScheme-NeutralText warning"
+     d="m 15.480201,11.729756 c -0.15,0.01 -0.29,0.09 -0.36,0.22 l -3.06,5.4 c -0.17,0.29 0.04,0.65 0.38,0.65 h 6.12 c 0.34,0 0.55,-0.36 0.38,-0.65 l -3.06,-5.4 c -0.08,-0.14 -0.24,-0.23 -0.4,-0.22 z m -0.48,1.27 h 1 v 2 h -1 z m 0,3 h 1 v 1 h -1 z"
+     id="path489" />
+</svg>

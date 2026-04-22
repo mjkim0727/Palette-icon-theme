@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="weather-few-clouds-night.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="34.625"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#4d4d4d; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
+  <path
+     d="m 15,11 c -1.3558,0 -2.402,0.90846 -2.9453,2.0625 C 10.8906,13.51036 10,14.5314 10,15.8574 10,17.5453 11.3164,19 13,19 h 4 c 1.6836,0 3,-1.4547 3,-3.1426 0,-1.327 -0.89114,-2.3497 -2.0566,-2.7969 C 17.40248,11.9032 16.3531,11 15,11 Z m 0,2 c 0.57908,0 1.0932,0.41268 1.2949,1.0449 l 0.19141,0.59961 0.62305,0.08594 c 0.46769,0.06518 0.89062,0.50872 0.89062,1.127 0,0.67906 -0.47447,1.1426 -1,1.1426 h -4 c -0.52553,0 -1,-0.46352 -1,-1.1426 0,-0.61823 0.42294,-1.0618 0.89062,-1.127 l 0.61719,-0.08594 0.19531,-0.59375 C 13.91332,13.40801 14.4209,12.99996 15,12.99996 Z M 11.834,5.334 C 8.058,5.334 5,8.4093 5,12.168 c -2e-7,3.2236 2.257,5.9371 5.2695,6.6484 C 9.57854,18.1143 9.1344,17.1635 9.0664,16.1348 7.8157,15.26401 7,13.817 7,12.168 7,10.5714 7.80694,9.2318 8.9863,8.3535 8.63031,9.16194 8.33182,10.008 8.33396,10.918 c 0,1.2832 0.3878,2.4713 1.0449,3.4688 0.29919,-0.6501 0.78401,-1.1924 1.3633,-1.6055 -0.26134,-0.56531 -0.4082,-1.1961 -0.4082,-1.8633 V 10.9141 C 10.32994,9.4 11.0978,7.9922 12.37306,7.1758 13.213,6.63679 12.83201,5.3351 11.834,5.334 Z"
+     style="fill:currentColor;fill-opacity:1;stroke-width:2;-inkscape-stroke:none"
+     class="ColorScheme-Text"
+     id="path3728" />
+</svg>

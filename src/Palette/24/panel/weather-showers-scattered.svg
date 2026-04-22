@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="weather-showers-scattered.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="34.625"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
+  <path
+     d="m 14.5,12 -1.75,1.75 C 12.3,14.2 12,14.81 12,15.5 c 0,1.37 1.13,2.5 2.5,2.5 1.37,0 2.5,-1.13 2.5,-2.5 0,-0.69 -0.3,-1.3 -0.75,-1.75 z m -5,2 -1.75,1.75 C 7.3,16.2 7,16.81 7,17.5 7,18.87 8.13,20 9.5,20 10.87,20 12,18.87 12,17.5 12,16.81 11.7,16.2 11.25,15.75 Z"
+     style="fill:currentColor;fill-opacity:1"
+     class="ColorScheme-Text"
+     id="path4730" />
+  <path
+     d="m 12.554706,4.00004 c -2.0961,0.0034 -3.8046,1.2776 -4.7988,3 L 7.6895,7.078165 7.5352,7.123087 C 5.5205,7.537877 4,9.318287 4,11.476587 c 0,1.8122 1.0545,3.4149 2.584,4.1289 0.13602,-0.20441 0.29009,-0.39361 0.45898,-0.5625 l 1.0586,-1.0586 c -1.1696,-0.13524 -2.1016,-1.1852 -2.1016,-2.5078 0,-1.3542 0.99177,-2.4161 2.1973,-2.5039 L 8.90822,8.921906 9.209,8.269566 v -0.00195 c 0.6204,-1.3579 1.877,-2.2662 3.3516,-2.2676 h 0.0039 c 1.998,0.0014 3.6325,1.6653 3.7285,3.8125 v 0.015625 l 0.05664,0.75195 0.67774,0.28906 c 0.5896,0.25166 0.97265,0.83437 0.97265,1.4941 0,0.52386 -0.22266,0.97716 -0.56445,1.2734 0.34549,0.53075 0.56445,1.1671 0.56445,1.8633 0,0.04631 -0.0021,0.09278 -0.0039,0.13867 1.1902,-0.59398 2.0039,-1.8565 2.0039,-3.2754 0,-1.2388 -0.71478,-2.2929 -1.7344,-2.9531 L 18.20314,9.35934 18.16017,9.1777 C 17.76477,6.3059 15.47647,4.002 12.56057,4 Z"
+     style="fill:currentColor;fill-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke"
+     class="ColorScheme-Text"
+     id="path4935" />
+</svg>

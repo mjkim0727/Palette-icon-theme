@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="weather-clear-night.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="34.625"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 11.833984,5.3339844 C 8.0579844,5.3339844 5,8.4092688 5,12.167969 4.9999997,15.930069 8.0718844,19 11.833984,19 c 1.91,0 3.634932,-0.88086 4.894532,-2.21875 a 1.0001,1.0001 0 0 0 -0.97461,-1.654297 c -0.47715,0.12159 -0.749926,0.207031 -1.003906,0.207031 -2.4511,0 -4.416016,-1.964915 -4.416016,-4.416015 a 1.0001,1.0001 0 0 0 0,-0.0039 c -0.004,-1.5141002 0.763843,-2.9218815 2.039063,-3.7382815 A 1.0001,1.0001 0 0 0 11.833984,5.3339844 Z M 8.9863281,8.3535156 c -0.35599,0.80844 -0.6544837,1.6544534 -0.6523437,2.5644534 0,2.7112 1.7120096,5.008912 4.0996096,5.945312 C 12.229364,16.893441 12.044064,17 11.833984,17 9.1527844,17 7,14.849169 7,12.167969 7,10.571369 7.8069381,9.2318156 8.9863281,8.3535156 Z" />
+</svg>

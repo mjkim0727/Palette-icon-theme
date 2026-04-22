@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="weather-storm.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="37.772727"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
+  <path
+     d="m 11.554706,3.00001 c -2.0961,0.0034 -3.8046,1.2776 -4.7988,3 L 6.6895,6.078135 6.5352,6.123057 C 4.5205,6.537847 3,8.318257 3,10.476557 c 0,2.4525 1.9306,4.5234 4.3574,4.5234 H 8 v -2 H 7.3574 c -1.2868,0 -2.3555,-1.1055 -2.3555,-2.5234 0,-1.3542 0.99177,-2.4161 2.1973,-2.5039 L 7.90818,7.921876 8.21091,7.269536 v -0.00195 c 0.6204,-1.3579 1.875,-2.2662 3.3496,-2.2676 h 0.0039 c 1.998,0.0014 3.6325,1.6653 3.7285,3.8125 v 0.015625 l 0.05664,0.75195 0.67774,0.28906 c 0.5896,0.25166 0.97461,0.83437 0.97461,1.4941 -4e-6,0.9265 -0.69663,1.6367 -1.5195,1.6367 H 14.7 l -1.2,2 h 1.98239 c 1.9632,0 3.5176,-1.6723 3.5176,-3.6367 0,-1.2388 -0.71478,-2.2929 -1.7344,-2.9531 L 17.20504,8.35934 17.16207,8.1777 C 16.76667,5.3059 14.47837,3.002 11.56247,3 Z"
+     style="fill:currentColor;fill-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke"
+     class="ColorScheme-Text"
+     id="path6583" />
+  <path
+     id="path2"
+     style="fill:currentColor"
+     d="m 9,10.00001 h 4.5 l -1.5,4 h 1 l -3,5 v -4 H 9 Z"
+     class="ColorScheme-NeutralText warning" />
+</svg>
