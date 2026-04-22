@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="lucide-smile-plus-symbolic.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="34.625"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }</style>
+  </defs>
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="m 12,4 c -4.418278,0 -8,3.581722 -8,8 0,4.418278 3.581722,8 8,8 0.33866,0 0.672406,-0.02165 1,-0.0625 V 17.917969 C 12.674792,17.972528 12.340712,18 12,18 8.6862915,18 6,15.313708 6,12 6,8.6862915 8.6862915,6 12,6 c 3.313708,0 6,2.6862915 6,6 0,0.340712 -0.02747,0.674792 -0.08203,1 H 19.9375 C 19.978422,12.672406 20,12.33866 20,12 20,7.581722 16.418278,4 12,4 Z M 9,9 c -0.55,0 -1,0.45 -1,1 0,0.55 0.45,1 1,1 0.56,0 1,-0.45 1,-1 C 10,9.45 9.56,9 9,9 Z m 6,0 c -0.55,0 -1,0.45 -1,1 0,0.55 0.45,1 1,1 0.56,0 1,-0.45 1,-1 0,-0.55 -0.44,-1 -1,-1 z m -7,5 c 0.94,1.26 2.43,2 4,2 0.339725,0 0.674431,-0.03337 1,-0.09961 V 15 14 Z m 8,0 v 2 h -2 v 2 h 2 v 2 h 2 v -2 h 2 v -2 h -2 v -2 z" />
+</svg>

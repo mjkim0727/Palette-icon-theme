@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="camera-switch-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="34.625"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
+  <path
+     id="path298"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="m 12,10 c -1.107998,0 -2,0.892002 -2,2 v 3 c 0,1.107998 0.892002,2 2,2 h 3 c 1.107998,0 2,-0.892002 2,-2 V 14.794922 L 19.353516,15.9375 C 19.640714,16.11488 20.00021,15.891559 20,15.537109 V 11.460938 C 20.000287,11.201548 19.799309,10.99274 19.556641,11 c -0.07157,0.0022 -0.141185,0.02414 -0.203125,0.0625 L 17,12.205078 V 12 c 0,-1.107998 -0.892002,-2 -2,-2 z m 0,2 h 3 v 3 h -3 z" />
+  <path
+     id="path585"
+     style="opacity:0.35;fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 9,6 C 7.8920031,6 7,6.8920033 7,8 V 8.2050781 L 4.6464844,7.0625 C 4.5845444,7.024137 4.5149293,7.00222 4.4433594,7 4.2006916,6.99274 3.999713,7.2015484 4,7.4609375 v 4.0761715 c -2.1e-4,0.35445 0.3592867,0.577771 0.6464844,0.400391 L 7,10.794922 V 11 c 0,1.107997 0.8920031,2 2,2 V 8 h 3 v 1 h 2 V 8 C 14,6.8920033 13.107997,6 12,6 Z" />
+</svg>

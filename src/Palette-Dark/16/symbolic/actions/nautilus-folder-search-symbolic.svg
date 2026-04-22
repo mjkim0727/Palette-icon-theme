@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="nautilus-folder-search-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="51.9375"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
+  <path
+     id="path1494"
+     style="fill:currentColor;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="M 3 1 C 1.8954327 1 1 1.8954327 1 3 L 1 12 A 2 2 0 0 0 3 14 L 8.3007812 14 A 4 4 0 0 1 7.0742188 12 L 3 12 L 3 5 L 13 5 L 13 7.5683594 A 4 4 0 0 1 14.947266 11 L 15 11 L 15 5 C 15 3.8954327 14.104567 3 13 3 L 9 3 L 7 1 L 3 1 z M 10.947266 8 C 10.893186 8.00094 10.839414 8.0039225 10.785156 8.0078125 C 10.065697 8.0595705 9.3889213 8.3688227 8.8789062 8.8789062 C 7.7076287 10.050426 7.7076287 11.949573 8.8789062 13.121094 C 9.9143862 14.152952 11.542816 14.288244 12.734375 13.441406 L 14.888672 15.595703 L 15.595703 14.888672 L 13.445312 12.738281 C 14.293354 11.545023 14.15633 9.9139568 13.121094 8.8789062 C 12.544148 8.301913 11.758478 7.9859004 10.947266 8 z M 11.044922 9 C 11.556291 9.01182 12.048405 9.2203314 12.414062 9.5859375 C 13.194893 10.366948 13.194893 11.633052 12.414062 12.414062 C 11.633052 13.194894 10.366947 13.194894 9.5859375 12.414062 C 8.8051075 11.633052 8.8051075 10.366948 9.5859375 9.5859375 C 9.9185075 9.2534098 10.357658 9.0487103 10.826172 9.0078125 C 10.899762 9.0013925 10.971869 8.99831 11.044922 9 z " />
+</svg>
