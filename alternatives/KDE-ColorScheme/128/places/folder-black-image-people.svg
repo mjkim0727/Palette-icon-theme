@@ -41,7 +41,7 @@
      id="path2595" />
   <path
      d="m 16,16 c -4.431996,0 -8,3.568004 -8,8 0.0517,26.613305 0,53.27653 0,80 0,4.432 3.568004,8 8,8 h 96 c 4.432,0 8,-3.568 8,-8 V 36 c 0,-4.431996 -3.568,-8 -8,-8 H 64 l -4,-6 c -2.45843,-3.687643 -3.568005,-6 -8,-6 z"
-     style="fill:#3a3a3a;fill-opacity:1;stroke-width:8;stroke-linecap:square"
+     style="fill:#222222;fill-opacity:1;stroke-width:8;stroke-linecap:square"
      id="path2567" />
   <path
      id="path2855"
@@ -64,7 +64,7 @@
      y="36"
      ry="6" />
   <rect
-     style="opacity:1;fill:#4f4f4f;fill-opacity:1;stroke-width:8;stroke-linecap:square"
+     style="opacity:1;fill:#333333;fill-opacity:1;stroke-width:8;stroke-linecap:square"
      id="rect2727"
      width="112"
      height="64"

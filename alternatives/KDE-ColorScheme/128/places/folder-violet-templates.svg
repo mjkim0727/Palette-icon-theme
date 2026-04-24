@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
-   sodipodi:docname="folder-purple-templates.svg"
+   sodipodi:docname="folder-violet-templates.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -41,7 +41,7 @@
      id="path2595" />
   <path
      d="m 16,16 c -4.431996,0 -8,3.568004 -8,8 0.0517,26.613306 0,53.276528 0,80 0,4.432 3.568004,8 8,8 h 96 c 4.432,0 8,-3.568 8,-8 V 36 c 0,-4.431996 -3.568,-8 -8,-8 H 64 l -4,-6 c -2.458428,-3.687643 -3.568004,-6 -8,-6 z"
-     style="fill:#503188;fill-opacity:1;stroke-width:8;stroke-linecap:square"
+     style="fill:#65307b;fill-opacity:1;stroke-width:8;stroke-linecap:square"
      id="path2567" />
   <path
      id="path2855"
@@ -64,7 +64,7 @@
      y="36"
      ry="6" />
   <rect
-     style="opacity:1;fill:#7e57c2;fill-opacity:1;stroke-width:8;stroke-linecap:square"
+     style="opacity:1;fill:#8e44ad;fill-opacity:1;stroke-width:8;stroke-linecap:square"
      id="rect2727"
      width="112"
      height="64"
