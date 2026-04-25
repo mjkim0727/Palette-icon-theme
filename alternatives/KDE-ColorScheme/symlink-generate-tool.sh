@@ -88,4 +88,12 @@ ln -s folder-yellow-open.svg folder-yellow-music-open.svg;
 ln -s folder-yellow-open.svg folder-yellow-pictures-open.svg;
 ln -s folder-yellow-open.svg folder-yellow-videos-open.svg;
 ln -s folder-yellow-open.svg user-yellow-home-open.svg;
+ln -s folder-open.svg folder-download-open.svg;
+ln -s folder-open.svg folder-downloads-open.svg;
+ln -s folder-open.svg folder-documents-open.svg;
+ln -s folder-open.svg folder-templates-open.svg;
+ln -s folder-open.svg folder-music-open.svg;
+ln -s folder-open.svg folder-pictures-open.svg;
+ln -s folder-open.svg folder-videos-open.svg;
+ln -s folder-open.svg user-home-open.svg;
 
