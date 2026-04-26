@@ -26,6 +26,7 @@ Material Design icon theme
 
 * Adwaita
 * Gruvbox
+* KDE Folders
 * Nord (WIP)
 
 ## To-Dos
