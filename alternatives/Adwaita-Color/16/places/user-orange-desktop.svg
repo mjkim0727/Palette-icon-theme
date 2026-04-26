@@ -45,6 +45,6 @@
      ry="1.5" />
   <path
      id="rect1357"
-     style="opacity:0.4;fill:#000000;fill-opacity:1;stroke-width:2;stroke-linecap:square"
+     style="opacity:1;fill:#e66100;fill-opacity:1;stroke-width:2;stroke-linecap:square"
      d="m 1,11.000001 v 1.5 C 1,13.330999 1.6690008,14 2.5,14 h 11 c 0.830999,0 1.5,-0.669001 1.5,-1.499999 v -1.5 z" />
 </svg>
