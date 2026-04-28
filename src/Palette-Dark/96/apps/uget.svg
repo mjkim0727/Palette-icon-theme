@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="96"
+   height="96"
+   viewBox="0 0 96 96"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="uget.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="8.40625"
+     inkscape:cx="47.94052"
+     inkscape:cy="48"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:6;stroke-linecap:square"
+     id="rect234"
+     width="84"
+     height="84"
+     x="6"
+     y="7"
+     ry="18" />
+  <rect
+     style="fill:#4d4d4d;fill-opacity:1;stroke-width:6;stroke-linecap:square"
+     id="rect396"
+     width="84"
+     height="84"
+     x="6"
+     y="6"
+     ry="18" />
+  <path
+     id="path1040"
+     style="opacity:0.1;fill:#ffffff;stroke-width:6;stroke-linecap:square"
+     d="M 24 6 C 14.02801 6 6 14.028011 6 24 L 6 25 C 6 15.02801 14.02801 7 24 7 L 72 7 C 81.971988 7 90 15.02801 90 25 L 90 24 C 90 14.028011 81.971988 6 72 6 L 24 6 z " />
+  <path
+     style="opacity:0.2;fill:#000000;stroke-width:3"
+     d="M 78,43 H 63 v 9 h 9 L 55.5,71.5 40.5,52 H 48 V 31 h 15 v 6 H 78 V 31 C 78,31 78,19 66.75,19 H 44.25 C 44.25,19 33,19 33,31.75 V 34 55 H 27 V 34 H 18 V 56.5 C 18,64 25.5,64 25.5,64 H 33 v 3.75 C 33,79 44.25,79 44.25,79 h 22.5 C 78,79 78,67.75 78,67.75"
+     id="path2" />
+  <path
+     style="fill:#72a637;stroke-width:3;fill-opacity:1"
+     d="M 78,42 H 63 v 9 h 9 L 55.5,70.5 40.5,51 H 48 V 30 h 15 v 6 H 78 V 30 C 78,30 78,18 66.75,18 H 44.25 C 44.25,18 33,18 33,30.75 V 33 54 H 27 V 33 H 18 V 55.5 C 18,63 25.5,63 25.5,63 H 33 v 3.75 C 33,78 44.25,78 44.25,78 h 22.5 C 78,78 78,66.75 78,66.75"
+     id="path3" />
+</svg>
