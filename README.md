@@ -29,6 +29,10 @@ Material Design icon theme
 * KDE Folders
 * Nord (WIP)
 
+## Additional Variant
+
+* Adwaita Colors - Add-ons for GNOME
+
 ## To-Dos
 
 - [x] Experimental Dark Mode icon Support
