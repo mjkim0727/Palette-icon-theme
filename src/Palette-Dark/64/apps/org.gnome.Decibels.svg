@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="org.gnome.Decibels.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="12.625"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:4;stroke-linecap:square"
+     id="rect234"
+     width="56"
+     height="56"
+     x="4"
+     y="5"
+     ry="12" />
+  <rect
+     style="fill:#4d4d4d;fill-opacity:1;stroke-width:4;stroke-linecap:square"
+     id="rect396"
+     width="56"
+     height="56"
+     x="4"
+     y="4"
+     ry="12" />
+  <path
+     id="path1040"
+     style="opacity:0.1;fill:#ffffff;stroke-width:4;stroke-linecap:square"
+     d="M 16,4 C 9.3520066,4 4,9.352007 4,16 v 1 C 4,10.352007 9.3520066,5 16,5 h 32 c 6.647992,0 12,5.352007 12,12 V 16 C 60,9.352007 54.647992,4 48,4 Z" />
+  <circle
+     cx="15"
+     cy="33"
+     r="2"
+     style="opacity:0.1;stroke-width:2"
+     id="circle10" />
+  <circle
+     cx="15"
+     cy="32"
+     r="2"
+     style="fill:#f75952;stroke-width:2"
+     id="circle11" />
+  <circle
+     cx="43"
+     cy="33"
+     r="2"
+     style="opacity:0.1;stroke-width:2"
+     id="circle12" />
+  <circle
+     cx="50"
+     cy="33"
+     r="2"
+     style="opacity:0.1;stroke-width:2"
+     id="circle13" />
+  <circle
+     cx="43"
+     cy="32"
+     r="2"
+     style="fill:#966ecb;stroke-width:2"
+     id="circle14" />
+  <circle
+     cx="50"
+     cy="32"
+     r="2"
+     style="fill:#7975f1;stroke-width:2"
+     id="circle15" />
+  <path
+     d="M 29,21 V 45"
+     style="opacity:0.1;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     id="path15" />
+  <path
+     d="m 22,31 v 4"
+     style="opacity:0.1;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     id="path16" />
+  <path
+     d="m 36,29 v 8"
+     style="opacity:0.1;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     id="path17" />
+  <path
+     d="m 22,30 v 4"
+     style="fill:none;stroke:#d86079;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     id="path18" />
+  <path
+     d="M 29,20 V 44"
+     style="fill:none;stroke:#c26493;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     id="path19" />
+  <path
+     d="m 36,28 v 8"
+     style="fill:none;stroke:#ac68ae;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     id="path20" />
+</svg>
