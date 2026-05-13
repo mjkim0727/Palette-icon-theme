@@ -7,7 +7,7 @@
    viewBox="0 0 22 22"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    sodipodi:docname="folder-red.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,11 +24,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="37.727273"
-     inkscape:cx="10.986747"
-     inkscape:cy="11"
-     inkscape:window-width="1920"
-     inkscape:window-height="1008"
+     inkscape:zoom="25.5"
+     inkscape:cx="11"
+     inkscape:cy="10.980392"
+     inkscape:window-width="1440"
+     inkscape:window-height="831"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -41,7 +41,7 @@
      d="M 2.5,3.5 A 1.5,1.5 0 0 0 1,5 v 14 a 1.5,1.5 0 0 0 1.5,1.5 h 17 A 1.5,1.5 0 0 0 21,19 V 8 A 1.5,1.5 0 0 0 19.5,6.5 h -8 L 10.5,5 C 9.885394,4.0780908 9.607997,3.5 8.5,3.5 Z" />
   <path
      id="path2052"
-     style="fill:#a51d2d;fill-opacity:1;stroke-width:4;stroke-linecap:square"
+     style="fill:#bf2334;fill-opacity:1;stroke-width:4;stroke-linecap:square"
      d="M 2.5,3 A 1.5,1.5 0 0 0 1,4.5 v 14 A 1.5,1.5 0 0 0 2.5,20 h 17 A 1.5,1.5 0 0 0 21,18.5 V 7.5 A 1.5,1.5 0 0 0 19.5,6 h -8 l -1,-1.5 C 9.885394,3.5780908 9.607997,3 8.5,3 Z" />
   <path
      id="path447"
@@ -64,7 +64,7 @@
      y="7"
      ry="1" />
   <rect
-     style="opacity:1;fill:#f66151;fill-opacity:1;stroke-width:4;stroke-linecap:square"
+     style="opacity:1;fill:#f99a90;fill-opacity:1;stroke-width:4;stroke-linecap:square"
      id="rect2072"
      width="20"
      height="11"

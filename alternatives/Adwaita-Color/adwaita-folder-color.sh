@@ -27,8 +27,12 @@ sed -i 's/opacity:0.5;stroke-width:4;stroke-linecap:square;fill:#000000/opacity:
 sed -i 's/opacity:0.4;fill:#000000/opacity:1;fill:#b2306d/g' user-pink-desktop.svg;
 sed -i 's/#7e57c2/#c061cb/g' *-purple*.svg;
 sed -i 's/#503188/#613583/g' *-purple*.svg;
-sed -i 's/#9a2623/#a51d2d/g' *-red*.svg;
-sed -i 's/#ef5350/#f66151/g' *-red*.svg;
+sed -i 's/#9a2623/#bf2334/g' *-red*.svg;
+sed -i 's/#ef5350/#f99a90/g' *-red*.svg;
+sed -i 's/opacity:0.5;fill:#000000/opacity:1;fill:#e01b24/g' *-red*.svg;
+sed -i 's/fill:#000000;opacity:0.5/opacity:1;fill:#e01b24/g' *-red*.svg;
+sed -i 's/opacity:0.5;stroke-width:4;stroke-linecap:square;fill:#000000/opacity:1;stroke-width:4;stroke-linecap:square;fill:#e01b24/g' folder-red-documents.svg;
+sed -i 's/opacity:0.4;fill:#000000/opacity:1;fill:#e01b24/g' user-red-desktop.svg;
 sed -i 's/#c28c04/#e5a50a/g' *-yellow*.svg;
 sed -i 's/#fbc02d/#f8e45c/g' *-yellow*.svg;
 sed -i 's/opacity:0.5;fill:#000000/opacity:1;fill:#e5a50a/g' *-yellow*.svg;

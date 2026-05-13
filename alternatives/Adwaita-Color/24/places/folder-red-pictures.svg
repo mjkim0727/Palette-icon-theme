@@ -41,7 +41,7 @@
      d="M 3.5 4.5 A 1.5 1.5 0 0 0 2 6 L 2 20 A 1.5 1.5 0 0 0 3.5 21.5 L 20.5 21.5 A 1.5 1.5 0 0 0 22 20 L 22 9 A 1.5 1.5 0 0 0 20.5 7.5 L 12.5 7.5 L 11.5 6 C 10.885394 5.0780908 10.607997 4.5 9.5 4.5 L 3.5 4.5 z " />
   <path
      id="path2052"
-     style="fill:#a51d2d;fill-opacity:1;stroke-width:4;stroke-linecap:square"
+     style="fill:#bf2334;fill-opacity:1;stroke-width:4;stroke-linecap:square"
      d="M 3.5,4 C 2.6715729,4 2,4.6715729 2,5.5 v 14 C 2,20.328427 2.6715729,21 3.5,21 h 17 C 21.328427,21 22,20.328427 22,19.5 V 8.5 C 22,7.6715729 21.328427,7 20.5,7 h -8 l -1,-1.5 C 10.885394,4.5780908 10.607997,4 9.5,4 Z" />
   <path
      id="path447"
@@ -64,7 +64,7 @@
      y="8"
      ry="1" />
   <rect
-     style="opacity:1;fill:#f66151;fill-opacity:1;stroke-width:4;stroke-linecap:square"
+     style="opacity:1;fill:#f99a90;fill-opacity:1;stroke-width:4;stroke-linecap:square"
      id="rect2072"
      width="20"
      height="11"
@@ -73,6 +73,6 @@
      ry="1.5" />
   <path
      id="rect851"
-     style="opacity:0.5;fill:#000000;stroke-width:2;stroke-linecap:square"
+     style="opacity:1;fill:#e01b24;stroke-width:2;stroke-linecap:square"
      d="m 9,13 c -0.5539995,0 -1,0.446001 -1,1 v 4 c 0,0.553999 0.4460005,1 1,1 h 6 c 0.553999,0 1,-0.446001 1,-1 v -4 c 0,-0.553999 -0.446001,-1 -1,-1 z m 1.5,2 1.5,2 1.5,-1.219726 L 15,17 v 1 H 9 v -1.5 z" />
 </svg>

@@ -41,7 +41,7 @@
      id="path2595" />
   <path
      d="m 12.000224,12 c -3.3239878,0 -5.9999831,2.675996 -5.9999831,5.999983 0.038775,19.959922 0,39.957281 0,59.999828 0,3.323987 2.6759953,5.999983 5.9999831,5.999983 H 84.000018 C 87.324005,83.999794 90,81.323798 90,77.999811 V 26.999957 C 90,23.67597 87.324005,20.999974 84.000018,20.999974 H 48.000121 L 45.000129,16.499987 C 43.156314,13.734263 42.324134,12 39.000147,12 Z"
-     style="fill:#a51d2d;fill-opacity:1;stroke-width:5.99998;stroke-linecap:square"
+     style="fill:#bf2334;fill-opacity:1;stroke-width:5.99998;stroke-linecap:square"
      id="path2567" />
   <path
      id="path2855"
@@ -64,7 +64,7 @@
      y="26.999956"
      ry="4.4999871" />
   <rect
-     style="opacity:1;fill:#f66151;fill-opacity:1;stroke-width:5.99998;stroke-linecap:square"
+     style="opacity:1;fill:#f99a90;fill-opacity:1;stroke-width:5.99998;stroke-linecap:square"
      id="rect2727"
      width="83.999756"
      height="47.999863"
@@ -73,6 +73,6 @@
      ry="5.9999828" />
   <path
      id="path290"
-     style="opacity:0.5;fill:#000000;stroke-width:9.99999;stroke-linecap:square"
+     style="opacity:1;fill:#e01b24;stroke-width:9.99999;stroke-linecap:square"
      d="m 48.000119,44.999859 c -8.284271,0 -15,6.71573 -15,15 0,8.28427 6.715729,15 15,15 8.28427,0 15,-6.71573 15,-15 0,-8.28427 -6.71573,-15 -15,-15 z m 0,3 c 6.627417,0 12,5.372583 12,12 0,6.627417 -5.372583,12 -12,12 -6.627417,0 -12,-5.372583 -12,-12 0,-6.627417 5.372583,-12 12,-12 z M 46,52 v 10.000002 h 10 v -3 H 49 V 52 Z" />
 </svg>

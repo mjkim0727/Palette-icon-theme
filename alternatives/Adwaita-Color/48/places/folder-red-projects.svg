@@ -24,11 +24,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="10.020833"
+     inkscape:zoom="11.6875"
      inkscape:cx="24"
-     inkscape:cy="23.950104"
+     inkscape:cy="23.957219"
      inkscape:window-width="1440"
-     inkscape:window-height="833"
+     inkscape:window-height="831"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -41,7 +41,7 @@
      d="M 7,8 C 5.3431458,8 4,9.3431458 4,11 v 28 c 0,1.656854 1.3431458,3 3,3 h 34 c 1.656854,0 3,-1.343146 3,-3 V 16 c 0,-1.656854 -1.343146,-3 -3,-3 H 24 L 22,10 C 20.770788,8.156182 20.215994,8 18,8 Z" />
   <path
      id="path2052"
-     style="fill:#a51d2d;fill-opacity:1;stroke-width:8;stroke-linecap:square"
+     style="fill:#bf2334;fill-opacity:1;stroke-width:8;stroke-linecap:square"
      d="M 7,7 C 5.3431458,7 4,8.3431458 4,10 v 28 c 0,1.656854 1.3431458,3 3,3 h 34 c 1.656854,0 3,-1.343146 3,-3 V 15 c 0,-1.656854 -1.343146,-3 -3,-3 H 24 L 22,9 C 20.770788,7.1561818 20.215994,7 18,7 Z" />
   <path
      id="path3024"
@@ -64,7 +64,7 @@
      y="14"
      ry="1.5" />
   <rect
-     style="opacity:1;fill:#f66151;fill-opacity:1;stroke-width:8;stroke-linecap:square"
+     style="opacity:1;fill:#f99a90;fill-opacity:1;stroke-width:8;stroke-linecap:square"
      id="rect2072"
      width="40"
      height="24"
@@ -72,7 +72,7 @@
      y="17"
      ry="3" />
   <path
-     style="fill:#000000;stroke-width:2;opacity:0.5"
+     style="fill:#e01b24;stroke-width:2;opacity:1;fill-opacity:1"
      d="m 28,21 c -1.2,0.424 -2,1.554 -2,2.824 0,1.304 0.838,2.404 2,2.816 V 29 c 0.912,0.608 1.562,1.39 2,2.176 V 26.64 c 1.162,-0.412 2,-1.512 2,-2.816 0,-1.27 -0.8,-2.4 -2,-2.824 v 2 c 0,0.554 -0.446,1 -1,1 -0.554,0 -1,-0.446 -1,-1 z m -4,8 c -6,0 -6,6 -6,6 h -2 v 2 h 16 v -2 h -2 c 0,0 0,-6 -6,-6 z m 0,2 c 4,0 4,4 4,4 h -8 c 0,0 0,-4 4,-4 z"
      id="path5" />
 </svg>

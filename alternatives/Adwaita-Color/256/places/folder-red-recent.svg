@@ -41,7 +41,7 @@
      id="path2595" />
   <path
      d="m 32,32 c -8.863992,0 -16,7.136008 -16,16 0.1034,53.22661 0,106.55306 0,160 0,8.864 7.136008,16 16,16 h 192 c 8.864,0 16,-7.136 16,-16 V 72 c 0,-8.863992 -7.136,-16 -16,-16 h -96 l -8,-12 c -4.91686,-7.375286 -7.13601,-12 -16,-12 z"
-     style="fill:#a51d2d;fill-opacity:1;stroke-width:16;stroke-linecap:square"
+     style="fill:#bf2334;fill-opacity:1;stroke-width:16;stroke-linecap:square"
      id="path2567" />
   <path
      id="path2855"
@@ -64,7 +64,7 @@
      y="72"
      ry="12" />
   <rect
-     style="opacity:1;fill:#f66151;fill-opacity:1;stroke-width:16;stroke-linecap:square"
+     style="opacity:1;fill:#f99a90;fill-opacity:1;stroke-width:16;stroke-linecap:square"
      id="rect2727"
      width="224"
      height="128"
@@ -73,6 +73,6 @@
      ry="16" />
   <path
      id="path290"
-     style="opacity:0.5;fill:#000000;stroke-width:26.6666;stroke-linecap:square"
+     style="opacity:1;fill:#e01b24;stroke-width:26.6666;stroke-linecap:square"
      d="m 128,119.99999 c -22.09139,0 -40,17.90861 -40,40 C 88,182.09138 105.90861,200 128,200 c 22.09139,0 40,-17.90862 40,-40.00001 0,-22.09139 -17.90861,-40 -40,-40 z m 0,8 c 17.67311,0 32,14.32689 32,32 C 160,177.6731 145.67311,192 128,192 c -17.67311,0 -32,-14.3269 -32,-32.00001 0,-17.67311 14.32689,-32 32,-32 z m -4,8 V 164 h 28 v -8 h -20 v -20.00001 z" />
 </svg>
