@@ -41,7 +41,7 @@
      d="M 3.5 4.5 A 1.5 1.5 0 0 0 2 6 L 2 20 A 1.5 1.5 0 0 0 3.5 21.5 L 20.5 21.5 A 1.5 1.5 0 0 0 22 20 L 22 9 A 1.5 1.5 0 0 0 20.5 7.5 L 12.5 7.5 L 11.5 6 C 10.885394 5.0780908 10.607997 4.5 9.5 4.5 L 3.5 4.5 z " />
   <path
      id="path2052"
-     style="fill:#613583;fill-opacity:1;stroke-width:4;stroke-linecap:square"
+     style="fill:#893092;fill-opacity:1;stroke-width:4;stroke-linecap:square"
      d="M 3.5 4 A 1.5 1.5 0 0 0 2 5.5 L 2 19.5 A 1.5 1.5 0 0 0 3.5 21 L 20.5 21 A 1.5 1.5 0 0 0 22 19.5 L 22 8.5 A 1.5 1.5 0 0 0 20.5 7 L 12.5 7 L 11.5 5.5 C 10.885394 4.5780908 10.607997 4 9.5 4 L 3.5 4 z " />
   <path
      id="path447"
@@ -56,7 +56,7 @@
      y="10.5"
      ry="1.5" />
   <rect
-     style="opacity:1;fill:#c061cb;fill-opacity:1;stroke-width:4;stroke-linecap:square"
+     style="opacity:1;fill:#dda7e1;fill-opacity:1;stroke-width:4;stroke-linecap:square"
      id="rect2072"
      width="20"
      height="10"

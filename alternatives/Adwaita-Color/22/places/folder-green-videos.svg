@@ -64,7 +64,7 @@
      y="7"
      ry="1" />
   <rect
-     style="opacity:1;fill:#33d17a;fill-opacity:1;stroke-width:4;stroke-linecap:square"
+     style="opacity:1;fill:#89e6b2;fill-opacity:1;stroke-width:4;stroke-linecap:square"
      id="rect2072"
      width="20"
      height="11"
@@ -73,6 +73,6 @@
      ry="1.5" />
   <path
      d="m 7.7499998,12 c -0.416,0 -0.7500001,0.335 -0.7500001,0.75 v 3.5 c 0,0.416 0.3340001,0.75 0.7500001,0.75 H 12.25 C 12.666,17 13,16.666 13,16.25 V 14.5 12.75 C 13,12.335 12.666,12 12.25,12 Z M 13,14.5 15,16 v -3 z"
-     style="opacity:0.5;fill:#000000"
+     style="opacity:1;fill:#2bbb79"
      id="path308" />
 </svg>

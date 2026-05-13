@@ -41,7 +41,7 @@
      d="M 7,8 C 5.3431458,8 4,9.3431458 4,11 v 28 c 0,1.656854 1.3431458,3 3,3 h 34 c 1.656854,0 3,-1.343146 3,-3 V 16 c 0,-1.656854 -1.343146,-3 -3,-3 H 24 L 22,10 C 20.770788,8.156182 20.215994,8 18,8 Z" />
   <path
      id="path2052"
-     style="fill:#613583;fill-opacity:1;stroke-width:8;stroke-linecap:square"
+     style="fill:#893092;fill-opacity:1;stroke-width:8;stroke-linecap:square"
      d="M 7,7 C 5.3431458,7 4,8.3431458 4,10 v 28 c 0,1.656854 1.3431458,3 3,3 h 34 c 1.656854,0 3,-1.343146 3,-3 V 15 c 0,-1.656854 -1.343146,-3 -3,-3 H 24 L 22,9 C 20.770788,7.1561818 20.215994,7 18,7 Z" />
   <path
      id="path3024"
@@ -56,7 +56,7 @@
      y="17"
      ry="3" />
   <rect
-     style="opacity:1;fill:#c061cb;fill-opacity:1;stroke-width:8;stroke-linecap:square"
+     style="opacity:1;fill:#dda7e1;fill-opacity:1;stroke-width:8;stroke-linecap:square"
      id="rect2072"
      width="40"
      height="23"
