@@ -64,7 +64,7 @@
      y="36"
      ry="6" />
   <rect
-     style="opacity:1;fill:#52bfd3;fill-opacity:1;stroke-width:8;stroke-linecap:square"
+     style="opacity:1;fill:#89d2e1;fill-opacity:1;stroke-width:8;stroke-linecap:square"
      id="rect2727"
      width="112"
      height="64"
@@ -73,6 +73,6 @@
      ry="8" />
   <path
      d="m 74.082029,59.999918 c -1.321776,-0.03668 -2.511728,0.796292 -2.929688,2.050782 l -3.152344,9.45703 -3.152344,-9.45703 c -0.969896,-2.91069 -5.16677,-2.661314 -5.785156,0.34375 l -4.601562,22.355468 -2.585938,-8.613282 c -0.381382,-1.26894 -1.549986,-2.137456 -2.875,-2.136718 h -9 v 6 h 6.769532 L 52.124997,97.8632 c 0.895626,2.98485 5.184658,2.79461 5.8125,-0.257814 l 4.746094,-23.058594 2.46875,7.402344 c 0.909306,2.74066 4.786006,2.74066 5.695312,0 l 2.867188,-8.597656 3.390624,12.4375 c 0.355964,1.305324 1.541542,2.210908 2.894532,2.210938 h 8 v -6 H 82.292965 L 76.894529,62.210856 c -0.34755,-1.276434 -1.490096,-2.174602 -2.8125,-2.210938 z"
-     style="color:#000000;opacity:0.5;fill:#000000;stroke:none;stroke-width:2;stroke-linejoin:round;-inkscape-stroke:none"
+     style="color:#000000;opacity:1;fill:#2190a4;stroke:none;stroke-width:2;stroke-linejoin:round;-inkscape-stroke:none"
      id="path1124" />
 </svg>

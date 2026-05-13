@@ -7,7 +7,7 @@
    viewBox="0 0 22 22"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    sodipodi:docname="folder-cyan-music.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,11 +24,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="37.727273"
-     inkscape:cx="11.026506"
-     inkscape:cy="11"
-     inkscape:window-width="1920"
-     inkscape:window-height="1008"
+     inkscape:zoom="25.5"
+     inkscape:cx="11"
+     inkscape:cy="10.980392"
+     inkscape:window-width="1440"
+     inkscape:window-height="831"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -64,7 +64,7 @@
      y="7"
      ry="1" />
   <rect
-     style="opacity:1;fill:#52bfd3;fill-opacity:1;stroke-width:4;stroke-linecap:square"
+     style="opacity:1;fill:#89d2e1;fill-opacity:1;stroke-width:4;stroke-linecap:square"
      id="rect2072"
      width="20"
      height="11"
@@ -73,6 +73,6 @@
      ry="1.5" />
   <path
      id="path290"
-     style="opacity:0.5;fill:#000000;stroke-width:3;stroke-linecap:square"
+     style="opacity:1;fill:#2190a4;stroke-width:3;stroke-linecap:square;fill-opacity:1"
      d="m 9,11 v 4.085941 c -0.1605781,-0.05683 -0.3296627,-0.08589 -0.5,-0.08594 -0.8284271,0 -1.5,0.671573 -1.5,1.5 0,0.828427 0.6715729,1.5 1.5,1.5 0.8284271,0 1.5,-0.671573 1.5,-1.5 v -3.619144 h 3 v 2.205082 c -0.160578,-0.05683 -0.329663,-0.08589 -0.5,-0.08594 -0.828427,0 -1.5,0.671573 -1.5,1.5 0,0.828427 0.671573,1.5 1.5,1.5 0.828427,0 1.5,-0.671573 1.5,-1.5 V 11 Z" />
 </svg>
