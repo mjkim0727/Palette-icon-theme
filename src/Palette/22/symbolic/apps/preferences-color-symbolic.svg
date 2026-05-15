@@ -43,6 +43,7 @@
      transform="translate(3,3)">
     <path
        style="fill-opacity:0.35"
+       fill-opacity="0.35"
        d="M 8,12 A 4,4 0 0 1 4,16 4,4 0 0 1 0,12 4,4 0 0 1 4,8 4,4 0 0 1 8,12 Z"
        id="path1" />
     <path
@@ -50,6 +51,7 @@
        id="path2" />
     <path
        style="fill-opacity:0.35"
+       fill-opacity="0.35"
        d="M 8,12 A 4,4 0 0 1 4,16 4,4 0 0 1 0,12 4,4 0 0 1 4,8 4,4 0 0 1 8,12 Z"
        id="path3" />
     <path
