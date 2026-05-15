@@ -7,7 +7,7 @@
    viewBox="0 0 64 64"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    sodipodi:docname="preferences-system-network-share-windows.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,10 +25,10 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="12.59375"
-     inkscape:cx="31.960298"
-     inkscape:cy="32"
+     inkscape:cx="32.039702"
+     inkscape:cy="31.960298"
      inkscape:window-width="1920"
-     inkscape:window-height="1008"
+     inkscape:window-height="1020"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -44,7 +44,7 @@
      y="5"
      ry="12" />
   <rect
-     style="fill:#36a9e9;stroke-width:4;stroke-linecap:square;fill-opacity:1"
+     style="fill:#4d4d4d;stroke-width:4;stroke-linecap:square;fill-opacity:1"
      id="rect396"
      width="56"
      height="56"
@@ -61,6 +61,6 @@
      id="path425" />
   <path
      d="M 16,4.0000002 C 9.3520066,4.0000002 4,9.352007 4,16 v 1 C 4,10.352007 9.3520066,5 16,5 h 32 c 6.647993,0 12,5.352007 12,12 V 16 C 60,9.352007 54.647993,4.0000002 48,4.0000002 Z"
-     style="opacity:0.2;fill:#ffffff;stroke-width:4;stroke-linecap:square"
+     style="opacity:0.1;fill:#ffffff;stroke-width:4;stroke-linecap:square"
      id="path1040" />
 </svg>
