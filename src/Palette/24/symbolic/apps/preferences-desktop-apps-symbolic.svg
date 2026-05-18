@@ -7,7 +7,7 @@
    viewBox="0 0 24 24"
    version="1.1"
    id="svg5"
-   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    sodipodi:docname="preferences-desktop-apps-symbolic.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,11 +24,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="24.166667"
-     inkscape:cx="11.97931"
+     inkscape:zoom="33.25"
+     inkscape:cx="11.984962"
      inkscape:cy="12"
-     inkscape:window-width="1440"
-     inkscape:window-height="828"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -43,7 +43,8 @@
   </defs>
   <path
      id="path296"
-     style="fill-opacity:0.35;fill:currentColor;fill-opacity:1"
+     style="fill:currentColor;fill-opacity:0.35"
+     fill-opacity="0.35"
      class="ColorScheme-Text"
      d="m 5,13 c -0.5539994,0 -1,0.446001 -1,1 v 5 c 0,0.553999 0.4460006,1 1,1 h 5 c 0.553999,0 1,-0.446001 1,-1 v -5 c 0,-0.553999 -0.446001,-1 -1,-1 z m 9,-9 c -0.553999,0 -1,0.4460006 -1,1 v 5 c 0,0.553999 0.446001,1 1,1 h 5 c 0.553999,0 1,-0.446001 1,-1 V 5 C 20,4.4460006 19.553999,4 19,4 Z M 6,15 h 3 v 3 H 6 Z m 9,-9 h 3 v 3 h -3 z m -1,7 c -0.553999,0 -1,0.446001 -1,1 v 5 c 0,0.553999 0.446001,1 1,1 h 5 c 0.553999,0 1,-0.446001 1,-1 v -5 c 0,-0.553999 -0.446001,-1 -1,-1 z m 1,2 h 3 v 3 h -3 z" />
   <path
