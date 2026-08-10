@@ -25,8 +25,8 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="50.6875"
-     inkscape:cx="7.9901356"
-     inkscape:cy="8"
+     inkscape:cx="8"
+     inkscape:cy="7.9802713"
      inkscape:window-width="1920"
      inkscape:window-height="1014"
      inkscape:window-x="0"
@@ -36,7 +36,7 @@
   <defs
      id="defs2" />
   <rect
-     style="fill:#dfdfdf;fill-opacity:1;stroke-width:1.14286;stroke-linecap:square"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-width:1.14286;stroke-linecap:square"
      id="rect396"
      width="16"
      height="16"
@@ -67,7 +67,7 @@
      sodipodi:nodetypes="ccsccscccsccscccsccscccsccsc" />
   <path
      id="rect639"
-     style="fill:#ffffff;stroke-linecap:square;opacity:0.2"
+     style="fill:#ffffff;stroke-linecap:square;opacity:0.1"
      d="M 4 0 C 1.7840022 0 0 1.7840022 0 4 L 0 5 C 0 2.7840022 1.7840022 1 4 1 L 12 1 C 14.215998 1 16 2.7840022 16 5 L 16 4 C 16 1.7840022 14.215998 0 12 0 L 4 0 z " />
   <g
      id="g11"
@@ -95,7 +95,7 @@
        r="4.5"
        id="circle5" />
     <path
-       style="fill:#4f4f4f"
+       style="fill:#dfdfdf;fill-opacity:1"
        d="m 8,1 c 2.8,0 5,2.2 5,5 0,2.8 -2.2,5 -5,5 C 5.2,11 3,8.8 3,6 3,3.2 5.2,1 8,1 Z M 8,2 C 5.8,2 4,3.8 4,6 4,8.2 5.8,10 8,10 10.2,10 12,8.2 12,6 12,3.8 10.2,2 8,2 Z"
        id="path6" />
     <path

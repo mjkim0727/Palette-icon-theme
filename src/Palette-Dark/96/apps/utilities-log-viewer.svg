@@ -44,7 +44,7 @@
      y="7"
      ry="18" />
   <rect
-     style="fill:#dfdfdf;fill-opacity:1;stroke-width:6;stroke-linecap:square"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-width:6;stroke-linecap:square"
      id="rect396"
      width="84"
      height="84"
@@ -53,7 +53,7 @@
      ry="18" />
   <path
      id="path1040"
-     style="opacity:0.2;fill:#ffffff;stroke-width:6;stroke-linecap:square"
+     style="opacity:0.1;fill:#ffffff;stroke-width:6;stroke-linecap:square"
      d="M 24 6 C 14.02801 6 6 14.028011 6 24 L 6 25 C 6 15.02801 14.02801 7 24 7 L 72 7 C 81.971988 7 90 15.02801 90 25 L 90 24 C 90 14.028011 81.971988 6 72 6 L 24 6 z " />
   <path
      id="path2"
@@ -102,7 +102,7 @@
      d="M 45,16 C 60,16 72,28 72,43 72,58 60,70 45,70 30,70 18,58 18,43 18,28 30,16 45,16 Z m 0,6 C 33.3,22 24,31.3 24,43 24,54.7 33.3,64 45,64 56.7,64 66,54.7 66,43 66,31.3 56.7,22 45,22 Z"
      id="path12" />
   <path
-     style="fill:#4f4f4f;stroke-width:3"
+     style="fill:#dfdfdf;stroke-width:3;fill-opacity:1"
      d="M 45,15 C 60,15 72,27 72,42 72,57 60,69 45,69 30,69 18,57 18,42 18,27 30,15 45,15 Z m 0,6 C 33.3,21 24,30.3 24,42 24,53.7 33.3,63 45,63 56.7,63 66,53.7 66,42 66,30.3 56.7,21 45,21 Z"
      id="path13" />
 </svg>
