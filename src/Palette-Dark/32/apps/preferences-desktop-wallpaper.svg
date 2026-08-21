@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
-   sodipodi:docname="preferences-sound.svg"
+   sodipodi:docname="preferences-desktop-wallpaper.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="22.4375"
-     inkscape:cx="16"
-     inkscape:cy="15.977716"
+     inkscape:zoom="25"
+     inkscape:cx="15.96"
+     inkscape:cy="15.98"
      inkscape:window-width="1920"
      inkscape:window-height="1014"
      inkscape:window-x="0"
@@ -52,17 +52,20 @@
      y="2"
      ry="6" />
   <path
-     d="m 15,9 -5,5 H 6 v 6 h 4 l 5,5 z m 3,0 v 2 c 2.85668,0.380972 4.99939,2.95222 5,6 -6.1e-4,3.04778 -2.14332,5.619028 -5,6 v 2 c 3.99935,-0.507962 6.99914,-3.936297 7,-8 -8.6e-4,-4.063703 -3.00065,-7.492038 -7,-8 z m 0,4 v 8 c 1.71401,-0.253982 2.99963,-1.968149 3,-4 -3.7e-4,-2.031851 -1.28599,-3.746018 -3,-4 z"
-     style="opacity:0.2;fill:#000000;stroke-width:2.00811;stroke-linecap:round;stroke-linejoin:round"
-     id="path1058"
-     sodipodi:nodetypes="cccccccccccccccccc" />
+     d="M 18,2.0000001 21,11 30,14 V 8.0000001 c 0,-3.324 -2.676,-6 -6,-6 z"
+     style="fill:#2196f3;fill-opacity:1;stroke-width:1.5"
+     id="path1" />
   <path
-     d="m 15,8 -5,5 H 6 v 6 h 4 l 5,5 z m 3,0 v 2 c 2.85668,0.380972 4.99939,2.95222 5,6 -6.1e-4,3.04778 -2.14332,5.619028 -5,6 v 2 c 3.99935,-0.507962 6.99914,-3.936297 7,-8 -8.6e-4,-4.063703 -3.00065,-7.492038 -7,-8 z m 0,4 v 8 c 1.71401,-0.253982 2.99963,-1.968149 3,-4 -3.7e-4,-2.031851 -1.28599,-3.746018 -3,-4 z"
-     style="fill:#bdbdbd;fill-opacity:1;stroke-width:2.00811;stroke-linecap:round;stroke-linejoin:round"
-     id="path1086"
-     sodipodi:nodetypes="cccccccccccccccccc" />
+     id="path1-6"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:1.5"
+     d="M 18 3.5 L 18 9 C 18 12.32399 20.676009 15 24 15 L 30 15 L 30 14 L 18 3.5 z " />
   <path
-     id="path1040"
+     d="M 30,14 18,2.0000001 v 6 C 18,11.324 20.676,14 24,14 Z"
+     style="fill:#e4e4e4;fill-opacity:1;stroke-width:1.5"
+     id="path3" />
+  <path
+     d="M 8,2.0000001 C 4.6760033,2.0000001 2,4.6760035 2,8 V 9 C 2,5.6760035 4.6760033,3 8,3 h 16 c 3.323996,0 6,2.6760035 6,6 V 8 C 30,4.6760035 27.323996,2.0000001 24,2.0000001 Z"
      style="opacity:0.1;fill:#ffffff;stroke-width:2;stroke-linecap:square"
-     d="M 8,2 C 4.6760066,2 2,4.6760068 2,8 V 9 C 2,5.6760035 4.6760033,3 8,3 h 16 c 3.323997,0 6,2.6760035 6,6 V 8 C 30,4.6760068 27.323993,2 24,2 Z" />
+     id="path1040"
+     sodipodi:nodetypes="sscsscsss" />
 </svg>

@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
-   sodipodi:docname="preferences-sound.svg"
+   sodipodi:docname="preferences-desktop-wallpaper.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="2.8046875"
-     inkscape:cx="128"
-     inkscape:cy="127.82173"
+     inkscape:zoom="3.1679688"
+     inkscape:cx="127.84217"
+     inkscape:cy="128"
      inkscape:window-width="1920"
      inkscape:window-height="1014"
      inkscape:window-x="0"
@@ -52,16 +52,19 @@
      y="16"
      ry="48" />
   <path
-     d="M 124,66 84,106 H 52 v 48 h 32 l 40,40 z m 24,0 v 16 c 22.85344,3.04776 39.99512,23.61776 40,48 -0.004,24.38224 -17.14656,44.95224 -40,48 v 16 c 31.9948,-4.06368 55.99312,-31.49036 56,-64 -0.008,-32.50964 -24.0052,-59.93632 -56,-64 z m 0,32 v 64 c 13.71208,-2.03184 23.99704,-15.7452 24,-32 -0.003,-16.2548 -10.28792,-29.96816 -24,-32 z"
-     style="opacity:0.2;fill:#000000;stroke-width:16.0649;stroke-linecap:round;stroke-linejoin:round"
-     id="path1142" />
+     d="m 144,16 24,72 72,24 V 64 C 240,37.408 218.592,16 192,16 Z"
+     style="fill:#2196f3;fill-opacity:1;stroke-width:12"
+     id="path1" />
   <path
-     d="M 124,64 84,104 H 52 v 48 h 32 l 40,40 z m 24,0 v 16 c 22.85344,3.04776 39.99512,23.61776 40,48 -0.004,24.38224 -17.14656,44.95224 -40,48 v 16 c 31.9948,-4.06372 55.99312,-31.49036 56,-64 -0.008,-32.50964 -24.0052,-59.93632 -56,-64 z m 0,32 v 64 c 13.71208,-2.03184 23.99704,-15.7452 24,-32 -0.003,-16.2548 -10.28792,-29.96816 -24,-32 z"
-     style="fill:#bdbdbd;fill-opacity:1;stroke-width:16.0649;stroke-linecap:round;stroke-linejoin:round"
-     id="path1114"
-     sodipodi:nodetypes="cccccccccccccccccc" />
+     id="path1-6"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:12"
+     d="m 144,22 v 44 c 0,26.591896 21.4081,48 48,48 h 48 v -2 z" />
+  <path
+     d="M 240,112 144,16 v 48 c 0,26.592 21.408,48 48,48 z"
+     style="fill:#e4e4e4;fill-opacity:1;stroke-width:12"
+     id="path3" />
   <path
      id="path1040"
      style="opacity:0.1;fill:#ffffff;stroke-width:16;stroke-linecap:square"
-     d="M 64,16 C 37.408078,16 16,37.408082 16,64 v 2 C 16,39.408054 37.408054,18 64,18 h 128 c 26.59196,0 48,21.408054 48,48 V 64 C 240,37.408082 218.59192,16 192,16 Z" />
+     d="M 64,16 C 37.408052,16 16,37.408056 16,64 v 2 C 16,39.408056 37.408052,18 64,18 h 128 c 26.59194,0 48,21.408056 48,48 V 64 C 240,37.408056 218.59194,16 192,16 Z" />
 </svg>

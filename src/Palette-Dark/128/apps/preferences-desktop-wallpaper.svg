@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
-   sodipodi:docname="preferences-sound.svg"
+   sodipodi:docname="preferences-desktop-wallpaper.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -52,16 +52,19 @@
      y="8"
      ry="24" />
   <path
-     d="M 62,33 42,53 H 26 v 24 h 16 l 20,20 z m 12,0 v 8 c 11.42672,1.52388 19.99756,11.80888 20,24 -0.002,12.19112 -8.57328,22.47612 -20,24 v 8 C 89.9974,94.96816 101.99656,81.25482 102,65 101.996,48.74518 89.9974,35.03184 74,33 Z m 0,16 V 81 C 80.85604,79.98408 85.99852,73.1274 86,65 85.9985,56.8726 80.85604,50.01592 74,49 Z"
-     style="opacity:0.2;fill:#000000;stroke-width:8.03245;stroke-linecap:round;stroke-linejoin:round"
-     id="path1142" />
+     d="M 72,8.0000004 84,44 120,56 V 32 C 120,18.704 109.296,8.0000004 96,8.0000004 Z"
+     style="fill:#2196f3;fill-opacity:1;stroke-width:6"
+     id="path1" />
   <path
-     d="M 62,32 42,52 H 26 v 24 h 16 l 20,20 z m 12,0 v 8 c 11.42672,1.52388 19.99756,11.80888 20,24 -0.002,12.19112 -8.57328,22.47612 -20,24 v 8 C 89.9974,93.96814 101.99656,80.25482 102,64 101.996,47.74518 89.9974,34.03184 74,32 Z m 0,16 V 80 C 80.85604,78.98408 85.99852,72.1274 86,64 85.9985,55.8726 80.85604,49.01592 74,48 Z"
-     style="fill:#bdbdbd;fill-opacity:1;stroke-width:8.03245;stroke-linecap:round;stroke-linejoin:round"
-     id="path1114"
-     sodipodi:nodetypes="cccccccccccccccccc" />
+     id="path1-6"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:6"
+     d="m 72,11 v 22 c 0,13.295948 10.704048,24 24,24 h 24 v -1 z" />
+  <path
+     d="M 120,56 72,8.0000004 V 32 c 0,13.296 10.704,24 24,24 z"
+     style="fill:#e4e4e4;fill-opacity:1;stroke-width:6"
+     id="path3" />
   <path
      id="path1040"
      style="opacity:0.1;fill:#ffffff;stroke-width:8;stroke-linecap:square"
-     d="M 32,8 C 18.704039,8 8,18.704041 8,32 v 1 C 8,19.704027 18.704027,9 32,9 h 64 c 13.29598,0 24,10.704027 24,24 V 32 C 120,18.704041 109.29596,8 96,8 Z" />
+     d="M 32,8 C 18.704026,8 8,18.704028 8,32 v 1 C 8,19.704028 18.704026,9 32,9 h 64 c 13.29597,0 24,10.704028 24,24 V 32 C 120,18.704028 109.29597,8 96,8 Z" />
 </svg>

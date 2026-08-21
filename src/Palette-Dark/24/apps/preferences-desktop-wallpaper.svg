@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
-   sodipodi:docname="preferences-sound.svg"
+   sodipodi:docname="preferences-desktop-wallpaper.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="29.916667"
-     inkscape:cx="12"
-     inkscape:cy="11.983287"
+     inkscape:zoom="33.791667"
+     inkscape:cx="11.985203"
+     inkscape:cy="12"
      inkscape:window-width="1920"
      inkscape:window-height="1014"
      inkscape:window-x="0"
@@ -52,17 +52,19 @@
      y="2"
      ry="4.5" />
   <path
-     d="m 12,5.5 -4,4 H 5 v 6 h 3 l 4,4 z m 2,0 V 7 c 2.32,0.74 4,2.93 4,5.5 0,2.57 -1.68,4.76 -4,5.5 v 1.5 c 3.15,-0.78 5.5,-3.6 5.5,-7 0,-3.4 -2.35,-6.22 -5.5,-7 z m 0,4 v 6 c 1.06,-0.58 1.789,-1.7 1.789,-3 0,-1.3 -0.719,-2.42 -1.789,-3 z"
-     style="color:#444444;opacity:0.2;fill:#000000"
-     id="path2118"
-     sodipodi:nodetypes="cccccccccsccscccsc" />
+     id="path1"
+     style="fill:#2196f3;fill-opacity:1"
+     d="m 12,2 2,8 8,2 V 6.5 C 22,4.0070025 19.992998,2 17.5,2 Z" />
   <path
-     d="M 12,5 8,9 H 5 v 6 h 3 l 4,4 z m 2,0 v 1.5 c 2.32,0.74 4,2.93 4,5.5 0,2.57 -1.68,4.76 -4,5.5 V 19 c 3.15,-0.78 5.5,-3.6 5.5,-7 0,-3.4 -2.35,-6.22 -5.5,-7 z m 0,4 v 6 c 1.06,-0.58 1.789,-1.7 1.789,-3 0,-1.3 -0.719,-2.42 -1.789,-3 z"
-     style="color:#444444;fill:#bdbdbd;fill-opacity:1"
-     id="path2146"
-     sodipodi:nodetypes="cccccccccsccscccsc" />
+     id="path2"
+     style="opacity:0.2;fill:#000000;fill-opacity:1"
+     d="M 12,2.5 V 8 c 0,2.492998 2.007002,4.5 4.5,4.5 H 22 V 12 Z" />
+  <path
+     id="path3"
+     style="fill:#e4e4e4;fill-opacity:1"
+     d="m 12,2 v 5.5 c 0,2.4929975 2.007002,4.5 4.5,4.5 H 22 Z" />
   <path
      id="path1040"
      style="opacity:0.1;fill:#ffffff;stroke-width:4;stroke-linecap:square"
-     d="M 6.5,2 C 4.0070049,2 2,4.0070048 2,6.5 V 7 C 2,4.5070048 4.0070049,2.5 6.5,2.5 h 11 C 19.992996,2.5 22,4.5070048 22,7 V 6.5 C 22,4.0070048 19.992996,2 17.5,2 Z" />
+     d="M 6.5,2 C 4.007005,2 2,4.007005 2,6.5 V 7 C 2,4.507005 4.007005,2.5 6.5,2.5 h 11 C 19.992996,2.5 22,4.507005 22,7 V 6.5 C 22,4.007005 19.992996,2 17.5,2 Z" />
 </svg>
