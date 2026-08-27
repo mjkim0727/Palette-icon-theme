@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1"
+   id="svg5"
+   sodipodi:docname="changes-prevent.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="36.863636"
+     inkscape:cx="11.013564"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <path
+     style="fill:#d2d2d2"
+     d="M 11,1 C 7.676,1 5,3.676 5,7 V 9 H 7 V 7 c 0,-2.216 1.784,-4 4,-4 2.216,0 4,1.784 4,4 v 2 h 2 V 7 C 17,3.676 14.324,1 11,1 Z"
+     id="path1" />
+  <rect
+     style="fill:#ffb437"
+     width="16"
+     height="12"
+     x="3"
+     y="9"
+     rx="1"
+     ry="1"
+     id="rect1" />
+  <path
+     style="opacity:0.2;fill:#ffffff"
+     d="M 11,1 C 7.676,1 5,3.676 5,7 v 0.5 c 0,-3.324 2.676,-6 6,-6 3.324,0 6,2.676 6,6 V 7 C 17,3.676 14.324,1 11,1 Z"
+     id="path2" />
+  <path
+     style="opacity:0.2;fill:#ffffff"
+     d="M 4,9 C 3.446,9 3,9.446 3,10 v 0.5 c 0,-0.554 0.446,-1 1,-1 h 14 c 0.554,0 1,0.446 1,1 V 10 C 19,9.446 18.554,9 18,9 Z"
+     id="path3" />
+  <path
+     style="opacity:0.2"
+     d="M 11,3 C 8.784,3 7,4.784 7,7 v 0.5 c 0,-2.216 1.784,-4 4,-4 2.216,0 4,1.784 4,4 V 7 C 15,4.784 13.216,3 11,3 Z"
+     id="path4" />
+  <rect
+     style="fill:#fed96a"
+     width="16"
+     height="7"
+     x="3"
+     y="11"
+     rx="0"
+     ry="0"
+     id="rect4" />
+  <path
+     style="opacity:0.2"
+     d="m 3,20 v 0.5 c 0,0.554 0.446,1 1,1 h 14 c 0.554,0 1,-0.446 1,-1 V 20 c 0,0.554 -0.446,1 -1,1 H 4 C 3.446,21 3,20.554 3,20 Z"
+     id="path5" />
+</svg>
